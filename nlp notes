@@ -1,0 +1,33 @@
+find categories
+
+perhaps individual entities
+
+classifier over text, 
+
+    take words + small window
+    take other samples rnaomly
+    
+    
+    bayesian classifier?
+    
+    are certain categories harder to predict than others?
+    
+    look for word substitutions
+
+narrative classification document
+
+look for entailment over a few categories?
+
+SPAM tester?
+
+bag of words features?
+topic classification?
+
+look at requirements that say what the user wants.
+
+look at diffs of paragraphs over time, maybe important?
+
+
+====== DIST
+
+look for tie breaking in messages
