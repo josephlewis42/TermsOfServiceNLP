@@ -1,0 +1,50 @@
+Nickelodian
+
+do not track signals and similar mechanisms  some web browsers may
+transmit  do not track  signals to the websites with which the browser
+communicates  because of differences in how web browsers incorporate
+and activate this feature  it is not always clear whether users intend
+for these signals to be transmitted  or whether they even are aware of
+them  there currently is disagreement  including among participants in
+the leading internet standards setting organization  concerning what
+if anything  websites should do when they receive such signals
+
+
+groupon
+
+we  or our vendors on our behalf  may share your personal information
+as required or permitted by law      with any groupon affiliate who
+may only use the personal information for the purposes described in
+this privacy statement    with our vendors to provide services for us
+and who are required to protect the personal information    to report
+or collect on debts owed to us or our business partners
+
+sharing a page:
+by proceeding through any of the above steps  you grant groupon
+permission to access all of the elements of your social network
+profile information that you have made available to be shared and to
+use it in accordance with the social network s terms of use and this
+privacy statement
+
+
+dashlane.com, isn't this good enough to get *everything*?
+this data is is completely anonymized
+except for gender  birth year and zip code  and cannot in any way be
+linked to your individual personal information
+
+
+adotas.com
+we use cookies to anonymously track traffic through our site. your web
+browser also provides information such as your ip address  browser
+version and language. all of this is anonymous.
+
+
+
+RIAA - had to look up
+
+Some information other than personally identifiable information may automatically be collected as you browse our site. Our web server automatically collects information known as 'clickstream data,' such as, but not limited to, the domain name of the service providing you with Internet access, the Internet protocol (IP) address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our site, pages viewed, information searched for, access times and other relevant statistics. We also use cookies on our site. Cookies are pieces of information that a web site transfers to the hard drive of a visitor's computer for record-keeping purposes.
+
+
+
+
+

@@ -1,0 +1,430 @@
+1500 docs
+
+================================================================================
+a - Anonynimity
+
+
+Positives: 52
+Negatives: 1423
+Most Informative Features
+     containsword(adobe) = True                a : not a  =     64.9 : 1.0
+containsword(impersonate) = True                a : not a  =     64.9 : 1.0
+containsword(identifier) = True                a : not a  =     64.9 : 1.0
+    containsword(player) = True                a : not a  =     64.9 : 1.0
+ containsword(anonymous) = True                a : not a  =     47.5 : 1.0
+containsword(statistics) = True                a : not a  =     46.4 : 1.0
+      containsword(came) = True                a : not a  =     46.4 : 1.0
+  containsword(approved) = True                a : not a  =     46.4 : 1.0
+      containsword(base) = True                a : not a  =     46.4 : 1.0
+containsword(clickstream) = True                a : not a  =     46.4 : 1.0
+    containsword(convey) = True                a : not a  =     46.4 : 1.0
+       containsword(isp) = True                a : not a  =     46.4 : 1.0
+     containsword(cable) = True                a : not a  =     46.4 : 1.0
+ containsword(efficient) = True                a : not a  =     46.4 : 1.0
+ containsword(movements) = True                a : not a  =     46.4 : 1.0
+  containsword(uniquely) = True                a : not a  =     46.4 : 1.0
+containsword(containing) = True                a : not a  =     46.4 : 1.0
+     containsword(image) = True                a : not a  =     46.4 : 1.0
+containsword(authorization) = True                a : not a  =     46.4 : 1.0
+containsword(navigation) = True                a : not a  =     39.0 : 1.0
+
+================================================================================
+c - Data Copyright
+
+
+Positives: 26
+Negatives: 1449
+Most Informative Features
+containsword(derivative) = True                c : not c  =    265.2 : 1.0
+ containsword(worldwide) = True                c : not c  =    183.6 : 1.0
+containsword(sublicense) = True                c : not c  =    102.0 : 1.0
+    containsword(derive) = True                c : not c  =    102.0 : 1.0
+ containsword(reproduce) = True                c : not c  =     85.7 : 1.0
+containsword(non-exclusive) = True                c : not c  =     78.7 : 1.0
+     containsword(works) = True                c : not c  =     72.3 : 1.0
+containsword(compensation) = True                c : not c  =     61.2 : 1.0
+ containsword(infringes) = True                c : not c  =     61.2 : 1.0
+containsword(trademarks) = True                c : not c  =     61.2 : 1.0
+   containsword(acquire) = True                c : not c  =     61.2 : 1.0
+       containsword(pdf) = True                c : not c  =     61.2 : 1.0
+containsword(restriction) = True                c : not c  =     61.2 : 1.0
+containsword(acknowledgment) = True                c : not c  =     61.2 : 1.0
+   containsword(formats) = True                c : not c  =     61.2 : 1.0
+     containsword(force) = True                c : not c  =     61.2 : 1.0
+ containsword(translate) = True                c : not c  =     61.2 : 1.0
+    containsword(exists) = True                c : not c  =     61.2 : 1.0
+     containsword(marks) = True                c : not c  =     61.2 : 1.0
+containsword(copyrighted) = True                c : not c  =     61.2 : 1.0
+
+================================================================================
+d - Definitions
+
+
+Positives: 75
+Negatives: 1400
+Most Informative Features
+  containsword(referred) = True                d : not d  =     51.6 : 1.0
+containsword(collectively) = True                d : not d  =     42.4 : 1.0
+     containsword(music) = True                d : not d  =     40.1 : 1.0
+     containsword(audio) = True                d : not d  =     40.1 : 1.0
+  containsword(explains) = True                d : not d  =     40.1 : 1.0
+    containsword(images) = True                d : not d  =     36.8 : 1.0
+containsword(photographs) = True                d : not d  =     30.9 : 1.0
+containsword(incorporated) = True                d : not d  =     30.9 : 1.0
+    containsword(single) = True                d : not d  =     28.6 : 1.0
+       containsword(pii) = True                d : not d  =     28.6 : 1.0
+  containsword(judgment) = True                d : not d  =     28.6 : 1.0
+containsword(considered) = True                d : not d  =     24.1 : 1.0
+  containsword(together) = True                d : not d  =     21.0 : 1.0
+containsword(distributors) = True                d : not d  =     17.2 : 1.0
+     containsword(sound) = True                d : not d  =     17.2 : 1.0
+containsword(correction) = True                d : not d  =     17.2 : 1.0
+     containsword(often) = True                d : not d  =     17.2 : 1.0
+   containsword(welcome) = True                d : not d  =     17.2 : 1.0
+    containsword(locate) = True                d : not d  =     17.2 : 1.0
+   containsword(thereto) = True                d : not d  =     17.2 : 1.0
+
+================================================================================
+i - Personal Information
+
+
+Positives: 249
+Negatives: 1226
+Most Informative Features
+  containsword(reported) = True                i : not i  =     17.6 : 1.0
+  containsword(shipping) = True                i : not i  =     17.6 : 1.0
+     containsword(login) = True                i : not i  =     17.6 : 1.0
+ containsword(platforms) = True                i : not i  =     17.6 : 1.0
+     containsword(asked) = True                i : not i  =     16.3 : 1.0
+       containsword(zip) = True                i : not i  =     12.5 : 1.0
+   containsword(combine) = True                i : not i  =     12.5 : 1.0
+containsword(information) = False           not i : i      =     11.7 : 1.0
+       containsword(win) = True                i : not i  =     11.2 : 1.0
+      containsword(came) = True                i : not i  =     11.2 : 1.0
+    containsword(signed) = True                i : not i  =     11.2 : 1.0
+      containsword(self) = True                i : not i  =     11.2 : 1.0
+  containsword(activate) = True                i : not i  =     11.2 : 1.0
+containsword(environment) = True                i : not i  =     11.2 : 1.0
+containsword(identifier) = True                i : not i  =     11.2 : 1.0
+containsword(reservations) = True                i : not i  =     11.2 : 1.0
+  containsword(navigate) = True                i : not i  =     11.2 : 1.0
+containsword(monitoring) = True                i : not i  =     11.2 : 1.0
+    containsword(survey) = True                i : not i  =     10.5 : 1.0
+  containsword(motorola) = True                i : not i  =     10.4 : 1.0
+
+================================================================================
+h - Heading
+
+
+Positives: 53
+Negatives: 1422
+Most Informative Features
+containsword(compromise) = True                h : not h  =     29.3 : 1.0
+containsword(appropriately) = True                h : not h  =     17.6 : 1.0
+      containsword(logs) = True                h : not h  =     17.6 : 1.0
+  containsword(november) = True                h : not h  =     17.6 : 1.0
+        containsword(gt) = True                h : not h  =     12.6 : 1.0
+ containsword(revisions) = True                h : not h  =     12.6 : 1.0
+     containsword(sends) = True                h : not h  =     12.6 : 1.0
+       containsword(may) = True            not h : h      =     11.0 : 1.0
+        containsword(in) = True            not h : h      =     10.9 : 1.0
+         containsword(?) = True                h : not h  =     10.7 : 1.0
+      containsword(that) = True            not h : h      =      9.9 : 1.0
+  containsword(external) = True                h : not h  =      9.8 : 1.0
+         containsword(a) = True            not h : h      =      9.3 : 1.0
+      containsword(with) = True            not h : h      =      8.8 : 1.0
+  containsword(pchslots) = True                h : not h  =      8.5 : 1.0
+        containsword(by) = True            not h : h      =      8.2 : 1.0
+      containsword(urls) = True                h : not h  =      8.0 : 1.0
+    containsword(clicks) = True                h : not h  =      8.0 : 1.0
+ containsword(pchcasino) = True                h : not h  =      8.0 : 1.0
+containsword(pchblackjack) = True                h : not h  =      8.0 : 1.0
+
+================================================================================
+j - Jurisdiction
+
+
+Positives: 25
+Negatives: 1450
+Most Informative Features
+   containsword(america) = True                j : not j  =    102.0 : 1.0
+    containsword(giving) = True                j : not j  =    102.0 : 1.0
+containsword(exclusively) = True                j : not j  =    102.0 : 1.0
+    containsword(courts) = True                j : not j  =    102.0 : 1.0
+         containsword(u) = True                j : not j  =    102.0 : 1.0
+containsword(jurisdiction) = True                j : not j  =     74.8 : 1.0
+     containsword(arise) = True                j : not j  =     61.2 : 1.0
+       containsword(map) = True                j : not j  =     61.2 : 1.0
+   containsword(statute) = True                j : not j  =     61.2 : 1.0
+        containsword(uk) = True                j : not j  =     61.2 : 1.0
+   containsword(foreign) = True                j : not j  =     61.2 : 1.0
+    containsword(points) = True                j : not j  =     61.2 : 1.0
+  containsword(resolved) = True                j : not j  =     61.2 : 1.0
+ containsword(competent) = True                j : not j  =     61.2 : 1.0
+    containsword(dating) = True                j : not j  =     61.2 : 1.0
+     containsword(women) = True                j : not j  =     61.2 : 1.0
+        containsword(83) = True                j : not j  =     61.2 : 1.0
+ containsword(conflicts) = True                j : not j  =     61.2 : 1.0
+       containsword(eea) = True                j : not j  =     61.2 : 1.0
+containsword(corporation) = True                j : not j  =     61.2 : 1.0
+
+================================================================================
+m - Hold Harmless
+
+
+Positives: 84
+Negatives: 1391
+Most Informative Features
+      containsword(loss) = True                m : not m  =    111.6 : 1.0
+   containsword(implied) = True                m : not m  =    107.1 : 1.0
+containsword(warranties) = True                m : not m  =     84.5 : 1.0
+      containsword(risk) = True                m : not m  =     84.5 : 1.0
+ containsword(guarantee) = True                m : not m  =     73.3 : 1.0
+   containsword(failure) = True                m : not m  =     64.3 : 1.0
+   containsword(neither) = True                m : not m  =     62.0 : 1.0
+  containsword(reliance) = True                m : not m  =     62.0 : 1.0
+  containsword(accuracy) = True                m : not m  =     57.5 : 1.0
+    containsword(liable) = True                m : not m  =     50.7 : 1.0
+  containsword(warranty) = True                m : not m  =     50.7 : 1.0
+   containsword(defects) = True                m : not m  =     50.7 : 1.0
+containsword(incidental) = True                m : not m  =     50.7 : 1.0
+    containsword(delays) = True                m : not m  =     50.7 : 1.0
+  containsword(limiting) = True                m : not m  =     50.7 : 1.0
+    containsword(damage) = True                m : not m  =     44.0 : 1.0
+containsword(jurisdictions) = True                m : not m  =     39.5 : 1.0
+  containsword(incurred) = True                m : not m  =     39.5 : 1.0
+containsword(representations) = True                m : not m  =     39.5 : 1.0
+   containsword(harmful) = True                m : not m  =     39.5 : 1.0
+
+================================================================================
+l - Law Enforcement
+
+
+Positives: 36
+Negatives: 1439
+Most Informative Features
+containsword(enforcement) = True                l : not l  =    170.8 : 1.0
+ containsword(suspected) = True                l : not l  =    111.4 : 1.0
+containsword(investigate) = True                l : not l  =     86.6 : 1.0
+  containsword(preserve) = True                l : not l  =     86.6 : 1.0
+     containsword(faith) = True                l : not l  =     69.0 : 1.0
+     containsword(taxes) = True                l : not l  =     61.9 : 1.0
+  containsword(judicial) = True                l : not l  =     61.9 : 1.0
+   containsword(pending) = True                l : not l  =     61.9 : 1.0
+containsword(governmental) = True                l : not l  =     61.9 : 1.0
+      containsword(good) = True                l : not l  =     53.6 : 1.0
+    containsword(served) = True                l : not l  =     52.0 : 1.0
+containsword(prevention) = True                l : not l  =     37.1 : 1.0
+    containsword(safety) = True                l : not l  =     37.1 : 1.0
+containsword(preventing) = True                l : not l  =     37.1 : 1.0
+   containsword(jointly) = True                l : not l  =     37.1 : 1.0
+    containsword(checks) = True                l : not l  =     37.1 : 1.0
+    containsword(belief) = True                l : not l  =     37.1 : 1.0
+ containsword(financing) = True                l : not l  =     37.1 : 1.0
+containsword(prosecution) = True                l : not l  =     37.1 : 1.0
+    containsword(relief) = True                l : not l  =     37.1 : 1.0
+
+================================================================================
+o - Data Collection
+
+
+Positives: 176
+Negatives: 1299
+Most Informative Features
+        containsword(ip) = True                o : not o  =     30.8 : 1.0
+   containsword(combine) = True                o : not o  =     27.7 : 1.0
+ containsword(operating) = True                o : not o  =     21.0 : 1.0
+     containsword(pixel) = True                o : not o  =     20.5 : 1.0
+containsword(effectiveness) = True                o : not o  =     19.7 : 1.0
+      containsword(open) = True                o : not o  =     17.7 : 1.0
+   containsword(metrics) = True                o : not o  =     17.7 : 1.0
+    containsword(dealer) = True                o : not o  =     17.7 : 1.0
+    containsword(custom) = True                o : not o  =     17.7 : 1.0
+      containsword(gifs) = True                o : not o  =     16.2 : 1.0
+  containsword(patterns) = True                o : not o  =     16.2 : 1.0
+      containsword(tags) = True                o : not o  =     15.8 : 1.0
+    containsword(employ) = True                o : not o  =     13.6 : 1.0
+ containsword(referring) = True                o : not o  =     13.6 : 1.0
+containsword(identifiers) = True                o : not o  =     13.1 : 1.0
+   containsword(visited) = True                o : not o  =     13.1 : 1.0
+ containsword(measuring) = True                o : not o  =     12.6 : 1.0
+    containsword(safari) = True                o : not o  =     12.6 : 1.0
+   containsword(objects) = True                o : not o  =     12.6 : 1.0
+     containsword(match) = True                o : not o  =     12.6 : 1.0
+
+================================================================================
+p - Policy/Business Changes
+
+
+Positives: 50
+Negatives: 1425
+Most Informative Features
+    containsword(assets) = True                p : not p  =    108.5 : 1.0
+containsword(acquisition) = True                p : not p  =    104.7 : 1.0
+    containsword(merger) = True                p : not p  =     97.1 : 1.0
+containsword(transferred) = True                p : not p  =     66.6 : 1.0
+  containsword(acquired) = True                p : not p  =     66.6 : 1.0
+  containsword(becoming) = True                p : not p  =     66.6 : 1.0
+    containsword(places) = True                p : not p  =     66.6 : 1.0
+containsword(bankruptcy) = True                p : not p  =     62.8 : 1.0
+containsword(periodically) = True                p : not p  =     53.0 : 1.0
+ containsword(transfers) = True                p : not p  =     51.4 : 1.0
+     containsword(asset) = True                p : not p  =     47.6 : 1.0
+containsword(continuing) = True                p : not p  =     47.6 : 1.0
+      containsword(sold) = True                p : not p  =     44.9 : 1.0
+      containsword(deem) = True                p : not p  =     40.0 : 1.0
+   containsword(reflect) = True                p : not p  =     40.0 : 1.0
+  containsword(changing) = True                p : not p  =     40.0 : 1.0
+      containsword(sale) = True                p : not p  =     32.9 : 1.0
+containsword(transaction) = True                p : not p  =     28.6 : 1.0
+  containsword(familiar) = True                p : not p  =     28.5 : 1.0
+ containsword(financing) = True                p : not p  =     28.5 : 1.0
+
+================================================================================
+s - Suspension
+
+
+Positives: 9
+Negatives: 1466
+Most Informative Features
+containsword(permanently) = True                s : not s  =    244.6 : 1.0
+containsword(suspension) = True                s : not s  =    244.6 : 1.0
+    containsword(repeat) = True                s : not s  =    146.8 : 1.0
+    containsword(vulgar) = True                s : not s  =    146.8 : 1.0
+containsword(respecting) = True                s : not s  =    146.8 : 1.0
+containsword(constantly) = True                s : not s  =    146.8 : 1.0
+containsword(time-to-time) = True                s : not s  =    146.8 : 1.0
+   containsword(survive) = True                s : not s  =    146.8 : 1.0
+ containsword(revocable) = True                s : not s  =    146.8 : 1.0
+   containsword(adopted) = True                s : not s  =    146.8 : 1.0
+    containsword(grants) = True                s : not s  =    146.8 : 1.0
+containsword(temporarily) = True                s : not s  =    146.8 : 1.0
+    containsword(cancel) = True                s : not s  =    104.8 : 1.0
+containsword(inappropriate) = True                s : not s  =     88.0 : 1.0
+containsword(investigate) = True                s : not s  =     88.0 : 1.0
+containsword(noncommercial) = True                s : not s  =     88.0 : 1.0
+containsword(implemented) = True                s : not s  =     88.0 : 1.0
+  containsword(exercise) = True                s : not s  =     88.0 : 1.0
+containsword(non-transferable) = True                s : not s  =     88.0 : 1.0
+containsword(hereinafter) = True                s : not s  =     88.0 : 1.0
+
+================================================================================
+r - Rights/Responsabilities
+
+
+Positives: 100
+Negatives: 1375
+Most Informative Features
+  containsword(promptly) = True                r : not r  =     49.8 : 1.0
+    containsword(horses) = True                r : not r  =     31.7 : 1.0
+     containsword(worms) = True                r : not r  =     31.7 : 1.0
+       containsword(fee) = True                r : not r  =     31.7 : 1.0
+   containsword(reverse) = True                r : not r  =     24.5 : 1.0
+     containsword(false) = True                r : not r  =     24.5 : 1.0
+      containsword(void) = True                r : not r  =     22.7 : 1.0
+    containsword(reside) = True                r : not r  =     22.7 : 1.0
+containsword(testimonials) = True                r : not r  =     22.7 : 1.0
+      containsword(jury) = True                r : not r  =     22.7 : 1.0
+      containsword(spam) = True                r : not r  =     22.7 : 1.0
+   containsword(pyramid) = True                r : not r  =     22.7 : 1.0
+containsword(comprehensive) = True                r : not r  =     22.7 : 1.0
+   containsword(schemes) = True                r : not r  =     22.7 : 1.0
+     containsword(bombs) = True                r : not r  =     22.7 : 1.0
+   containsword(prepare) = True                r : not r  =     22.7 : 1.0
+    containsword(derive) = True                r : not r  =     22.7 : 1.0
+containsword(testimonial) = True                r : not r  =     22.7 : 1.0
+ containsword(malicious) = True                r : not r  =     22.7 : 1.0
+  containsword(engineer) = True                r : not r  =     19.0 : 1.0
+
+================================================================================
+t - Third Party
+
+
+Positives: 182
+Negatives: 1293
+Most Informative Features
+     containsword(prize) = True                t : not t  =     26.2 : 1.0
+  containsword(agencies) = True                t : not t  =     26.2 : 1.0
+containsword(effectiveness) = True                t : not t  =     21.5 : 1.0
+   containsword(present) = True                t : not t  =     21.5 : 1.0
+ containsword(campaigns) = True                t : not t  =     21.5 : 1.0
+  containsword(research) = True                t : not t  =     16.7 : 1.0
+  containsword(behavior) = True                t : not t  =     16.7 : 1.0
+  containsword(approved) = True                t : not t  =     16.7 : 1.0
+    containsword(handle) = True                t : not t  =     16.7 : 1.0
+    containsword(enroll) = True                t : not t  =     16.7 : 1.0
+   containsword(forward) = True                t : not t  =     16.7 : 1.0
+     containsword(often) = True                t : not t  =     16.7 : 1.0
+   containsword(aspects) = True                t : not t  =     16.7 : 1.0
+containsword(processors) = True                t : not t  =     16.7 : 1.0
+    containsword(hosted) = True                t : not t  =     15.7 : 1.0
+   containsword(fulfill) = True                t : not t  =     15.7 : 1.0
+containsword(fulfillment) = True                t : not t  =     15.7 : 1.0
+   containsword(contest) = True                t : not t  =     15.3 : 1.0
+     containsword(serve) = True                t : not t  =     13.8 : 1.0
+   containsword(partner) = True                t : not t  =     12.7 : 1.0
+
+================================================================================
+v - Leaving Service
+
+
+Positives: 19
+Negatives: 1456
+Most Informative Features
+    containsword(cancel) = True                v : not v  =     72.9 : 1.0
+  containsword(uploaded) = True                v : not v  =     72.9 : 1.0
+containsword(constantly) = True                v : not v  =     72.9 : 1.0
+containsword(permanently) = True                v : not v  =     72.9 : 1.0
+containsword(time-to-time) = True                v : not v  =     72.9 : 1.0
+     containsword(gives) = True                v : not v  =     72.9 : 1.0
+  containsword(instance) = True                v : not v  =     72.9 : 1.0
+     containsword(yours) = True                v : not v  =     72.9 : 1.0
+   containsword(refunds) = True                v : not v  =     72.9 : 1.0
+containsword(comprehensive) = True                v : not v  =     72.9 : 1.0
+     containsword(avoid) = True                v : not v  =     72.9 : 1.0
+     containsword(gmail) = True                v : not v  =     72.9 : 1.0
+containsword(discontinue) = True                v : not v  =     52.1 : 1.0
+    containsword(retain) = True                v : not v  =     47.2 : 1.0
+ containsword(terminate) = True                v : not v  =     46.4 : 1.0
+    containsword(active) = True                v : not v  =     46.4 : 1.0
+    containsword(cached) = True                v : not v  =     43.7 : 1.0
+   containsword(visible) = True                v : not v  =     43.7 : 1.0
+ containsword(informing) = True                v : not v  =     43.7 : 1.0
+      containsword(term) = True                v : not v  =     43.7 : 1.0
+
+================================================================================
+Results
+================================================================================
+	SVM	            naive_bayes	    decision_tree	boost
+a	0.959322033898	0.918644067797	0.962711864407	0.95593220339
+c	0.972881355932	0.959322033898	0.976271186441	0.972881355932
+d	0.962711864407	0.898305084746	0.922033898305	0.95593220339
+i	0.84406779661	0.786440677966	0.8	            0.857627118644
+h	0.949152542373	0.938983050847	0.942372881356	0.949152542373
+j	0.976271186441	0.979661016949	0.969491525424	0.983050847458
+m	0.935593220339	0.932203389831	0.945762711864	0.962711864407
+l	0.979661016949	0.959322033898	0.983050847458	0.986440677966
+o	0.867796610169	0.854237288136	0.864406779661	0.867796610169
+p	0.962711864407	0.945762711864	0.983050847458	0.976271186441
+s	0.993220338983	0.989830508475	0.993220338983	0.993220338983
+r	0.932203389831	0.850847457627	0.908474576271	0.922033898305
+t	0.871186440678	0.823728813559	0.891525423729	0.898305084746
+v	0.986440677966	0.966101694915	0.976271186441	0.983050847458
+
+
+classes = { 'a': 'Anonynimity', 
+            'c': 'Data Copyright', 
+            'd': 'Definitions', 
+            #'h': 'Heading', # ignore these as they're fairly meaningless
+            'i': 'Personal Information', 
+            'j': 'Jurisdiction', 
+            'l': 'Law Enforcement', 
+            'm': 'Hold Harmless', 
+            'o': 'Data Collection', 
+            'p': 'Policy/Business Changes', 
+            'r': 'Rights/Responsibility', 
+            's': 'Suspension', 
+            't': 'Third Party', 
+            'v': 'Leaving Service' 
+            #'x': 'Data Export' # never used
+            }

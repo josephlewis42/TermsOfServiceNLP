@@ -1,0 +1,152 @@
+================================================================================
+Policy/Business Changes
+Correct mean: 0.977635782748
+             precision    recall  f1-score   support
+
+          0       0.98      0.99      0.99       302
+          1       0.75      0.55      0.63        11
+
+tuned weights:
+          1       0.62      0.73      0.67        22
+Pure BOW:
+          1       0.50      0.82      0.62        22
+
+avg / total       0.98      0.98      0.98       313
+
+================================================================================
+Data Copyright
+Correct mean: 0.990384615385
+             precision    recall  f1-score   support
+
+          0       1.00      0.99      1.00       310
+          1       0.33      0.50      0.40         2
+
+tuned weights:
+          1       0.67      0.33      0.44        12
+Pure BOW:
+          1       0.20      0.33      0.25        12
+
+avg / total       0.99      0.99      0.99       312
+
+================================================================================
+Rights/Responsibility
+Correct mean: 0.894230769231
+             precision    recall  f1-score   support
+
+          0       0.93      0.96      0.94       289
+          1       0.14      0.09      0.11        23
+
+tuned weights:
+          1       0.50      0.29      0.36        42
+Pure BOW:
+          1       0.39      0.67      0.50        42
+
+avg / total       0.87      0.89      0.88       312
+          
+================================================================================
+Definitions
+Correct mean: 0.926282051282
+             precision    recall  f1-score   support
+
+          0       0.96      0.96      0.96       290
+          1       0.48      0.50      0.49        22
+
+tuned weights:
+          1       0.29      0.06      0.10        32
+Pure BOW:
+          1       0.38      0.56      0.46        32
+
+avg / total       0.93      0.93      0.93       312
+
+================================================================================
+Personal Information
+Correct mean: 0.788461538462
+             precision    recall  f1-score   support
+
+          0       0.93      0.82      0.87       274
+          1       0.31      0.58      0.40        38
+
+tuned weights:
+          1       0.47      0.37      0.42       102
+Pure BOW:
+          1       0.56      0.69      0.61       102
+
+avg / total       0.86      0.79      0.81       312
+
+          
+================================================================================
+Hold Harmless
+Correct mean: 0.967948717949
+             precision    recall  f1-score   support
+
+          0       0.98      0.99      0.98       301
+          1       0.56      0.45      0.50        11
+
+tuned weights:
+          1       0.77      0.95      0.85        42
+Pure BOW:
+          1       0.58      0.67      0.62        42
+
+avg / total       0.97      0.97      0.97       312
+
+
+================================================================================
+Law Enforcement
+Correct mean: 0.977564102564
+             precision    recall  f1-score   support
+
+          0       0.98      0.99      0.99       304
+          1       0.60      0.38      0.46         8
+
+tuned weights:
+          1       0.53      0.62      0.57        16
+Pure BOW:
+          1       0.44      0.75      0.56        16
+
+avg / total       0.97      0.98      0.98       312
+
+
+================================================================================
+Data Collection
+Correct mean: 0.888178913738
+             precision    recall  f1-score   support
+
+          0       0.94      0.94      0.94       277
+          1       0.51      0.50      0.51        36
+
+tuned weights:
+          1       0.68      0.50      0.58        76
+Pure Bow
+          1       0.70      0.55      0.62        76
+
+avg / total       0.89      0.89      0.89       313
+
+          
+================================================================================
+Third Party
+Correct mean: 0.856230031949
+             precision    recall  f1-score   support
+
+          0       0.94      0.89      0.92       284
+          1       0.32      0.48      0.38        29
+
+tuned weights:
+          1       0.65      0.71      0.68        76
+Pure BOW:
+          1       0.55      0.71      0.62        76
+          
+avg / total       0.89      0.86      0.87       313
+
+
+
+
+
+Features:
+
+* All definitions from last time
+* entities
+* positions in document
+
+
+* Subject/verb pairs? SRL?
+* similar words wordnet?

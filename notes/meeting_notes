@@ -1,0 +1,244 @@
+Classification of Dictionary sentences
+======================================
+
+100 dictionary sentences, 5000 sentences. If looking at docs alone, could do
+better knowing positions.
+
+80% train, 20% test
+
+
+        Correct mean: 0.916666666667
+                     precision    recall  f1-score   support
+
+                  0       0.88      1.00      0.93        28
+                  1       1.00      0.80      0.89        20
+
+        avg / total       0.93      0.92      0.91        48
+
+
+Pull out very good candidates (look at by hand)
+
+* [ 1.00044031]
+* The information we collect from you includes things like:  * Your name  * Your mailing address  * Your e-mail address  * Your phone number  * Your credit card number and other payment information  * Your driver's license number  * Credit application information, such as your Social Security number  * Demographic and lifestyle information, such as age, personal    interests and product preferences  It may also include information you give us about other people, such as the name and address of a gift recipient, or the name and contact info of a Friends &.
+
+* [ 1.00044031]
+* Location Information Some of our websites and mobile applications may collect certain information such as the type of mobile device you're using or your specific location to help you search for one of our stores.
+
+* [ 1.00044031]
+* To allow any application to identify your location, you must enable this functionality through your mobile device's settings to allow the use of technologies such as Wi-Fi, GPS signals, cell tower position, or other technologies.
+
+* [ 1.00044031]
+* Store Cameras Our stores may use cameras for asset protection and other operational purposes, such as measuring traffic patterns and protecting and improving our business.
+
+* [ 1.00044031]
+* Any of our sites that are directed to children under the age of 13 (e.g., PBSKids site) comply with COPPA (Childrens Online Privacy Protection Act) standards, which are in addition to PBS.org policies.
+
+Negative
+--------
+
+* [-0.99966384]
+* Information from Other Sources We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers. 
+
+* [-0.99966384]
+* Automated Online Information Collection We collect information related to your interactions with our websites and apps to create a superior, personalized shopping experience, whether you are online or in our stores. 
+
+Middle
+------
+
+* If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers  Questions regarding children's privacy should be directed to: InfoSpace, LLC 10900 NE 8th Street, Suite 800 Bellevue, Washington 98004 USA + (1) 425.201.6100 [-0.13028108]
+* (e) monitor aggregate metrics such as total number of visitors and traffic. [ 0.29657791]
+
+========================================================
+
+Pulling out definition relations:
+
+        Correct mean: 0.934090909091
+                     precision    recall  f1-score   support
+
+                  0       0.98      0.95      0.96       420
+                  1       0.36      0.60      0.45        20
+
+        avg / total       0.95      0.93      0.94       440
+
+
+
+        Correct mean: 0.959090909091    
+
+
+                     precision    recall  f1-score   support
+
+                  0       0.97      0.99      0.98       420
+                  1       0.57      0.40      0.47        20
+
+        avg / total       0.95      0.96      0.96       440
+
+
+================================================================================
+
+Categorization
+==============
+
+From: Webbys https://entries.webbyawards.com/categories#m-web
+
+Categories
+----------
+
+```
+Activism
+Art
+Associations
+Blog - Business
+Blog - Cultural
+Car Sites & Car Culture
+Celebrity/Fan
+Charitable Organizations/Non-Profit
+City & Urban Innovation
+Community
+Consumer Electronics
+Corporate Communications
+Corporate Social Responsibility
+Cultural Institutions
+Education
+Email Newsletters
+Employment
+Events
+Family/Parenting
+Fashion & Beauty
+Financial Services/Banking
+Food & Drink
+Games
+Games-Related
+Government
+Green
+Guides/Ratings/Reviews
+Health
+Humor
+Law
+Lifestyle
+Magazine
+Media Streaming
+Movie & Film
+Music
+NetArt #
+News
+Personal Blog/Website
+Political Blog/Websites
+Professional Services
+Radio & Podcasts
+Real Estate
+Religion & Spirituality
+School/University
+Science
+Self-Promotion/Portfolio
+Shopping
+Social Media
+Sports
+Television
+Travel
+Web Services & Applications
+Weird #
+Youth
+```
+
+Reduced
+-------
+
+```
+Other
+Education
+Marketing
+Financial Services/Banking
+Government
+Health
+Law
+Entertainment
+News
+Shopping
+Social Media
+Web Services & Applications
+```
+
+Wikidata not quite ready for this, not all sidebars included. However, first 
+paragraphs are good, and sidebars for regular wikipedia often have the site.
+
+ConceptNet does well
+
+
+gmail
+
+```
+Get /c/en/gmail in JSON format
+gmail  IsA  software object
+Gmail is an instance of software object
+gmail  RelatedTo  e-mail
+gmail  RelatedTo  google
+gmail  RelatedTo  e-mail
+gmail  IsA  software
+```
+
+    Gmail is a free, advertising-supported email service provided by Google.[5] Users may access Gmail as secure webmail,[6] as well as via POP3 or IMAP4 protocols.[7][8] Gmail initially started as an invitation-only beta release on April 1, 2004[9] and it became available to the general public on February 7, 2007, though still in beta status at that time.[10] The service was upgraded from beta status on July 7, 2009, along with the rest of the Google Apps suite.[11][12]
+
+```
+facebook  IsA  social network platform
+Facebook is a kind of Social Networking Platform.
+fessebouc  EtymologicallyDerivedFrom  facebook
+facebook  RelatedTo  facebooker
+フェイスブック  RelatedTo  facebook
+facebook  EtymologicallyDerivedFrom  facebook
+facebook  RelatedTo  student
+facebook  RelatedTo  facebooker
+tgif  RelatedTo  facebook
+facebook  RelatedTo  facebook
+facebook  EtymologicallyDerivedFrom  book
+facebook  EtymologicallyDerivedFrom  face
+facebook  RelatedTo  photograph
+facebook  RelatedTo  web site
+ghost post  RelatedTo  facebook
+fejsbuko  RelatedTo  facebook
+trombinoscope  RelatedTo  facebook
+facebook  DerivedFrom  face
+fejsbuko  EtymologicallyDerivedFrom  facebook
+vizaĝlibro  EtymologicallyDerivedFrom  facebook
+naamakirja  EtymologicallyDerivedFrom  facebook
+facebook  IsA  organization
+Facebook is an instance of organization
+fésbók  RelatedTo  facebook
+facebook  IsA  business
+Facebook is an instance of business
+```
+
+    Facebook (formerly Thefacebook) is an online social networking service headquartered in Menlo Park, California. Its website was launched on February 4, 2004, by Mark Zuckerberg with his college roommates and fellow Harvard University students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes.[7] The founders had initially limited the website's membership to Harvard students, but later expanded it to colleges in the Boston area, the Ivy League, and Stanford University. It gradually added support for students at various other universities and later to high-school students. Since 2006, anyone who is at least 13 years old is allowed to become a registered user of the website, though the age requirement may be higher depending on applicable local laws.[8] Its name comes from a colloquialism for the directory given to it by American universities students.[9]
+
+
+PBS
+
+```
+pb  IsA  terrestrial television
+pb  IsA  television station person watch
+PBS is a television station people watch
+pb  DerivedFrom  b
+pb  IsA  station you watch on television
+pbs is a station you watch on television
+pb  RelatedTo  saline
+```
+
+    The Public Broadcasting Service (PBS) is an American public broadcaster and television program distributor. Headquartered in Arlington, Virginia, PBS is an independently operated non-profit organization and is the most prominent provider of television programs to public television stations in the United States, distributing series such as NOVA, Sesame Street, PBS NewsHour, Masterpiece, Nature, American Masters, Frontline and Antiques Roadshow.
+    Since the mid-2000s Roper polls commissioned by PBS have consistently placed the service as the most-trusted national institution in the United States.[2] However, PBS is not responsible for all programming carried on public television stations, a large proportion of which (including most specials aired during multi-annually pledge drives) come from third-party sources, including member stations (such as WGBH, WETA-TV, WNET, WTTW National Productions), American Public Television and independent producers. This distinction is a frequent source of viewer confusion.[3]
+    The service has more than 350 member television stations, many owned by educational institutions or non-profit groups affiliated with a local public school district, collegiate educational institution or by state government-owned or -related entities.[4] It also operates National Datacast (NDI), a subsidiary which offers datacasting services via member stations, and provides additional revenue for PBS and its member stations.
+
+
+Argos
+
+Nothing in conceptnet
+
+    Argos is a British catalogue retailer operating in the UK and Ireland. With 737 stores and 340 million website visits a year, it is one of the largest high street retailers online in the UK.[2] In 2012 it was estimated that 96% of the population of the UK was within 10 miles of an Argos branch.[3]
+
+
+
+Next Steps
+==========
+
+* Improve dictionary performance by checking where it is going wrong (something wrong with code right now)
+* Use new dictionary to find common definitions that relate to privacy, entities, and site classification
+* Combine with classification of site (wikipedia/conceptnet/homepage?) to check out likely information + other definitions
+* Look for privacy related terms in definitions.

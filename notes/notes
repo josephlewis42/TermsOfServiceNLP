@@ -1,0 +1,27 @@
+push definitions as preprocessing into the relations extractor
+
+
+hyperparams
+- penalty negative 0, positve a pos number
+- svm that optimizes f1 directly
+
+confusion matrix
+
+push all we can to features afterwards
+- look for higher stability
+
+-> model issues
+
+error analysis over paragraphs checking
+
+
+modify heirarchy to classifications e.g. financial; tracking technologies; etc.
+
+Add as features into paragraph checking
+
+
+website type; find out what it wants to do and find what each website does; sell photos, share names, behavioral advertising
+
+
+
+Biological Processes 4.2, try to introduce a preprocessor to determine if a definition is plausible or not, may be able to remove a good number if we train for 99% recall

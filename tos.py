@@ -7,13 +7,21 @@ import collections
 import re
 import json
 import nltk
+from nltk.tag.senna import POSTagger # weird, but needed for some reason
+from nltk.tag.senna import NERTagger # weird, but needed for some reason
+from nltk.tag.stanford import POSTagger as StanfordPos
 import functools
 import math
 import lru
 from sklearn.svm import SVC
+import os
+
+SENNA_PATH = '/home/joseph/bin/senna/'
+
+ENTITY_POS_TAGS = {"NNP", "PRP", "NNPS"}
 
 
-classes = { 'a': 'Anonynimity', 
+classes = { #'a': 'Anonynimity', 
             'c': 'Data Copyright', 
             'd': 'Definitions', 
             #'h': 'Heading', # ignore these as they're fairly meaningless
@@ -23,19 +31,90 @@ classes = { 'a': 'Anonynimity',
             'm': 'Hold Harmless', 
             'o': 'Data Collection', 
             'p': 'Policy/Business Changes', 
-            'r': 'Rights/Responsabilities', 
-            's': 'Suspension', 
+            'r': 'Rights/Responsibility', 
+            #'s': 'Suspension', 
             't': 'Third Party', 
-            'v': 'Leaving Service' 
+            #'v': 'Leaving Service' 
             #'x': 'Data Export' # never used
             }
 
-def clean_text(text):
-    raw = text.lower()
-    raw = re.sub('<[^<]+?>'," ", raw) # remove html        
-    raw = re.sub('[^\\w\\s\\d]+', " ", raw) # remove extra weird characters and extra whitespace    
+classes_lawyer = {
+    'j': 'Jurisdiction', 
+    'd': 'Definitions'
+}
+
+classes_personal = {
+    'a': 'Anonynimity', 
+    'i': 'Personal Information', 
+    'o': 'Data Collection', 
+    't': 'Third Party', 
+    'v': 'Leaving Service' ,
+    'r': 'Rights/Responsibility'
+}
+
+classes_business = {
+    'c': 'Data Copyright', 
+    'l': 'Law Enforcement', 
+    'm': 'Hold Harmless', 
+    'p': 'Policy/Business Changes', 
+    's': 'Suspension'
+}
+
+classsets = {"lawyer":classes_lawyer, "personal":classes_personal, "business":classes_business}
+
+def getFiles(directory, ext=".txt"):
+    outfiles = []
+    for path, subdirs, files in os.walk(directory):
+        for name in files:
+            if name.endswith(ext):
+                outfiles.append(os.path.join(path, name))
     
+    return outfiles
+
+def strip_html(text):
+    return re.sub('<[^<]+?>'," ", text)
+
+def tokenize(text):
+    p = nltk.tokenize.WordPunctTokenizer()
+    return p.tokenize(text)
+
+def split_sentences(tokens):
+    sentences = []
+    
+    splitters = {'.','!','?'}
+    last = 0
+    for i, token in enumerate(tokens):
+        if token in splitters:
+            sentences.append(tokens[last:i+1])
+            last = i +1
+    
+    return sentences
+
+from unidecode import unidecode
+def clean_text(text, lower=True):
+    raw = unidecode(text)
+    raw = strip_html(raw) # remove html  
+    #raw = tokenize(raw) 
+    
+    #raw = " ".join(raw)
+
+    if lower:
+        raw = raw.lower()
+        
     return raw
+
+def er_senna(tokens):
+    tagger = POSTagger(SENNA_PATH)
+    #tagger2 = NETagger(SENNA_PATH)
+    tagged = tagger.tag(tokens)
+    #tagged2 = tagger2.tag(tokens
+    return [t[0] for t in tagged if t[1] in ENTITY_POS_TAGS]# +
+           
+def er_stanford(tokens):
+    st = StanfordPos('/home/joseph/dev/java/stanford-postagger-2013-11-12/models/english-bidirectional-distsim.tagger', '/home/joseph/dev/java/stanford-postagger-2013-11-12/stanford-postagger.jar') 
+    return [t[0] for t in st.tag(tokens) if t[1] in ENTITY_POS_TAGS]
+
+
 
 
 STEMMER = nltk.stem.porter.PorterStemmer()    
@@ -58,7 +137,7 @@ def calculate_word_frequencies(text, stem=False):
     return frequencies
     
 @lru.lru_cache()
-def get_idf(corpusfile="corpus.txt"):
+def get_idf(corpusfile="corpus/corpus.txt"):
     '''Gets the idf of the corpus'''
     
     totalfreqs = collections.defaultdict(int)

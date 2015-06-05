@@ -1,0 +1,317 @@
+Adding in subject/verb/objects:
+
+		Baseline
+		
+		Multiclass Classification over Policy/Business Changes, Data Copyright, 
+		Rights/Responsibility, Definitions, Personal Information, Hold Harmless, 
+		Law Enforcement, Data Collection, Third Party
+
+				                 precision    recall  f1-score   support
+
+		Policy/Business Changes       1.00      0.70      0.82        10
+				 Data Copyright       0.80      0.33      0.47        12
+		  Rights/Responsibility       0.30      0.21      0.25        28
+				    Definitions       0.70      0.33      0.45        21
+		   Personal Information       0.42      0.31      0.35        36
+				  Hold Harmless       0.94      0.47      0.63        34
+				Law Enforcement       1.00      0.22      0.36         9
+				Data Collection       0.75      0.30      0.43        30
+				    Third Party       0.68      0.44      0.54        34
+				           None       0.76      0.80      0.78       157
+
+				    avg / total       0.71      0.55      0.60       371
+
+
+		All categories:
+
+		Multiclass Classification over Policy/Business Changes, Data Copyright, 
+		Rights/Responsibility, Definitions, Personal Information, Hold Harmless, 
+		Law Enforcement, Data Collection, Third Party
+		
+				                 precision    recall  f1-score   support
+
+		Policy/Business Changes       1.00      0.70      0.82        10
+				 Data Copyright       0.67      0.17      0.27        12 -20 (probably due to headings)
+		  Rights/Responsibility       0.33      0.18      0.23        28
+				    Definitions       0.80      0.38      0.52        21 +7
+		   Personal Information       0.38      0.28      0.32        36
+				  Hold Harmless       0.89      0.47      0.62        34
+				Law Enforcement       1.00      0.44      0.62         9 +26
+				Data Collection       0.83      0.33      0.48        30 +5
+				    Third Party       0.67      0.53      0.59        34 +5
+				           None       0.75      0.82      0.78       157
+
+				    avg / total       0.71      0.56      0.60       371
+
+
+		New (no none categories, dang!)
+
+				                 precision    recall  f1-score   support
+
+		Policy/Business Changes       0.88      0.70      0.78        10
+				 Data Copyright       0.80      0.33      0.47        12
+		  Rights/Responsibility       0.40      0.21      0.28        28
+				    Definitions       0.73      0.38      0.50        21
+		   Personal Information       0.54      0.42      0.47        36
+				  Hold Harmless       1.00      0.50      0.67        34
+				Law Enforcement       1.00      0.33      0.50         9
+				Data Collection       0.75      0.30      0.43        30
+				    Third Party       0.77      0.59      0.67        34
+				           None       0.82      0.86      0.84       157
+
+				    avg / total       0.77      0.60      0.66       371
+
+Without BOW
+
+				                 precision    recall  f1-score   support
+
+		Policy/Business Changes       0.80      0.40      0.53        10
+				 Data Copyright       0.80      0.33      0.47        12
+		  Rights/Responsibility       0.23      0.11      0.15        28
+				    Definitions       0.43      0.14      0.21        21
+		   Personal Information       0.21      0.19      0.20        36
+				  Hold Harmless       0.79      0.44      0.57        34
+				Law Enforcement       1.00      0.11      0.20         9
+				Data Collection       0.43      0.30      0.35        30
+				    Third Party       0.38      0.29      0.33        34
+				           None       0.68      0.71      0.70       157
+
+				    avg / total       0.56      0.45      0.48       371
+
+
+
+================================================================================
+
+Moving to only sales (the large st category with 45 documents):
+
+		Baseline:
+
+				                 precision    recall  f1-score   support
+
+		Policy/Business Changes       1.00      0.70      0.82        10
+				 Data Copyright       0.80      0.33      0.47        12
+		  Rights/Responsibility       0.30      0.21      0.25        28
+				    Definitions       0.70      0.33      0.45        21
+		   Personal Information       0.42      0.31      0.35        36
+				  Hold Harmless       0.94      0.47      0.63        34
+				Law Enforcement       1.00      0.22      0.36         9
+				Data Collection       0.75      0.30      0.43        30
+				    Third Party       0.68      0.44      0.54        34
+				           None       0.76      0.80      0.78       157
+
+				    avg / total       0.71      0.55      0.60       371
+
+
+		Sales Websites Only:
+
+		Policy/Business Changes       1.00      0.50      0.67         2 --
+				 Data Copyright       0.00      0.00      0.00         0 --
+		  Rights/Responsibility       0.50      0.20      0.29         5 ==
+				    Definitions       0.00      0.00      0.00         1 --
+		   Personal Information       0.33      0.23      0.27        13 ==
+				  Hold Harmless       0.00      0.00      0.00         2 --
+				Law Enforcement       1.00      0.50      0.67         2 ++
+				Data Collection       1.00      0.10      0.18        10 --
+				    Third Party       0.86      0.60      0.71        10 ++
+				           None       0.74      0.77      0.76        48 ==
+
+				    avg / total       0.70      0.54      0.57        93
+
+================================================================================
+
+
+Look at subject/verb/object pairs doing well/poorly:
+
+Law Enforcement:
+
+
+		Us:collected:
+		us:disclose:
+		us:disclose:information
+		:Use:
+		:Use:form
+		:uses:
+		Us:use:information
+		:verify:programs
+		:we:
+		We:active:
+		we:agree:
+		we:agree:
+		we:and:
+		We:cancel:ticket
+		we:delete:Content
+		we:depending:information
+		we:disclose:information
+		we:disclose:information
+		We:disclose:information
+		we:enhance:information
+		we:facilitate:relationship
+		We:give:information
+		We:have:right
+		We:impose:conditions
+		we:in:
+		we:include:fraud
+		We:investigate:violation
+		we:neg_share:e-mail
+		we:offer:products
+		we:opt:
+		we:parties:
+		We:preserve:
+		We:prohibit:you
+		we:refuse:
+		we:refuse:
+		We:reserve:right
+		we:share:information
+		we:share:information
+		we:share:information
+		we:share:information
+		We:Share:Information
+		we:share:information
+		we:share:information
+		We:share:it
+		we:take:action
+		We:use:changes
+		we:used:
+		We:use:information
+		We:use:information
+		we:with:
+		which:Please:
+		who:e-mail:
+		who:follow:procedure
+		who:partners:
+		who:please:note
+		who:use:cards
+		who:with:
+		:with:
+		:with:
+		:with:
+		:with:
+		:with:
+		:within:
+		you:access:information
+		you:allow:
+		You:choose:
+		you:consent:
+		you:enable:program
+		You:neg_attempt:
+		you:neg_hold:us
+		You:neg_opt:
+		you:opt:
+		You:pay:charges
+		you:protect:customers
+		you:provide:enforcement
+		You:Send:E-mail
+		You:use:cash
+		you:use:Site
+
+
+
+Data Collection:
+
+		that:collect:
+		that:collect:information
+		that:enable:
+		that:identifiable:
+		that:include:features
+		that:includes:Features
+		that:is:
+		that:is:
+		that:link:
+		that:neg_used:
+		that:please:
+		that:process:information
+		that:provides:
+		that:receive:
+		that:required:
+		that:share:information
+		that:sign:
+		that:store:
+		that:used:
+		that:used:
+		that:use:information
+		that:uses:cookies
+		that:use:technology
+		that:visit:online
+		...
+		we:carry:searches
+		we:choose:
+		we:collect:
+		We:collect:
+		We:collect:data
+		We:collect:data
+		we:collect:facts
+		We:collect:information
+		We:collect:information
+		We:collect:information
+		We:collect:Information
+		we:collect:information
+		we:collect:information
+		we:collect:information
+		We:collect:information
+		we:collect:information
+		we:collect:information
+		We:collect:information
+		we:collect:information
+		we:collect:information
+		we:collect:information
+		we:collect:input
+		we:collect:location
+		we:collect:log
+		we:collect:name
+		We:collect:name
+		we:collect:names
+		We:collect:number
+		we:collect:number
+		We:collect:record
+		we:collects:information
+		We:collect:this
+		We:Collect:What
+		we:combined:
+		we:combine:information
+		we:combine:information
+		we:contact:
+		we:contact:us
+		we:correspond:
+		we:Data:
+		we:data:
+		We:decide:
+		we:details:
+		we:disclose:information
+		we:elect:
+		we:emails:
+		we:employ:gifs
+		we:employ:technology
+		we:explains:
+		we:gather:
+		We:gather:data
+		we:gather:information
+		we:gather:information
+		we:gather:resolution
+		we:general:
+		We:get:information
+		we:get:information
+		we:have:right
+		we:have:right
+		we:in:
+		we:include:
+		we:information:
+		we:information:
+		we:information:
+		...
+		We:use:Analytics
+		we:use:beacons
+		We:use:cookies
+		We:use:cookies
+		We:use:cookies
+		we:use:cookies
+		We:use:data
+		we:use:data
+		we:use:gifs
+		We:use:information
+		We:use:information
+		we:use:information
+		we:use:information
+		we:use:information
+		we:use:information
+		we:use:information
+		We:use:methods

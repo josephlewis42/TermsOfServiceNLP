@@ -1,0 +1,38 @@
+has: Personal Information has: Third Party should_have: None
+has: Personal Information should_have: Data Collection
+has: Personal Information should_have: None
+has: Personal Information should_have: None
+has: Personal Information should_have: None
+has: Personal Information should_have: None
+has: Personal Information should_have: Third Party
+has: Rights/Responsibility has: Hold Harmless has: Third Party should_have: None
+has: Rights/Responsibility has: Personal Information should_have: Data Collection
+has: Rights/Responsibility should_have: Hold Harmless
+has: Rights/Responsibility should_have: None
+has: Rights/Responsibility should_have: None
+has: Rights/Responsibility should_have: None
+has: Rights/Responsibility should_have: Third Party has: None
+has: Third Party should_have: None
+should_have: Data Collection has: Third Party
+should_have: Data Collection should_have: Third Party has: None
+should_have: Data Copyright should_have: Definitions has: None
+should_have: Data Copyright should_have: Hold Harmless
+should_have: Definitions has: Personal Information
+should_have: Definitions should_have: Third Party
+should_have: Hold Harmless should_have: Law Enforcement
+should_have: Hold Harmless should_have: Third Party
+should_have: Law Enforcement should_have: Data Collection
+should_have: Law Enforcement should_have: Data Collection should_have: Third Party
+should_have: Personal Information has: Data Collection
+should_have: Personal Information has: Data Collection has: None
+should_have: Personal Information should_have: Data Collection
+should_have: Personal Information should_have: Data Collection
+should_have: Personal Information should_have: Data Collection
+should_have: Personal Information should_have: Data Collection should_have: Third Party
+should_have: Personal Information should_have: Law Enforcement
+should_have: Policy/Business Changes should_have: Third Party
+should_have: Rights/Responsibility has: Personal Information
+should_have: Rights/Responsibility should_have: Data Collection has: Third Party
+should_have: Rights/Responsibility should_have: Personal Information
+should_have: Rights/Responsibility should_have: Third Party
+

@@ -1,0 +1,159 @@
+================================================================================
+Positives: 52
+Negatives: 1423
+Anonynimity
+Correct mean: 0.928338762215
+/usr/local/lib/python2.7/dist-packages/sklearn/metrics/metrics.py:1771: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+             precision    recall  f1-score   support
+
+          0       0.93      1.00      0.96       285
+          1       0.00      0.00      0.00        22
+
+avg / total       0.86      0.93      0.89       307
+
+================================================================================
+Positives: 26
+Negatives: 1449
+Data Copyright
+Correct mean: 0.966887417219
+             precision    recall  f1-score   support
+
+          0       0.97      1.00      0.98       290
+          1       1.00      0.17      0.29        12
+
+avg / total       0.97      0.97      0.96       302
+
+================================================================================
+Positives: 75
+Negatives: 1400
+Definitions
+Correct mean: 0.903225806452
+             precision    recall  f1-score   support
+
+          0       0.90      1.00      0.95       280
+          1       0.00      0.00      0.00        30
+
+avg / total       0.82      0.90      0.86       310
+
+================================================================================
+Positives: 244
+Negatives: 1231
+Personal Information
+Correct mean: 0.805797101449
+             precision    recall  f1-score   support
+
+          0       0.88      0.85      0.86       247
+          1       0.65      0.69      0.67        98
+
+avg / total       0.81      0.81      0.81       345
+
+================================================================================
+Positives: 25
+Negatives: 1450
+Jurisdiction
+Correct mean: 0.97
+             precision    recall  f1-score   support
+
+          0       0.97      1.00      0.98       290
+          1       0.67      0.20      0.31        10
+
+avg / total       0.96      0.97      0.96       300
+
+================================================================================
+Positives: 84
+Negatives: 1391
+Hold Harmless
+Correct mean: 0.936102236422
+             precision    recall  f1-score   support
+
+          0       0.94      0.99      0.97       279
+          1       0.89      0.47      0.62        34
+
+avg / total       0.93      0.94      0.93       313
+
+================================================================================
+Positives: 36
+Negatives: 1439
+Law Enforcement
+Correct mean: 0.980263157895
+             precision    recall  f1-score   support
+
+          0       0.98      1.00      0.99       288
+          1       1.00      0.62      0.77        16
+
+avg / total       0.98      0.98      0.98       304
+
+================================================================================
+Positives: 176
+Negatives: 1299
+Data Collection
+Correct mean: 0.849397590361
+             precision    recall  f1-score   support
+
+          0       0.89      0.92      0.91       260
+          1       0.68      0.58      0.63        72
+
+avg / total       0.84      0.85      0.85       332
+
+================================================================================
+Positives: 50
+Negatives: 1425
+Policy/Business Changes
+Correct mean: 0.970491803279
+             precision    recall  f1-score   support
+
+          0       0.97      1.00      0.98       285
+          1       0.92      0.60      0.73        20
+
+avg / total       0.97      0.97      0.97       305
+
+================================================================================
+Positives: 9
+Negatives: 1466
+Suspension
+Correct mean: 0.986577181208
+             precision    recall  f1-score   support
+
+          0       0.99      1.00      0.99       294
+          1       0.00      0.00      0.00         4
+
+avg / total       0.97      0.99      0.98       298
+
+================================================================================
+Positives: 100
+Negatives: 1375
+Rights/Responsibility
+Correct mean: 0.87619047619
+             precision    recall  f1-score   support
+
+          0       0.88      0.99      0.93       275
+          1       0.57      0.10      0.17        40
+
+avg / total       0.84      0.88      0.84       315
+
+================================================================================
+Positives: 182
+Negatives: 1293
+Third Party
+Correct mean: 0.846846846847
+             precision    recall  f1-score   support
+
+          0       0.87      0.94      0.91       259
+          1       0.72      0.51      0.60        74
+
+avg / total       0.84      0.85      0.84       333
+
+================================================================================
+Positives: 19
+Negatives: 1456
+Leaving Service
+Correct mean: 0.973333333333
+             precision    recall  f1-score   support
+
+          0       0.97      1.00      0.99       292
+          1       0.00      0.00      0.00         8
+
+avg / total       0.95      0.97      0.96       300
+
+
