@@ -1,0 +1,615 @@
+In the event Kinja goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+0.87 (the event; goes; through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets)
+0.93 (users' personal information; will be; part of the assets; L:In the event; L:in most instances)
+0.73 (the assets; transferred; )
+
+4. Legal Disclaimer Whenever Kinja changes its privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+0.86 (Kinja; changes; its privacy policy)
+0.31 (we; use; it)
+0.26 (we; will post; those changes to this Privacy Policy page; T:Whenever Kinja changes its privacy policy)
+0.44 (we; disclose; it; L:under what circumstances)
+0.23 (we; deem; appropriate)
+0.49 (our users; are; T:always; aware of what information we collect)
+0.19 (we; collect; )
+
+7. Contact Information 10.
+
+Modifications.These rules may be modified by PBS from time to time and such modifications will be binding on you when placed online.
+0.92 (Modifications.These rules; may be modified; by PBS)
+
+PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino may occasionally change the features and content found on their sites.
+0.90 (PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino; may change; the features and content found on their sites; T:occasionally)
+0.86 (the features and content; found; L:on their sites)
+
+Consequently, our privacy policy may be modified to reflect any revisions to the sites.
+0.66 (our privacy policy; may be modified; to reflect any revisions to the sites)
+0.62 (our privacy policy; to reflect; any revisions to the sites)
+
+We suggest you revisit our privacy policy from time to time to be sure that you are familiar with our practices.
+0.46 (you; are; familiar with our practices)
+0.17 (We; suggest; you revisit our privacy policy from time to time to be sure that you are familiar with our practices)
+0.29 Context(We suggest,List([0, 10))):(you; revisit; our privacy policy; from time to time; to be sure that you are familiar with our practices)
+
+We do not ask for, access or track any location based information from your mobile device at any time while using our mobile optimized websites.
+0.42 (We; do not ask; for, access or track any location based information from your mobile device at any time)
+
+By using this Web site, you consent to the collection and use of your information as outlined in this policy and to our Terms of Use.
+0.46 (you; consent; to the collection and use of your information)
+
+We may decide to change this Privacy Policy from time to time.
+0.43 (We; may decide; to change this Privacy Policy from time to time)
+0.43 Context(We may decide,List([0, 13))):(We; may decide to change; this Privacy Policy; from time to time)
+
+When we make material changes to our policy, we will post a prominent notice on the home page of the Web site so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+0.31 (we; make; material changes; to our policy)
+0.44 (we; disclose; it; L:under what circumstances)
+0.56 (we; will post; a prominent notice on the home page of the Web site; T:When we make material changes to our policy)
+0.62 (you; are; T:always; aware of the information)
+0.88 (the information; collect; we)
+0.31 (we; use; it)
+
+Please review this Privacy Policy from time to time so that you will be apprised of any changes.
+0.62 (you; will be apprised; of any changes)
+
+By completing and submitting a registration and/or entry format at PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino, you signify your agreement to this Privacy Policy.
+0.51 (you; signify; your agreement to this Privacy Policy)
+
+If you do not accept the terms of this Privacy Policy, please do not use the PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino sites.
+0.66 (you; do not accept; the terms of this Privacy Policy)
+
+We reserve the right, at our discretion to change, modify, add or remove portions of this Privacy Policy.
+0.45 (We; reserve; the right)
+
+You should check this page periodically for any changes and to insure you are familiar with our current practices.
+0.51 (You; should check periodically; for any changes)
+0.37 (You; to insure; you are familiar with our current practices)
+0.41 Context(You to insure,List([0, 69))):(you; are; familiar with our current practices)
+
+This policy and all of our legal obligations under this policy are subject to the laws of New York and the USA regardless of the location of the user.
+0.89 (This policy and all of our legal obligations under this policy; are regardless; subject to the laws of New York and the USA)
+
+This Privacy Policy was last updated in August 2014.
+0.95 (This Privacy Policy; was updated; T:in August 2014; T:last)
+
+In the event InfoSpace goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+0.89 (the event; goes; through a business transition, such as a merger)
+0.93 (a business transition, such as a merger; being acquired; by another company)
+0.84 (InfoSpace; selling; a portion of its assets)
+0.93 (users' personal information; will be; part of the assets; L:In the event; L:in most instances)
+0.73 (the assets; transferred; )
+
+Choice/Opt-out If we decide to change our privacy policy, we will post those changes to this privacy statement in places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+0.26 (we; decide; to change our privacy policy)
+0.26 Context(we decide,List([18, 27))):(we; decide to change; our privacy policy)
+0.19 (we; collect; )
+0.31 (we; use; it)
+0.21 (we; will post; those changes to this privacy statement; so our users are always aware of what information we collect)
+0.44 (we; disclose; it; L:under what circumstances)
+0.23 (we; deem; appropriate)
+0.49 (our users; are; T:always; aware of what information we collect)
+
+If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
+0.46 (we; to use; Individually Identifiable Information)
+
+Special Notification with respect to Children's Privacy (Users under the age of 13) As indicated, this Privacy Policy is not a contract nor does it otherwise create any legal rights or obligations.
+0.93 (this Privacy Policy; is not; a contract)
+
+Rather, this Privacy Policy merely reflects guidelines setting forth Uniteds intended business practices.
+0.94 (this Privacy Policy; merely reflects; guidelines setting forth Uniteds intended business practices)
+0.90 (guidelines setting forth; intended; business practices)
+
+However, by using this website, and/or by providing personal information to United online or offline, you consent to the collection and use of such information by United, its affiliates, partners, contractors and permitted agents as herein described and consistent with applicable laws.
+0.62 (you; consent; to the collection)
+0.69 (its affiliates, partners, contractors; permitted; agents; T:as herein described and consistent with applicable laws)
+0.71 (herein; described; )
+
+Also, United, in its discretion, may amend, interpret, modify, or withdraw any portion of this Privacy Policy and related business practices at any time by posting updated text on this site, and your continued use constitutes your consent to those changes.
+0.49 (Also, United, in its discretion; may amend; )
+0.51 (your continued use; constitutes; your consent)
+
+A version of this Privacy Policy has been effective since October 15, 2002, and was last updated on April 1, 2014.
+0.96 (A version of this Privacy Policy; has been; effective; T:since October 15, 2002)
+0.96 (A version of this Privacy Policy; was updated; T:on April 1, 2014; T:since October 15, 2002; T:last)
+
+As we develop our business, we may buy or sell assets or business offerings.
+0.19 (we; may buy; )
+0.48 (we; sell; assets or business offerings)
+
+Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
+0.96 (Customer, email, and visitor information; is generally; one of the transferred business assets in these types of transactions)
+0.39 (visitor information; is generally one of; the transferred business assets)
+
+We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
+0.46 (We; may transfer; such information; T:in the course of corporate divestitures, mergers, or dissolution)
+
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+0.31 (we; change; our privacy policies and procedures)
+0.44 (we; may disclose; it; L:under what circumstances)
+0.11 (we; will post; those changes on our website; to keep you aware of what information we collect)
+0.26 Context(we will post,List([50, 62))):(we; will post those changes on our website to keep; you)
+0.19 (we; collect; )
+0.31 (we; use; it)
+
+Changes to this Privacy Policy are effective when they are posted on this page.
+0.90 (Changes to this Privacy Policy; are; effective; T:when they are posted on this page)
+0.62 (they; are posted; on this page)
+
+merger  sale or other asset transfers.
+
+if we are involved in a merger  acquisition  financing due diligence  reorganization  bankruptcy  receivership  sale of our assets  or transition of service to another provider  your information may be sold or transferred as part of such a transaction as permitted by law and or contract.
+0.45 (we; are involved; in a merger  acquisition)
+0.90 (a merger  acquisition; financing; due diligence  reorganization  bankruptcy  receivership  sale of our assets  or transition of service to another provider)
+0.34 (your information; may be sold; )
+0.60 (your information; transferred; as part of such a transaction; T:as permitted by law and or contract)
+
+your choices spiceworks may update this privacy policy from time to time.
+0.66 (your choices spiceworks; may update; this privacy policy)
+
+we will post any adjustments to the privacy policy on this web page  and the revised version will be effective when it is posted.
+0.57 (we; will post; any adjustments to the privacy policy on this web page  and the revised version)
+0.27 (we; will be; effective; T:when it is posted)
+0.19 (it; is posted; )
+
+when we change this privacy policy in a material way  a prominent notice will be posted on our site along with the updated this privacy policy prior to the changes becoming effective.
+0.45 (we; change; this privacy policy in a material way)
+0.85 (a prominent notice; will be posted; on our site along with the updated)
+0.94 (the changes; becoming; effective; T:when we change this privacy policy in a material way)
+
+please check this url frequently to see the latest version of this this privacy policy.
+
+feedback motorola mobility llc  motorola  recognizes that privacy and security are important for our customers and website users  this statement describes how motorola collects  uses and safeguards information you provide when using motorola com  by using this website  you consent to the collection and use of your information by motorola as described in the policy currently in effect  any changes to this statement will be posted on our websites  so please check back periodically to ensure that you have the most current statement spiceworks reserves the right  at its sole discretion  to change  modify  add or remove portions of these terms of use and the privacy policy at any time.
+0.77 (motorola mobility llc  motorola; recognizes; that privacy and security are important)
+0.74 Context(motorola mobility llc motorola recognizes,List([9, 52))):(privacy and security; are; important)
+0.85 (information; provide; T:when using motorola com)
+0.51 Context(information provide,List([198, 221))):(you; using; motorola com)
+0.87 (this statement; describes; how motorola collects  uses and safeguards information you provide when using motorola com  by using this website)
+0.70 Context(this statement describes,List([130, 154))):(motorola; collects; uses)
+0.84 Context(this statement describes,List([130, 154))):(any changes to this statement; will be posted; on our websites)
+0.80 (motorola; safeguards; information you provide)
+
+the most current version of the terms of use may be found at www.spiceworks.com
+0.87 (the most current version of the terms of use; may be found; L:at www.spiceworks.com)
+
+terms  (or such successor url as spiceworks may provide).
+0.83 (terms  (or such successor url as spiceworks; may provide; )
+
+you should visit this page periodically to review the most current terms of use  because you are bound by them.
+0.32 (you; are bound; )
+0.41 (you; should visit periodically; to review the most current terms of use  because you are bound by them)
+0.45 Context(you should visit periodically,List([0, 39))):(you; should visit periodically to review; the most current terms of use)
+
+the most current version of the privacy policy may be found at www.spiceworks.com
+0.85 (the most current version of the privacy policy; may be found; L:at www.spiceworks.com)
+
+privacy (or such successor url as spiceworks may provide).
+0.83 (privacy (or such successor url as spiceworks; may provide; )
+
+your continued use of the service indicates your acceptance and agreement to the changes.
+0.58 (your continued use of the service; indicates; your acceptance and agreement to the changes)
+
+as long as you comply with this agreement  spiceworks grants you a personal  non-exclusive  non-transferable  limited privilege to enter the site and use the service.
+0.62 (you; comply; with this agreement)
+
+protecting our users  privacy is very important to spiceworks.
+0.74 (protecting our users  privacy; is; very important to spiceworks)
+
+as a condition of downloading and using the service  you agree to the terms of the spiceworks privacy policy  which may be updated from time to time  as expressed in the most recent version that exists at the time of your use. the most current version of the spiceworks privacy policy may be found at www.spiceworks.com
+0.84 (the most recent version; exists; T:at the time of your use)
+0.87 (the most current version of the spiceworks privacy policy; may be found; L:at www.spiceworks.com)
+0.62 (you; agree; to the terms of the spiceworks privacy policy)
+0.79 (the terms of the spiceworks privacy policy; may be updated; )
+
+privacy .
+
+information collected by spiceworks may be stored and processed in the united states or any other country in which spiceworks  inc.
+0.89 (information; collected; by spiceworks)
+0.77 (information collected by spiceworks; may be stored; )
+0.91 (information collected by spiceworks; processed; L:in the united states or any other country)
+
+or its agents maintain facilities.
+0.64 (its agents; maintain; facilities)
+
+by using the service you consent to any such transfer of information outside of your country.
+0.58 (you; consent; to any such transfer of information outside of your country)
+
+when posting content to the google code website (http code.google.com)
+
+or when sharing content obtained from this website with others  you agree that you are solely responsible for complying with u.s.
+0.89 (content; obtained; from this website)
+0.34 (you; agree; that you are solely responsible for complying with u.s.; T:when sharing content)
+0.60 Context(you agree,List([64, 73))):(you; are; solely responsible for complying with u.s.)
+
+export control regulations  including the export administration regulations ( ear )  and all other applicable export and import laws and regulations.
+
+these regulations require that all postings of open source encryption code be simultaneously reported by email to the u.s.
+0.81 (these regulations; require; that all postings of open source encryption code be simultaneously reported by email to the)
+0.93 Context(these regulations require,List([0, 25))):(all postings of open source encryption code; be reported; by email; to the; T:simultaneously)
+
+government.
+
+you are responsible for submitting this email report to the u.s.
+0.62 (you; are; responsible for submitting this email report to the)
+0.58 (you; for submitting; this email report; to the)
+
+government in accordance with procedures described in  http www.bis.doc.gov
+0.89 (procedures; described; L:in  http)
+
+encryption pubavailencsourcecodenofify.html and section 740.13(e) of the ear.
+
+users residing in countries on the united states office of foreign assets control sanction list  including cuba  iran  north korea  sudan and syria  may not post or access content available through the google code website.
+0.93 (users; residing; in countries on the united states office of foreign assets control sanction list  including cuba)
+0.79 (north korea  sudan and syria; may not post; )
+0.91 (north korea  sudan and syria; access; content available)
+
+We may share information with any successor to all or part of our business.
+0.42 (We; may share; information; with any successor to all or part of our business)
+
+For example, if part of our business is sold we may give our customer list as part of that transaction.
+0.39 (part of our business; is sold; )
+0.14 (we; may give; our customer list; as part of that transaction)
+
+From time to time we may change our privacy practices.
+0.44 (we; may change; our privacy practices; T:From time to time)
+
+We will notify you of any material changes to this policy as required by law.
+0.31 (We; will notify; you; of any material changes to this policy)
+
+We will also post an updated copy on our website.
+0.31 (We; will also post; an updated copy; on our website)
+
+Please check our site periodically for updates.
+
+Business Transfers.
+
+Personal information about you may be disclosed as part of any merger, acquisition, sale of company assets or transition of service to another provider.
+0.77 (Personal information about you; may be disclosed; as part of any merger, acquisition, sale of company assets or transition of service to another provider)
+
+In the unlikely event of an insolvency, bankruptcy or receivership, personal information may also be transferred as a business asset.
+0.96 (personal information; may also be transferred; as a business asset; L:In the unlikely event of an insolvency, bankruptcy or receivership)
+
+We may change this Policy at any time.
+0.50 (We; may change; this Policy; T:at any time)
+
+When we change the Policy we will give notice by changing the date it was last updated or as required by law.
+0.42 (we; change; the Policy we will give notice by changing the date)
+0.45 (we; will give; notice)
+0.51 (it; was; last updated or as required by law; T:When we change the Policy)
+0.40 (it; updated; T:When we change the Policy; T:last)
+
+depending upon the circumstances  we may share collected information with  a  law enforcement or others as needed to protect or defend our rights and the rights of others   b  third parties we hire to handle certain activities   c  advertisers or third parties with whom we may partner to provide you additional content  products or services   d  business partners who sponsor a sweepstakes or contest or who jointly offer a service or feature on the nickelodeon sites   e  within the viacom family of companies   f  in the event of a corporate transaction  and  g  otherwise with your consent information collected through the nickelodeon sites may be transferred  disclosed or shared with third parties engaged by us to handle and deliver certain activities  such as message boards  sweepstakes and contests  e cards  payment processing  newsletters  and advisory boards  and to perform other technical and processing functions  such as sending postal mail and email  maintaining data integrity  programming operations  user services or technology services  we may provide these third parties information collected as needed to perform their functions  but they are prohibited from using it for other purposes and specifically agree to maintain the confidentiality of such information  some of these agents  such as payment processors  may request additional information during the course of offering their services  before you provide additional information to third party agents  we encourage visitors to review their privacy policies and information collection practices in the event that assets relating to one or more of the nickelodeon sites are transferred or sold to another entity as a result of  for example  a corporate sale  merger  consolidation  asset sale  or in the unlikely event of bankruptcy  information collected at the nickelodeon sites may be transferred to the acquiring company In Connection with Business Transfers: In the event that a store, division or part or all of Toys"R"Us (or the assets of a Toys"R"Us entity) is bought, sold or otherwise transferred, or is in the process of a potential transaction, customer information will likely be shared for evaluation purposes and included among the transferred business assets.
+0.42 (we; may share; collected information; with  a  law enforcement or others; T:as needed to protect or defend our rights and the rights of others)
+0.89 (business partners; sponsor; a sweepstakes or contest)
+0.45 (we; may provide; these third parties information collected)
+0.91 (the event; assets; relating to one or more of the nickelodeon sites are transferred or sold to another entity as a result of  for example  a corporate sale  merger  consolidation  asset sale  or in the unlikely event of bankruptcy  information collected at the nickelodeon sites may be transferred to the acquiring company)
+0.68 Context(the event assets,List([1579, 1600))):(the event; assets relating; to)
+0.77 Context(the event assets relating,List([1579, 1609))):(one or more of the nickelodeon sites; are transferred; )
+0.77 (these third parties information; collected; )
+0.36 (your consent information; collected; )
+0.84 (third parties; to deliver; certain activities  such as message boards  sweepstakes and contests)
+0.42 (they; from using; it; for other purposes)
+0.40 (we; hire; to handle certain activities)
+0.36 Context(we hire,List([190, 197))):(we; hire to handle; certain activities   c  advertisers or third parties with whom we may partner to provide you additional content  products or services   d  business partners)
+0.46 (they; are prohibited; from using it for other purposes)
+0.92 (companies; f; L:in the event of a corporate transaction)
+0.90 (bankruptcy  information; collected; L:at the nickelodeon sites)
+0.90 (some of these agents  such as payment processors; may request; additional information; T:during the course of offering their services)
+0.62 (you; provide; additional information; to third party agents)
+0.80 (a store, division or part or all of Toys"R"Us (or the assets of a Toys"R"Us entity; sold; )
+0.76 (a store, division or part or all of Toys"R"Us (or the assets of a Toys"R"Us entity; is bought; )
+0.96 (the nickelodeon sites; e; L:within the viacom family of companies   f  in the event of a corporate transaction  and  g)
+0.93 (customer information; included; among the transferred business assets; L:In the event)
+0.94 (customer information; will likely be shared; for evaluation purposes; L:In the event)
+0.89 (third parties; engaged; by us; to handle and deliver certain activities  such as message boards  sweepstakes and contests  e cards  payment processing  newsletters  and advisory boards  and to perform other technical and processing functions  such as sending postal mail and email  maintaining data integrity  programming operations  user services or technology services)
+0.58 (they; to maintain; the confidentiality of such information)
+0.89 (business partners; jointly offer; a service or feature on the nickelodeon sites)
+0.96 (one or more of the nickelodeon sites; sold; to another entity; as a result of  for example  a corporate sale  merger  consolidation  asset sale)
+0.36 (we; may partner; to provide you additional content  products or services   d  business partners)
+0.26 Context(we may partner,List([271, 285))):(we; may partner to provide; you; additional content  products or services   d  business partners)
+0.82 (visitors; to review; their privacy policies and information collection practices; T:in the event)
+0.70 (third parties; to handle; )
+0.93 (a store, division or part or all of Toys"R"Us (or the assets of a Toys"R"Us entity; is; in the process of a potential transaction)
+
+This Privacy Policy may be updated and revised from time to time, and we will post any changes to this policy.
+0.80 (This Privacy Policy; may be updated; )
+0.92 (This Privacy Policy; revised; from time to time)
+0.45 (we; will post; any changes to this policy)
+
+You agree that the information that we gather now will be subject to the Privacy Policy in effect at the time of use.
+0.74 (the information; gather; T:now)
+0.33 (You; agree; that the information that we gather now will be subject to the Privacy Policy in effect at the time of use)
+0.80 Context(You agree,List([0, 9))):(the information that we gather now; will be; subject to the Privacy Policy in effect at the time of use)
+
+We may contact you with notices concerning our Privacy Policy, but you should check the Toys"R"Us Sites periodically to review any changes.
+0.31 (We; may contact; you)
+0.85 (notices; concerning; our Privacy Policy)
+0.91 (the Toys; to review; any changes)
+
+please read this privacy statement carefully and review it periodically for the latest information about our privacy practices   by using the site  you agree to the terms of this privacy statement  if you do not agree with the practices described in this privacy statement  please do not provide us with your personal information or interact with the site we will routinely update this privacy statement to clarify our practices and to reflect new or different privacy practices  such as when we add new services  functionality or features to the site  if we make any material changes we will notify you by email  sent to the email address specified in your account  or by means of notice on the site prior to the change becoming effective  you can determine when this privacy statement was last revised by referring to the date it was  last updated  above  you can review the last version of this privacy statement here we are pleased to announce that ultimate internet access (uia) has purchased the assets of linkline communications from chapter 7 bankruptcy.
+0.90 (the practices; described; L:in this privacy statement)
+0.33 (we; are; pleased to announce that ultimate internet access (uia) has purchased the assets of linkline communications from chapter 7 bankruptcy)
+0.25 (we; to announce; that ultimate internet access (uia) has purchased the assets of linkline communications from chapter 7 bankruptcy)
+0.87 Context(we to announce,List([921, 947))):(ultimate internet access; has purchased; the assets of linkline communications from chapter 7 bankruptcy)
+0.56 (we; will notify; you; by email; T:when we add new services  functionality or features to the site)
+0.90 (this privacy statement; by referring; to the date)
+0.37 (it; was; last updated  above  you)
+0.30 (it; updated; T:last)
+0.40 (we; make; any material changes)
+0.69 Context(we make,List([556, 563))):(any material; changes; )
+0.62 (you; agree; to the terms of this privacy statement)
+0.66 (you; can determine; when this privacy statement was last revised by referring to the date)
+0.73 Context(you can determine,List([741, 758))):(this privacy statement; was revised; T:last)
+0.85 (the email address; specified; L:in your account; by means of notice on the site)
+0.52 (we; add; new services  functionality or features; to the site)
+0.36 (we; will routinely update; this privacy statement; to clarify our practices and to reflect new or different privacy practices  such as when we add new services  functionality or features to the site  if we make any material changes we will notify you by email)
+0.26 Context(we will routinely update,List([356, 380))):(we; will routinely update this privacy statement to clarify; our practices)
+0.62 (you; do not agree; with the practices)
+0.92 (email; sent; to the email address)
+0.39 (it; was last updated above; you)
+
+uia is a full service internet provider and has been in business for over 18 years serving the inland empire and greater southern california areas.
+0.92 (uia; is; a full service internet provider)
+0.88 (uia; has been; in business; T:for over 18 years)
+0.91 (over 18 years; serving; the inland empire and greater southern california areas)
+
+for more information on our services  please click here.
+
+On occasion priceline.com
+
+may revise this Privacy Policy to reflect changes in the law, our Personal Data collection and use practices, the features of our Site, or advances in technology.
+
+If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective.
+0.40 (we; make; any material changes)
+0.69 Context(we make,List([3, 10))):(any material; changes; )
+0.42 (we; will notify; you; by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change)
+0.90 (email; sent; to the e-mail address)
+0.85 (the e-mail address; specified; L:in your account)
+
+Our Commitment to Your Privacy Future Business Transfers: Our business is constantly changing.
+0.38 (Our business; is changing; T:constantly)
+
+As part of that process, priceline.com
+
+may sell or buy other companies, and Personal Data may be transferred as part of these transactions.
+0.93 (Personal Data; may be transferred; as part of these transactions)
+
+It is also possible that priceline.com,
+0.23 (It; is also; possible)
+
+or substantially all of its assets, may be acquired by another company, whether by merger, sale of assets or otherwise, and Personal Data may be transferred as part of such a transaction.
+0.67 (substantially all of its assets; may be acquired; by another company)
+0.93 (Personal Data; may be transferred; as part of such a transaction)
+
+In the event that Inflection is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
+0.94 (Inflection; involved; in a bankruptcy, merger, acquisition, reorganization or sale of assets)
+0.35 (your information; transferred; as part of that transaction)
+0.29 (your information; may be sold; )
+0.95 Context(your information may be sold,List([113, 141))):(Inflection; is; involved in a bankruptcy, merger, acquisition, reorganization or sale of assets)
+
+The obligations of this Privacy Policy will continue to apply to the new entity after the sale or transfer.
+0.85 (The obligations of this Privacy Policy; will continue; )
+0.94 (The obligations of this Privacy Policy; to apply; to the new entity; T:after the sale or transfer)
+
+Fraud and Abuse Prevention We may update this privacy policy to reflect changes to our information practices.
+0.31 (We; may update; this privacy policy; to reflect changes to our information practices)
+
+If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice posted to this website prior to the change becoming effective.
+0.40 (we; make; any material changes)
+0.69 Context(we make,List([3, 10))):(any material; changes; )
+0.90 (a notice; posted; to this website; T:prior to the change becoming effective)
+0.77 (the change; becoming; effective)
+0.42 (we; will notify; you; by email (sent to the email address specified in your account) or by means of a notice)
+0.90 (email; sent; to the email address)
+0.85 (the email address; specified; L:in your account)
+
+We encourage you to periodically review this page for the latest information on our privacy practices.
+0.42 (We; encourage; you; to periodically review this page for the latest information on our privacy practices)
+0.50 (you; to review; this page; for the latest information on our privacy practices; T:periodically)
+
+Contact Information We may amend these Terms at any time in our sole discretion, effective upon posting the amended Terms at this URL where the prior version of these Terms was posted or by communicating these changes through any written contact method we have established with you.
+0.44 (We; may amend; these Terms; T:at any time in our sole discretion; T:Contact Information)
+0.84 (any written contact method; have established; with you)
+0.95 (the prior version of these Terms; was posted; L:this URL)
+
+Your use of the Services following the date on which such amended Terms are published will constitute consent to such amendments.
+0.94 (such amended Terms; are published; L:the date)
+0.78 (Your use of the Services following the date; will constitute; consent)
+
+However, if you cease using the Services upon such publication, your relationship with us will continue to be controlled by the previous version of these Terms.
+0.39 (your relationship with us; will continue; )
+0.64 (your relationship with us; to be controlled; by the previous version of these Terms)
+0.61 (you; cease; using the Services upon such publication)
+0.61 Context(you cease,List([12, 21))):(you; cease using; the Services upon such publication)
+
+You agree that you will periodically check this page for updates to these Terms, and read the messages we send you to inform you of any changes.
+0.42 (you; read; the messages we send you)
+0.37 (we; send; you; to inform you of any changes)
+0.46 (you; to inform; you; of any changes)
+0.29 (You; agree; that you will periodically check this page for updates to these Terms, and read the messages)
+0.56 Context(You agree,List([0, 9))):(you; will periodically check; this page; for updates to these Terms)
+
+Whenever we change our Terms, we will post those changes to this Terms of Service page, and other places we deem appropriate so that our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+0.31 (we; change; our Terms)
+0.31 (we; use; it)
+0.23 (we; will post; those changes; to this Terms of Service page; T:Whenever we change our Terms)
+0.44 (we; disclose; it; L:under what circumstances)
+0.21 (we; deem; appropriate so that our users are aware of what information we collect)
+0.49 (our users; are; aware of what information we collect)
+0.19 (we; collect; )
+
+By continuing to use the service, you agree and accept the changes and agree to the Terms.
+0.32 (you; agree; )
+0.58 (you; accept; the changes)
+0.58 (you; agree; to the Terms)
+
+15.
+
+Comments, Feedback, Suggestions, Ideas, And Other Submissions. in the event that say media sells  transfers or otherwise relinquishes all or part of our assets  business offerings  or services  including any of the say media services  information that you have shared with say media or that say media has collected  including both personally identifiable information and non-personally identifiable information  may be one of the business assets that will be transferred.
+0.84 (the event; say; media sells  transfers or otherwise relinquishes all or part of our assets  business offerings  or services  including any of the say media services  information)
+0.88 Context(the event say,List([66, 84))):(media; sells; transfers or otherwise relinquishes all or part of our assets  business offerings  or services  including any of the say media services  information)
+0.79 Context(the event say media sells,List([66, 96))):(media; sells otherwise relinquishes; all or part of our assets  business offerings  or services  including any of the say media services  information)
+0.88 (Comments; may be; one of the business assets)
+0.72 (the business assets; will be transferred; )
+0.91 (the say media services  information; have shared; with say media)
+
+we may also transfer or assign such information in the course of corporate divestitures  mergers  or dissolution.
+0.14 (we; may transfer; )
+0.41 (we; assign; such information; T:in the course of corporate divestitures  mergers  or dissolution)
+
+the transferred information will remain subject to the terms of this privacy policy or those of subsequent policies to which you have consented.
+0.86 (the transferred information; will remain; subject to the terms of this privacy policy or those of subsequent policies)
+0.88 (subsequent policies; have consented; you)
+
+if say media is involved in a merger  acquisition  or sale of all or a portion of its assets  you will be notified via a prominent notice on our website of any change in ownership or uses of your personal information  as well as any choices you may have regarding your personal information.
+0.58 (you; will be notified; via a prominent notice on our website of any change in ownership or uses of your personal information  as well as any choices)
+0.46 (you; may have regarding; your personal information)
+
+4. content removal say media may modify or update this privacy policy at its sole discretion from time to time  and so you should review this privacy policy periodically.
+0.88 (media; update; this privacy policy)
+0.61 (you; should review periodically; this privacy policy)
+0.89 (4. content removal; say; media may modify or update this privacy policy at its sole discretion from time to time  and so you should review this privacy policy periodically)
+0.67 Context(4 . content removal say,List([0, 22))):(media; may modify; )
+
+when we change the policy in a material way  we will notify you by means of a notice on our website prior to the change becoming effective.
+0.45 (we; change; the policy)
+0.44 (we; will notify; you; by means of a notice on our website; T:prior to the change; T:when we change the policy in a material way)
+
+changes to this privacy policy are effective when they are posted on this page.
+0.87 (changes to this privacy policy; are; effective; T:when they are posted on this page)
+0.62 (they; are posted; on this page)
+
+your continued access to the say media services after the privacy policy has been modified and posted will signify your acceptance of such modifications.
+0.75 (the privacy policy; has been modified; )
+0.72 (the privacy policy; posted; )
+0.80 (your continued access to the say media services after the privacy policy has been modified and posted; will signify; your acceptance of such modifications)
+
+We may make changes to these Terms at any time.
+0.45 (We; may make; changes to these Terms; T:at any time)
+
+Any changes we make will be effective immediately when we post a revised version of these Terms on the Site.
+0.19 (we; make; )
+0.65 (Any changes we make; will be; effective; T:immediately; T:when we post a revised version of these Terms on the Site)
+0.52 (we; post; a revised version of these Terms on the Site)
+
+The "Last Updated" date above will tell you when these Terms were last revised.
+
+By continuing to use this Site after that date, you agree to the changes.
+0.62 (you; agree; to the changes)
+
+VII.
+
+ACCEPTANCE OF PBS.ORG PRIVACY POLICY TERMS AND CONDITIONS By using this Site, you signify your agreement to the terms and condition of this pbs.org
+0.46 (you; signify; your agreement)
+
+Privacy Policy.
+
+If you do not agree to the terms and conditions, please do not use the Site.
+0.62 (you; do not agree; to the terms and conditions)
+
+We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this policy at any time.
+0.45 (We; reserve; the right)
+
+Please check this page periodically for any changes.
+
+Your continued use of pbs.org following the posting of any changes to these terms shall signify your acceptance of those changes.
+0.53 (Your continued use of pbs.org following the posting of any changes to these terms; shall signify; your acceptance of those changes)
+
+If you have any questions or concerns, pleasecontact us.
+0.62 (you; have; any questions or concerns)
+
+This website (the Site) is owned and operated by ScienceBlogs, LLC (SB).
+0.70 (This website; is owned; )
+0.89 (This website; operated; by ScienceBlogs)
+
+SB provides the Site and its services to you subject to the following Terms of Service (the Terms).
+0.76 (SB; provides; the Site and its services; to you)
+
+By using the Site, you agree to be bound by the Terms.
+0.62 (you; agree; to be bound by the Terms)
+0.28 (you; to be bound; )
+
+SB may, in its sole discretion, modify the Terms without notice to you.
+0.79 (SB; may modify; the Terms; to you; L:in its sole discretion)
+
+Therefore, please continue to review the Terms when using the Site.
+
+The Last Modified date will indicate when the latest changes were made.
+0.90 (The Last Modified date; will indicate; when the latest changes were made)
+
+By continuing to access and use the Site after the Terms have been modified, you are agreeing to such modifications.
+0.73 (the Terms; have been modified; )
+0.62 (you; are agreeing; to such modifications)
+
+In addition, when using particular services or features or making purchases on the Site, you shall be subject to any posted guidelines or rules applicable to such services, features or purchases that may be posted from time to time.
+0.82 (you; shall be; subject to any posted guidelines or rules applicable to such services, features or purchases; T:when using particular services or features or making purchases on the Site)
+0.92 (such services, features or purchases; may be posted; from time to time)
+
+All such guidelines or rules are hereby incorporated by reference into the Terms.
+0.93 (All such guidelines or rules; are hereby incorporated; by reference; into the Terms)
+
+Description of Service SB reserves the right, without notice and at its sole discretion, to suspend or terminate the Terms and/or your ability to access or use the Service, and to block or prevent future access to and use of the Service for any reason, including your breach of the Terms or other conduct by you that SB considers inappropriate.
+0.94 (Description of Service SB; reserves; the right)
+0.68 (SB; considers; inappropriate)
+
+SB reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice.
+0.86 (SB; reserves; the right)
+
+Except as otherwise expressly stated in the Terms, you agree that neither SB nor any of its affiliated companies shall be liable to you or to any third party for any modification, suspension or discontinuation of the Service.
+0.32 (you; agree; that neither SB nor any of its affiliated companies shall be liable to you or to any third party for any modification, suspension or discontinuation of the Service)
+0.77 Context(you agree,List([51, 60))):(neither SB nor any of its affiliated companies; shall be; liable to you or to any third party for any modification, suspension or discontinuation of the Service)
+
+Governing Law Use of your personal informationCrime preventionTelephone callsDisclosure of your informationCookiesSecurityProduct reviewsGeneralHow can I get my name removed from the argos.co.uk mailing list?How do I change any details stored on argos.co.uk?Contact usChanges to policy Use of your personal information 26.
+0.90 (any details; stored; L:on argos.co.uk)
+
+We may amend and update this policy from time to time.
+0.19 (We; may amend; )
+0.41 (We; update; this policy)
+
+Any changes in the future will be posted on this page.
+0.93 (Any changes in the future; will be posted; on this page)
+
+The date of the latest update to this privacy policy is set out at the top of this policy.
+0.95 (The date of the latest update to this privacy policy; is set out; at the top of this policy)
+
+this policy may change at any time  please check in before using the site.
+
+when we make any material change to this privacy policy  we will inform you by posting a notice on the home page of our sites that the policy has been updated and by changing the date on this page noting when the policy was last updated.
+0.45 (we; make; any material change to this privacy policy)
+0.32 (we; will inform; you; by posting a notice on the home page of our sites that the policy has been updated and by changing the date on this page; T:when we make any material change to this privacy policy)
+0.73 (the policy; has been updated; )
+
+in the event that pjm is acquired by or merged with a third party entity  we reserve the right  in any of these circumstances  to transfer or assign the information we have collected from our members and users as part of such merger  acquisition  sale  or other change of control. in the unlikely event of our bankruptcy  insolvency  reorganization  receivership  or assignment for the benefit of creditors  or the application of laws or equitable principles affecting creditors  rights generally  we may not be able to control how your personal information is treated  transferred  or used.
+0.70 (the event; is acquired; )
+0.88 (the information; have collected; we)
+0.33 (your personal information; transferred; )
+0.89 (the event; merged; with a third party entity)
+0.50 (we; reserve; the right; in any of these circumstances; to transfer or assign the information we have collected from our members and users as part of such merger  acquisition  sale  or other change of control. in the unlikely event of our bankruptcy  insolvency  reorganization  receivership  or assignment for the benefit of creditors  or the application of laws or equitable principles affecting creditors  rights; L:in the event)
+0.11 Context(we reserve,List([74, 84))):(we; reserve the right to transfer; )
+0.33 (your personal information; used; )
+0.23 (we; to control; how your personal information is treated  transferred  or used)
+0.35 Context(we to control,List([498, 527))):(your personal information; is treated; transferred  or used)
+
+We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
+0.35 (We; may share; personal information)
+
+You will be notified via e-mail and/or a prominent notice on our applicable website(s) of any change in ownership, as well as any choices you may have regarding your personal information.
+0.32 (You; will be notified; )
+0.46 (you; may have regarding; your personal information)
+
+We may need to update our Privacy Policy as Best Buy and our customers grow and evolve.
+0.54 (our Privacy Policy as Best Buy and our customers; evolve; )
+0.40 (We; may need; to update our Privacy Policy as Best Buy and our customers grow and evolve)
+0.40 Context(We may need,List([0, 11))):(We; may need to update; our Privacy Policy as Best Buy and our customers grow and evolve)
+
+If we make material changes, we will notify you by e-mail (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective, as well as inform you of any choices you may have with respect to these changes.
+0.45 (we; make; material changes)
+0.42 (we; will notify; you; by e-mail (sent to the e-mail address specified in your account) or by means of a notice on this website; prior to the change becoming effective, as well as inform you of any choices)
+0.88 (any choices; may have; you)
+0.90 (e-mail; sent; to the e-mail address)
+0.85 (the e-mail address; specified; L:in your account)
+
+TRUSTe Privacy Seal Changes to Privacy Statement    We may update this Privacy Statement from time to time.
+
+We will do so by posting additions or modifications to this page.
+0.18 (We; will do; so)
+0.39 Context(We will do,List([0, 10))):(We; will do so by posting; additions or modifications to this page)
+

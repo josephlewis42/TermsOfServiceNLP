@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+however  no data transmission over the internet can be guaranteed to be 100  secure   as a result  while we have taken appropriate steps to protect your personal information  motorola cannot ensure or otherwise warrant the security of any information you provide to us or from our web site and therefore you use our site at your own risk
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+Cooks . com has no affiliation , and no agency or partnership is implied with reference to any products which are advertised or listed as ingredients in recipes , articles or archival materials .
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+16.
+We will treat all of your information in strict confidence and we will endeavour to take all reasonable steps to protect your personal information.
+However, we cannot guarantee the security of any data you disclose online.
+You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.

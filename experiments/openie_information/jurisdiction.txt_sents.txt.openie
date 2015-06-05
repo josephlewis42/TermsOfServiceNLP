@@ -1,0 +1,367 @@
+when posting content to the google code website (http code.google.com)
+
+or when sharing content obtained from this website with others  you agree that you are solely responsible for complying with u.s.
+0.89 (content; obtained; from this website)
+0.34 (you; agree; that you are solely responsible for complying with u.s.; T:when sharing content)
+0.60 Context(you agree,List([64, 73))):(you; are; solely responsible for complying with u.s.)
+
+export control regulations  including the export administration regulations ( ear )  and all other applicable export and import laws and regulations.
+
+these regulations require that all postings of open source encryption code be simultaneously reported by email to the u.s.
+0.81 (these regulations; require; that all postings of open source encryption code be simultaneously reported by email to the)
+0.93 Context(these regulations require,List([0, 25))):(all postings of open source encryption code; be reported; by email; to the; T:simultaneously)
+
+government.
+
+you are responsible for submitting this email report to the u.s.
+0.62 (you; are; responsible for submitting this email report to the)
+0.58 (you; for submitting; this email report; to the)
+
+government in accordance with procedures described in  http www.bis.doc.gov
+0.89 (procedures; described; L:in  http)
+
+encryption pubavailencsourcecodenofify.html and section 740.13(e) of the ear.
+
+users residing in countries on the united states office of foreign assets control sanction list  including cuba  iran  north korea  sudan and syria  may not post or access content available through the google code website.
+0.93 (users; residing; in countries on the united states office of foreign assets control sanction list  including cuba)
+0.79 (north korea  sudan and syria; may not post; )
+0.91 (north korea  sudan and syria; access; content available)
+
+f  electronic postcards and messages   some nickelodeon sites provide visitors the opportunity to send electronic postcards and  wish lists  of items they want to family or friends  which means we will send  on the visitor s behalf  email messages to family and or friends  to do so  visitors must provide the email address of the recipient of such electronic postcards or email messages  visitors must only provide email addresses of people who they know would be happy to receive such electronic postcards or email messages  email addresses provided to us for this purpose are used solely to send the requested postcard or email message and are deleted from our system once the postcard or message is sent  in some cases  we may offer visitors an incentive   e g    points to be used in an online game  for referring information about products to the visitor s family or friends in such cases  we will comply with all applicable legal requirements  please note that this feature may not be available to visitors in certain regions or countries you acknowledge  consent  and agree to the extent legally permissible in your jurisdiction to allow us to access  preserve  and or disclose the information we collect and or content you provide to us  including information you may have posted on bulletin boards or internal site communication systems  to a law enforcement agency or other third parties if required to do so by law or with a good faith belief that such access  preservation  or disclosure is reasonably necessary to   a  comply with legal process   b  enforce the terms of use of the respective nickelodeon sites   c  respond to claims that the content violates the rights of third parties   d  respond to your requests for customer service  or  e  protect the rights  property  or personal safety of the owners of the nickelodeon sites  any user of the nickelodeon sites  a third party or the general public  we also may disclose user information whenever we believe disclosure is necessary to limit our legal liability  to protect or defend our rights or property  or protect the safety  rights  or property of others the nickelodeon sites are designed for and targeted to u s  audiences and are governed by and operated in accordance with the laws of the u s  while users from countries other than the u s  may access certain of the nickelodeon sites  we make no representation that the nickelodeon sites are operated in accordance with the laws or regulations of  or governed by  other nations  by participating in activities on the nickelodeon sites  you certify that you meet the age and other eligibility requirements for the nickelodeon sites as set forth in the respective terms of use agreement for each site  if you do not meet the age and other eligibility requirements of the particular site you are visiting  please discontinue using that site immediately as your continued use of the nickelodeon sites indicates that you are agreeing to the collection  use  disclosure  management and storage of your information as described in this privacy policy please be aware that by providing us with personal information  you understand and agree that   1  due to our international operations  your personal information may be transferred to and stored on servers located outside your resident jurisdiction   2  to the extent you are a resident of a country other than the united states  you consent to the transfer of such data to the united states for processing by our affiliates in accordance with this privacy policy and  3  the privacy policy and the collection of information pursuant to the privacy policy shall be governed by and construed in accordance with the laws of the united states  without giving effect to any principles of conflicts of law  our affiliates comply with the u s eu safe harbor  please see the safe harbor privacy policy for detailed information on these affiliates  privacy practices california civil code section 1798 83 permits our visitors who are california residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes  to make such a request  please send an email to or write us  nickprivacy nickonline com email  or you may contact us via regular mail at If you live outside of the United States, you understand and agree that we may transfer your information to the United States.
+0.91 (some nickelodeon sites; provide; visitors; the opportunity to send electronic postcards)
+0.82 (email addresses of people who they know; would be; happy to receive such electronic postcards or email messages  email addresses)
+0.33 (we; make; no representation that the nickelodeon sites are operated in accordance with the laws or regulations of  or governed by  other nations  by participating in activities on the nickelodeon sites)
+0.62 (you; acknowledge; consent)
+0.29 (you; agree; that we may transfer your information to the United States)
+0.30 Context(you agree,List([4336, 4360))):(we; may transfer; your information; to the United States)
+0.75 (the nickelodeon sites; are operated; )
+0.71 (you; consent; to the transfer of such data to the united states for processing by our affiliates in accordance with this privacy policy and  3  the privacy policy and the collection of information pursuant to the privacy policy; L:the united states)
+0.97 (the safe harbor privacy policy for detailed information on these affiliates; california; privacy practices)
+0.88 (visitors; to send; electronic postcards)
+0.29 (you; certify; that you meet the age and other eligibility requirements for the nickelodeon sites as set forth in the respective terms of use agreement for each site)
+0.67 Context(you certify,List([2568, 2579))):(you; meet; the age and other eligibility requirements for the nickelodeon sites)
+0.60 (our visitors; are; california residents)
+0.44 (you; c respond; to claims that the content violates the rights of third parties)
+0.88 (information; may have posted; on bulletin boards or internal site communication systems)
+0.32 (you; understand; )
+0.38 (they; know; )
+0.27 (you; are; )
+0.83 Context(you are,List([3344, 3351))):(a resident of a country other than the united states; shall be governed; by)
+0.98 (electronic postcards and messages   some nickelodeon sites provide visitors the opportunity to send electronic postcards and  wish lists  of items; are used solely; to send the requested postcard or email message)
+0.26 (you; agree; that   1  due to our international operations  your personal information may be transferred to and stored on servers)
+0.35 Context(you agree,List([3140, 3164))):(your personal information; may be transferred; to)
+0.92 (some nickelodeon sites; wish; lists  of items)
+0.57 (the information we collect and or content; provide; to us)
+0.28 (you; are visiting; please discontinue using that site immediately as your continued use of the nickelodeon sites)
+0.20 Context(you are visiting,List([2817, 2833))):(you; are visiting discontinue; using that site immediately as your continued use of the nickelodeon sites)
+0.14 Context(you are visiting discontinue,List([2817, 2853))):(you; are visiting discontinue using; that site; T:immediately; as your continued use of the nickelodeon sites)
+0.70 (we; will comply; with all applicable legal requirements; T:once the postcard or message is sent  in some cases)
+0.26 (we; believe; disclosure is necessary to limit our legal liability)
+0.90 (the nickelodeon sites; by participating; in activities on the nickelodeon sites)
+0.83 (email addresses; provided; to us; for this purpose)
+0.69 (our visitors who are california residents; to request; certain information regarding our disclosure of personal information to third parties for their direct marketing purposes)
+0.82 (servers; located; L:outside your resident jurisdiction   2)
+0.90 (the content; violates; the rights of third parties)
+0.66 (you; live; L:outside of the United States)
+0.63 (they; want; to family or friends)
+0.20 Context(they want,List([150, 159))):(they; want to family or friends to do; )
+0.83 (a resident of a country other than the united states; construed; )
+0.72 (you; do not meet; the age and other eligibility requirements of the particular site)
+0.57 (we; may offer; visitors; an incentive   e g    points to be used in an online game  for referring information about products to the visitor s family or friends in such cases)
+0.78 (the nickelodeon sites; are designed; for)
+0.96 (electronic postcards and messages   some nickelodeon sites provide visitors the opportunity to send electronic postcards and  wish lists  of items; are deleted; from our system)
+0.52 (we; collect; the information we collect and or content you provide to us)
+0.71 (email addresses of people who they know; to receive; such electronic postcards or email messages)
+0.56 (you; understand; T:by providing us with personal information)
+0.39 (we; also may disclose; user information)
+0.51 (you; agree legally permissible; to the extent)
+0.93 Context(you agree legally permissible,List([1046, 1115))):(such access  preservation  or disclosure; is; reasonably necessary to   a  comply with legal process)
+0.88 (visitors; must only provide; email addresses of people who they know would be happy to receive such electronic postcards or email messages  email addresses)
+0.62 (your personal information; stored; L:on servers)
+0.91 (the laws or regulations of; governed; by  other nations)
+0.64 (our affiliates; comply; with the u s eu safe harbor)
+0.32 (us; to disclose; the information we collect and or content you provide to us  including information)
+0.72 (the nickelodeon sites; targeted; )
+0.91 (an incentive; g; points)
+0.85 (family or friends; means; we will send  on the visitor s behalf  email messages to family)
+0.39 Context(family or friends means,List([163, 193))):(we; will send; T:on the visitor s behalf  email messages; to family)
+0.58 (you; are agreeing; to the collection  use  disclosure  management and storage of your information)
+0.46 (you; may contact; us)
+0.99 (users from countries other than the u s  may access certain of the nickelodeon sites  we make no representation that the nickelodeon sites are operated in accordance with the laws or regulations of  or governed by  other nations  by participating in activities on the nickelodeon sites; see; the safe harbor privacy policy for detailed information on these affiliates  privacy practices california)
+0.39 (you; are a resident of; a country)
+
+This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.
+0.94 (This site; is; subject to U.S. laws)
+0.77 (U.S. laws; may not afford; the same level of protection of those in your country)
+
+spiceworks processes personal information on servers in the united states of america and in other countries.
+
+in some cases  we may process personal information on a server outside your own country.
+0.44 (we; may process; personal information on a server outside your own country; L:in some cases)
+
+if you are visiting from the european union or other regions with laws governing data collection and use  please note that you are agreeing to the transfer of your information to the united states and processing globally.
+0.62 (you; are visiting; from the european union or other regions)
+0.81 (laws; governing; data collection)
+0.28 (you; use; )
+
+by providing your information you consent to any transfer and processing in accordance with this privacy policy.
+0.72 (you; consent; to any transfer and processing in accordance with this privacy policy)
+
+third-party sites Applicable Law.
+
+You agree that the laws of the State of New York, without regard to principles of conflict of laws, will govern these Terms and any claim or dispute that has arisen or may arise between you and Kinja, except as otherwise stated in these Terms.
+0.74 (any claim or dispute; has arisen; )
+0.86 (any claim or dispute; may arise; between you and Kinja)
+0.47 (You; agree; that the laws of the State of New York, without regard to principles of conflict of laws, will govern these Terms and any claim or dispute)
+0.94 Context(You agree,List([0, 9))):(the laws of the State of New York; will govern; these Terms)
+
+Judicial Forum for Legal Disputes.
+
+Unless you and we agree otherwise, in the event that the Binding Arbitration provision above is found not to apply to you or to a particular claim or dispute, either as a result of your decision to opt-out of the Terms or a court order, you agree that any claim or dispute that has arisen or may arise between you and Kinja must be resolved exclusively by a state or federal court located in New York City, New York.
+0.36 (you and we; agree otherwise; )
+0.74 (any claim or dispute; has arisen; )
+0.96 (the Binding Arbitration provision above; is found; L:in the event)
+0.86 (any claim or dispute; may arise; between you and Kinja)
+0.93 (the Binding Arbitration provision above; not to apply; to you or to a particular claim or dispute, either as a result of your decision to opt-out of the Terms or a court order)
+0.94 (a state or federal court; located; L:in New York City)
+0.33 (you; agree; that any claim or dispute that has arisen or may arise between you and Kinja must be resolved exclusively by a state or federal court)
+0.86 Context(you agree,List([237, 246))):(any claim or dispute that has arisen or may arise between you and Kinja; must be resolved exclusively; by a state or federal court)
+
+You and Kinja agree to submit to the personal jurisdiction of the courts located within New York City, New York for the purpose of litigating all such claims or disputes.
+0.95 (the courts; located; L:within New York City; for the purpose of litigating all such claims or disputes)
+0.68 (You and Kinja; agree; to submit to the personal jurisdiction of the courts)
+0.68 Context(You and Kinja agree,List([0, 19))):(You and Kinja; agree to submit; to the personal jurisdiction of the courts)
+
+13.
+
+Statute of Limitations.
+
+The Terms shall be exclusively governed by and construed in accordance with the laws of the State of New York within the United States of America without giving effect to any principles of conflicts of law.
+0.77 (The Terms; shall be exclusively governed; by)
+0.70 (The Terms; construed; )
+
+SB controls and operates the Site from its offices located in the State of New York in the United States of America.
+0.77 (its offices; located; L:in the State of New York in the United States of America)
+
+SB makes no representation that Materials contained on the Site or Products described or offered on the Site are appropriate or available for use in jurisdictions outside the United States, or that the Terms comply with the laws of any other country.
+0.88 (SB; makes; are appropriate or available for use in jurisdictions outside the United States)
+0.87 Context(SB makes,List([0, 8))):(no representation that Materials contained on the Site or Products; described; )
+0.90 (the Terms; comply; with the laws of any other country)
+0.94 (no representation; contained; Materials)
+0.96 (no representation that Materials contained on the Site or Products; offered; L:on the Site)
+
+Visitors who use the Service and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
+0.77 (local laws; are; applicable)
+
+If any provision of the Terms shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from the Terms and shall not affect the validity and enforceability of any remaining provisions.
+0.93 (any provision of the Terms; shall be; unlawful, void)
+0.89 (that provision; shall not affect; the validity and enforceability of any remaining provisions)
+
+Contacting Us twitter   subscribe   give a gift   customer service  advertisement  at home with town amp country more than 150 covers   dating back to 1860.
+0.64 (Contacting Us; twitter subscribe give; a gift   customer service  advertisement; L:at home)
+0.80 (more than 150 covers; dating; back to 1860)
+
+home   faq   privacy policy   your california privacy rights   terms of use   community guidelines   press   site map   advertise online   about our ads   advertise in print subscribe   give a gift   customer service   contact us  hearst women's sites  cosmopolitan   country living   delish   good housekeeping   harper's bazaar   house beautiful   marie claire   quick  amp.
+0.72 (your california privacy rights   terms of use   community guidelines   press   site map; advertise; L:online; about our ads)
+0.51 (us; hearst; women's sites  cosmopolitan   country living   delish   good housekeeping   harper's bazaar   house beautiful   marie claire   quick  amp)
+0.93 Context(us hearst,List([227, 237))):(women's sites; cosmopolitan; country living   delish   good housekeeping   harper's bazaar   house beautiful   marie claire   quick  amp)
+0.67 Context(us hearst women 's sites cosmopolitan,List([227, 265))):(country; living; )
+
+simple   redbook   town  amp.
+
+country   town  amp.
+
+country travel   veranda   2014 hearst communications  inc.
+0.90 (country travel; veranda; 2014 hearst communications  inc)
+
+all rights reserved.
+0.73 (all rights; reserved; )
+
+being green  why did i get this ad WE PROVIDE THE SITE AND THE CONTENT TO YOU "AS IS" AND "AS AVAILABLE".
+
+WE TRY TO KEEP THE SITE UP, BUG-FREE AND SAFE, BUT YOU USE IT AT YOUR OWN RISK.
+0.87 (WE; TO KEEP UP; THE SITE)
+
+TO THE FULLEST EXTENT PERMISSIBLE BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF TITLE, NON-INFRINGEMENT, ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR WARRANTIES THAT MAY ARISE FROM COURSE OF DEALING OR COURSE OF PERFORMANCE OR USAGE OF TRADE.
+
+WE DO NOT GUARANTEE THAT THE SITE WILL ALWAYS BE SAFE, SECURE OR ERROR-FREE OR THAT THE SITE WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS, DELAYS OR IMPERFECTIONS.
+0.92 (THE SITE; WILL BE; SAFE, SECURE OR ERROR-FREE OR; T:ALWAYS)
+0.99 (DO NOT GUARANTEE THAT THE SITE WILL ALWAYS BE SAFE, SECURE OR ERROR-FREE OR THAT THE SITE WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS; DELAYS; OR IMPERFECTIONS)
+
+WE ARE NOT RESPONSIBLE FOR THE ACTIONS OR INFORMATION OF THIRD PARTIES, AND YOU RELEASE US FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES.
+0.53 (WE; ARE NOT; RESPONSIBLE FOR THE ACTIONS OR INFORMATION OF THIRD PARTIES, AND YOU RELEASE US FROM ANY)
+0.47 (OR INFORMATION OF THIRD PARTIES, AND YOU RELEASE US; CLAIMS; )
+0.84 (THE ACTIONS OR INFORMATION OF THIRD PARTIES, AND YOU RELEASE US FROM ANY; ARISING; L:OUT OF OR)
+0.88 (WE; ARE NOT RESPONSIBLE FOR; THE ACTIONS OR INFORMATION)
+
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SOME OF THESE EXCLUSIONS MAY NOT APPLY TO YOU.
+0.87 (JURISDICTIONS; DO NOT ALLOW; THE EXCLUSION OF IMPLIED WARRANTIES)
+
+IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE 1542, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR.
+0.66 (YOU; ARE; A CALIFORNIA RESIDENT)
+0.74 (A GENERAL RELEASE; DOES NOT EXTEND; )
+0.87 (TO; CLAIMS; WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH)
+0.88 Context(TO CLAIMS,List([118, 127))):(THE CREDITOR; DOES NOT KNOW; OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH)
+
+Limitation of Liability To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to: Live Nation Entertainment, Inc., 9348 Civic Center Drive, Beverly Hills, CA 90210, Attn: Legal.
+0.91 (Limitation of Liability; To begin; an arbitration proceeding)
+0.63 (you; must send; a letter requesting arbitration and describing your claim to: Live Nation Entertainment, Inc., 9348 Civic Center Drive, Beverly Hills, CA 90210, Attn: Legal)
+0.90 (a letter; requesting; arbitration)
+0.77 (a letter; describing; your claim)
+
+You may download the forms located at http://www.jamsadr.com/files/Uploads/Documents/JAMS_Arbitration_Demand.doc.
+0.62 (You; may download; the forms located at http://www.jamsadr.com/files/Uploads/Documents/JAMS_Arbitration_Demand.doc.)
+0.77 (the forms; located; L:at http://www.jamsadr.com/files/Uploads/Documents/JAMS_Arbitration_Demand.doc.)
+
+The arbitration will be conducted by JAMS under its Streamlined Arbitration Rules and Procedures or, if applicable, its Comprehensive Arbitration Rules and Procedures, and any applicable supplemental rules including its Consumer Arbitration Standards of Minimum Fairness.
+0.86 (The arbitration; will be conducted; by JAMS; L:under its Streamlined Arbitration Rules and Procedures)
+
+The JAMS Rules are available online at http://www.jamsadr.com/rules-clauses
+0.72 (The JAMS Rules; are; available; L:online; L:at http://www.jamsadr.com/rules-clauses)
+
+or by calling 1-800-352-5267.
+
+Payment of all filing, administration and arbitrator fees will be governed by JAMS's rules.
+0.96 (Payment of all filing, administration and arbitrator fees; will be governed; by JAMS's rules)
+
+We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous, but in no event will we pay for attorneys' fees.
+0.23 (We; will reimburse; those fees; for claims)
+0.75 (claims; totaling; less than $10,000)
+0.88 (the arbitrator; determines; the claims are frivolous)
+0.72 Context(the arbitrator determines,List([74, 99))):(the claims; are; frivolous)
+
+You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location.
+0.55 (You; may choose; to have the arbitration)
+0.66 Context(You may choose,List([0, 14))):(You; may choose to have; the arbitration conducted by telephone, based on written submissions, or in person in the county)
+0.90 (the arbitration; conducted; by telephone)
+0.70 (you; live; L:the county)
+
+protecting our users  privacy is very important to spiceworks.
+0.74 (protecting our users  privacy; is; very important to spiceworks)
+
+as a condition of downloading and using the service  you agree to the terms of the spiceworks privacy policy  which may be updated from time to time  as expressed in the most recent version that exists at the time of your use. the most current version of the spiceworks privacy policy may be found at www.spiceworks.com
+0.84 (the most recent version; exists; T:at the time of your use)
+0.87 (the most current version of the spiceworks privacy policy; may be found; L:at www.spiceworks.com)
+0.62 (you; agree; to the terms of the spiceworks privacy policy)
+0.79 (the terms of the spiceworks privacy policy; may be updated; )
+
+privacy .
+
+information collected by spiceworks may be stored and processed in the united states or any other country in which spiceworks  inc.
+0.89 (information; collected; by spiceworks)
+0.77 (information collected by spiceworks; may be stored; )
+0.91 (information collected by spiceworks; processed; L:in the united states or any other country)
+
+or its agents maintain facilities.
+0.64 (its agents; maintain; facilities)
+
+by using the service you consent to any such transfer of information outside of your country.
+0.58 (you; consent; to any such transfer of information outside of your country)
+
+this agreement and any dispute that may arise related to this agreement are governed by texas law.
+0.89 (any dispute; may arise; related to this agreement)
+0.91 (this agreement and any dispute; are governed; by texas law)
+
+all claims arising out of or relating to this agreement must be litigated exclusively in the federal or state courts of travis county  texas and you consent to venue and personal jurisdiction there for the purposes of litigating all claims related to this agreement.
+0.77 (all claims; arising; out of)
+0.89 (all claims; relating; to this agreement)
+0.90 (all claims; related; to this agreement)
+0.97 (all claims arising out of or relating to this agreement; must be litigated exclusively; L:in the federal or state courts of travis county  texas)
+0.67 (you; consent; to venue and personal jurisdiction there for the purposes of litigating all claims)
+0.27 Context(you consent,List([145, 156))):(you; consent to venue and personal jurisdiction there for the purposes of litigating all claims to venue; )
+
+if for any reason a court of competent jurisdiction finds any provision or portion of this agreement to be unenforceable  the remainder of the agreement will continue in full force and effect.
+0.96 (a court of competent jurisdiction; finds; any provision or portion of this agreement to be unenforceable  the remainder of the agreement will continue in full force and effect)
+0.79 (the remainder of the agreement; will continue; )
+
+miscellaneous provisions pjm is hosted in the united states.
+0.91 (miscellaneous provisions pjm; is hosted; L:in the united states)
+
+if you are a member or user accessing pjm from the european union  asia  or any other region with laws or regulations governing personal data collection  use  and disclosure  that differ from united states laws  please be advised that through your continued use of pjm (which is governed by u.s.
+0.62 (you; are; a member or user)
+0.37 (your continued use of pjm; is governed; )
+0.90 (laws or regulations; differ; from united states laws)
+0.50 (you; are a member or user accessing pjm from; the european union asia)
+
+law)  this privacy notice  and our terms of use  you are transferring your personal information to the united states and you consent to that transfer.
+0.46 (you; are transferring; your personal information; to the united states)
+0.37 (you; consent; to that transfer)
+
+This Privacy Policy ("Policy") describes how Sprint Corporation ("Sprint") will collect, access, use or disclose your personal information.
+0.90 (This Privacy Policy; describes; how Sprint Corporation ("Sprint") will collect, access, use or disclose your personal information)
+0.79 Context(This Privacy Policy describes,List([0, 40))):(Sprint Corporation; will collect; access, use or disclose your personal information)
+0.61 Context(This Privacy Policy describes Sprint Corporation will collect,List([0, 87))):(Sprint Corporation; will collect use; )
+0.74 Context(This Privacy Policy describes Sprint Corporation will collect,List([0, 87))):(Sprint Corporation; will collect disclose; your personal information)
+
+It applies to all of our products, services, and web sites ("Services").
+0.42 (It; applies; to all of our products, services, and web sites)
+
+A few of our Services are covered by different privacy policies and in the event of a conflict between the two, the product or service specific policy governs.
+0.79 (A few of our Services; are covered; by different privacy policies and in the event of a conflict between the two)
+
+For example, we may have a separate policy or agreement for certain products, services or brands.
+0.57 (we; may have; a separate policy or agreement for certain products, services or brands)
+
+Our collection, access, use, disclosure and safeguarding of your personal information is subject to U.S. law.
+0.90 (Our collection, access, use, disclosure and safeguarding of your personal information; is; subject to U.S. law)
+
+groupon  inc  is headquartered in the united states of america  we recognize that the european community has established a data protection regime pursuant to directive 95 46 ec  the   directive    the directive applies to the european economic area    eea    switzerland has also established a data protection regime pursuant to the federal act on data protection    fadp    these regimes restrict companies in the eea and switzerland  collectively    eea ch    from transferring personal data about individuals in the eea ch to the united states  unless there is  adequate protection  for such personal data when it is received in the united states  to create such  adequate protection  and allow our affiliates  vendors and business partners to overcome the restriction on international data transfers established by the directive and the fadp  we adhere to the safe harbor privacy principles published by us department of commerce    safe harbor principles    with respect to personal data about individuals in the eea ch that our subsidiaries and business partners in the eea ch send to us     eea ch data    more information on the safe harbor principles and groupon  inc s scope of participation is available at http export gov safeharbor  groupon s policy concerning the processing of eea ch data under its certification can be viewed at http www groupon com safe harbor if you live outside the united states  including in the eea ch  and you use the site or provide us with personal information directly via the site  your information will be handled in accordance with this privacy statement  by using the site or giving us your personal information  you are directly transferring your personal information and non identifiable information to us in the united states  the united states may not have the same level of data protection as your jurisdiction  however  you agree and consent to our collection  transfer  and processing of your personal information and non identifiable information in accordance with this privacy statement  you are solely responsible for compliance with any data protection or privacy obligations in your jurisdiction when you use the site or provide us with personal information  regardless of where we transfer your information  we still protect your information in the manner described in this privacy statement if you reside in canada  you may have the right to be provided with access to personal information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to vendors outside canada  e mail us at privacy groupon com with questions this privacy policy is governed by the laws of the state of california and the united states of america.
+0.90 (groupon  inc; is headquartered; L:in the united states of america)
+0.95 (this privacy policy; is governed; by the laws of the state of california and the united states of america)
+0.34 (you; may have; the right to be provided with access to personal information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to vendors outside canada  e mail us at privacy groupon com with questions)
+0.45 (we; adhere; to the safe harbor privacy principles)
+0.62 (you; live; L:outside the united states)
+0.54 (you; consent; to our collection  transfer  and processing of your personal information and non identifiable information in accordance with this privacy statement)
+0.28 (we; recognize; that the european community has established a data protection regime pursuant to directive 95 46 ec  the   directive)
+0.93 Context(we recognize,List([64, 76))):(the european community; has established; a data protection regime pursuant to directive 95 46 ec  the   directive)
+0.90 (these regimes; restrict; companies in the eea)
+0.32 (you; agree; )
+0.56 (you; use; the site)
+0.90 Context(you use,List([1446, 1453))):(groupon  inc s scope of participation; can be viewed; L:at http www groupon com)
+0.31 (we; transfer; your information)
+0.45 (it; is received; L:in the united states)
+0.91 (international data transfers; established; by the directive and the fadp)
+0.42 (you; provide; us; with personal information)
+0.97 (eea ch data    more information on the safe harbor principles and groupon  inc; is; available at http export gov safeharbor  groupon s policy)
+0.42 (you; provide; us; with personal information)
+0.89 (the united states; may not have; the same level of data protection)
+0.60 Context(the united states may not have,List([1777, 1807))):(the united states; may not have the same level of data protection written; )
+0.88 (personal information; have collected; we)
+0.90 (the manner; described; L:in this privacy statement)
+0.89 (http export gov safeharbor  groupon s policy; concerning; the processing of eea ch data under its certification)
+0.71 (our subsidiaries and business partners in the eea ch; send; to us)
+0.62 (you; use; the site)
+0.46 (you; are directly transferring; your personal information)
+0.34 (your information; will be handled; )
+0.62 (you; reside; in canada)
+0.58 (you; are; solely responsible for compliance with any data protection or privacy obligations in your jurisdiction)
+0.90 (the directive; applies; to the european economic area    eea    switzerland)
+0.87 (the safe harbor privacy principles; published; by us)
+0.39 (there; is adequate protection for; such personal data)
+
+13. changes to this privacy policy as a global company motorola has websites and users all over the world  the information you provide may be transmitted  used  processed and stored outside of the country where you submitted that information  including countries that may not have data privacy laws that provide protection equivalent to such laws in your home country  whenever motorola handles personal information  regardless of where this occurs  we take appropriate steps to ensure that your information is treated securely and in accordance with the relevant terms of use  this privacy statement and all applicable laws and regulations 11.
+0.94 (a global company motorola; has; websites and users)
+0.88 (the information; provide; you)
+0.82 (data privacy laws; provide; protection equivalent to such laws in your home country)
+0.17 (we; take; appropriate steps; to ensure that your information is treated securely and in accordance with the relevant terms of use  this privacy statement and all applicable laws and regulations 11)
+0.17 Context(we take,List([450, 457))):(we; take appropriate steps to ensure; that your information is treated securely and in accordance with the relevant terms of use  this privacy statement and all applicable laws and regulations 11)
+0.69 Context(we take to ensure,List([450, 485))):(your information; is treated; L:securely and in accordance with the relevant terms of use  this privacy statement and all applicable laws and regulations 11)
+0.39 (the information you provide; may be transmitted used processed; )
+0.89 (motorola; handles regardless; personal information)
+0.64 (the information you provide; stored; L:outside of the country)
+0.15 (this; occurs; )
+0.37 (you; submitted; that information  including countries)
+
+In carrying out the activities specified in this policy, we may transfer data to reputable companies outside the European Economic Area.
+0.90 (the activities; specified; L:in this policy)
+0.64 (we; may transfer; data; to reputable companies outside the European Economic Area; T:In carrying out the activities)
+
+Whilst we take reasonable steps to ensure that your information will be afforded the same level of protection as that required of us under applicable UK data protection legislation you should be aware that countries outside the European Economic Area may not offer the same level of protection of personal data.
+0.95 (countries outside the European Economic Area; may not offer; the same level of protection of personal data)
+0.09 (that; required; of us; L:under applicable UK data protection legislation)
+0.53 (you; should be; aware that countries outside the European Economic Area may not offer the same level of protection of personal data)
+0.17 (we; take; reasonable steps to ensure that your information will be afforded the same level of protection as that)
+0.12 Context(we take,List([7, 14))):(we; take to ensure; that your information will be afforded the same level of protection as that)
+
+Cookies
+

@@ -1,0 +1,67 @@
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+Byliner Inc.
+(Byliner, we, or us) knows that you care how information about you is used and shared.
+This Privacy Policy explains what information of yours will be collected by Byliner when you use Byliner.com or our mobile applications (such as our iPhone app) and related services (together, the Service), how the information will be used, and how you can control the collection, correction and/or deletion of information.
+We will not use or share your information with anyone except as described in this Privacy Policy.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+content  means all information  data  code  text  software  music 
+sound  photographs  graphics  video  messages or other materials you
+provide to google or google provided to you through the service.
+  appropriate conduct.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+when posting content to the google code website
+(http code.google.com) or when
+sharing content obtained from this website with others  you agree that
+you are solely responsible for complying with u.s.
+export control
+regulations  including the export administration regulations ( ear ) 
+and all other applicable export and import laws and regulations.
+these
+regulations require that all postings of open source encryption code
+be simultaneously reported by email to the u.s.
+government.
+you are
+responsible for submitting this email report to the u.s.
+government in
+accordance with procedures described in 
+http www.bis.doc.gov encryption pubavailencsourcecodenofify.html
+and section 740.13(e) of the ear.
+users residing in countries on the
+united states office of foreign assets control sanction list 
+including cuba  iran  north korea  sudan and syria  may not post or
+access content available through the google code website.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+this privacy statement   privacy statement   explains how groupon  inc 
+  groupon     us     our   and   we   uses your information and applies to all who use our web site  mobile applications  electronic services  social networking sites  or any individual  business partner specific  merchant specific  city specific  or other area specific web sites we offer that link to or reference this privacy statement  collectively  the   site   and when you receive electronic communications from us
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+cookie  means a small amount of information that a web server sends to your browser that stores information about your account  your preferences  and your use of the site 
+some cookies are temporary  whereas others may be configured to last longer 
+  session cookies   are temporary cookies used for various reasons  such as to manage page views 
+your browser usually erases session cookies once you exit your browser 
+  persistent cookies   are more permanent cookies that are stored on your computers or mobile devices even beyond when you exit your browser
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+other sources  means sources of information that legally provide groupon with your information  and which are outside the scope of this privacy statement at the time of collection
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+pixel tags and web beacons  means tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed specific actions
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+third party ad servers  means vendors and other third parties that provide the technology to place ads on websites and track ad performance
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+As user of the website (referred to as "you/your") you acknowledge that any use of this website (including any transactions you make) is subject to this Privacy Policy together with our Terms and Conditions.

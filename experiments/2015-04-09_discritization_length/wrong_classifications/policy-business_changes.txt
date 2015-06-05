@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+We may change this Policy at any time.
+When we change the Policy we will give notice by changing the date it was last updated or as required by law.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Your name and, depending on privacy settings, email address, are used when you invite another person to join Byliner, or when you request to add another member to your friends list.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+Changes to this Privacy Policy are effective when they are posted on this page.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Whenever we change our Terms, we will post those changes to this Terms of Service page, and other places we deem appropriate so that our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+By continuing to use the service, you agree and accept the changes and agree to the Terms.
+15.
+Comments, Feedback, Suggestions, Ideas, And Other Submissions.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+This website (the Site) is owned and operated by ScienceBlogs, LLC (SB).
+SB provides the Site and its services to you subject to the following Terms of Service (the Terms).
+By using the Site, you agree to be bound by the Terms.
+SB may, in its sole discretion, modify the Terms without notice to you.
+Therefore, please continue to review the Terms when using the Site.
+The Last Modified date will indicate when the latest changes were made.
+By continuing to access and use the Site after the Terms have been modified, you are agreeing to such modifications.
+In addition, when using particular services or features or making purchases on the Site, you shall be subject to any posted guidelines or rules applicable to such services, features or purchases that may be posted from time to time.
+All such guidelines or rules are hereby incorporated by reference into the Terms.
+Description of Service
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+SB reserves the right, without notice and at its sole discretion, to suspend or terminate the Terms and/or your ability to access or use the Service, and to block or prevent future access to and use of the Service for any reason, including your breach of the Terms or other conduct by you that SB considers inappropriate.
+SB reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice.
+Except as otherwise expressly stated in the Terms, you agree that neither SB nor any of its affiliated companies shall be liable to you or to any third party for any modification, suspension or discontinuation of the Service.
+Governing Law
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+demonstrations 
+   say media periodically offers visitors to its websites the ability to see demonstrations of services offered by say media.  if you elect to view demonstrations  we may collect non-personally identifiable information in connection with the demonstration of the relevant service.  our collection  storage and use of non-personally identifiable information in connection with such demonstrations are subject to this privacy policy and say media s terms and conditions of service.

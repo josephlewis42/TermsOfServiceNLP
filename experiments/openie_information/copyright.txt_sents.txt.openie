@@ -1,0 +1,379 @@
+5. Content of Information.You are responsible for the content of any Information you put on PBS ONLINE.
+0.94 (5. Content of Information.You; are; responsible for the content of any Information)
+0.93 (any Information; put; on PBS ONLINE)
+
+The Information posted to PBS Online does not necessarily reflect the views of PBS and in no event shall PBS assume or have any responsibility or liability for any information posted to PBS Online or for any claims, damages or losses resulting from the use and/or appearance of such information on PBS Online.
+0.94 (The Information; posted; to PBS Online)
+0.94 (losses; resulting; from the use and/or appearance of such information on PBS Online)
+0.91 (PBS; have; any responsibility or liability for any information posted to PBS Online or for any claims, damages or losses)
+0.92 (any information; posted; to PBS Online)
+
+PBS has no obligation to, and does not in the normal course, monitor or control any Information that is or becomes available on PBS ONLINE.
+0.89 (PBS; has; no obligation to)
+0.91 (PBS; does; L:not in the normal course, monitor or control any Information)
+0.81 (any Information; is; )
+0.93 (any Information; becomes; available; L:on PBS ONLINE)
+
+PBS reserves the right to review any Information that is or becomes available on PBS ONLINE.
+0.75 (any Information; is; )
+0.90 (any Information; becomes; available on PBS ONLINE)
+0.83 (PBS; reserves; the right to review any Information)
+0.68 Context(PBS reserves,List([0, 12))):(PBS; reserves to review; any Information that is or becomes available on PBS ONLINE)
+
+PBS reserves the right to refuse to post or to edit or remove, in whole or in part, any Information that is, in PBS's sole discretion, unacceptable, undesirable or in violation of these rules.
+0.81 (PBS; reserves; the right to refuse to post or to edit or remove, in whole or in part, any Information that is, in PBS's sole discretion, unacceptable, undesirable or in violation of these rules)
+0.83 (whole or in part, any Information; is; )
+
+PBS has no obligation to exercise such reservation of rights by PBS.
+0.92 (PBS; has; no obligation to exercise such reservation of rights by PBS)
+0.79 Context(PBS has,List([0, 7))):(PBS; has to exercise; such reservation of rights by PBS)
+
+however, PBS has adopted and implemented a policy respecting the copyright law that provides for the termination in appropriate circumstances of users of the PBS ONLINE system or network who are repeat infringers.
+0.63 (PBS; has adopted; )
+0.83 (PBS; implemented; a policy respecting the copyright law)
+0.87 (a policy; respecting; the copyright law that provides for the termination in appropriate circumstances of users of the PBS ONLINE system or network)
+0.94 (the copyright law; provides; for the termination in appropriate circumstances of users of the PBS ONLINE system or network)
+
+PBS may terminate access for content providers or forum participants who are found repeatedly to provide or post protected material without necessary rights and permissions.
+0.86 (PBS; may terminate; access for content providers or forum participants)
+0.74 (forum participants; are found; T:repeatedly)
+
+By submitting information to PBS, you grant PBS a perpetual, royalty-free, worldwide license to use, transmit, copy and display such information in any and all media now know or hereinafter devised and represent that you have all necessary rights in such posting.
+0.45 (you; grant; PBS; a perpetual, royalty-free, worldwide license to use, transmit, copy and display such information in any and all media now know or hereinafter devised and represent that you have all necessary rights in such posting)
+
+While PBS strives to provide users with the highest-quality related resources on all of its sites, we cannot and do not ensure the quality or accuracy of the non-pbs.org
+0.35 (we; can not do not ensure; the quality or accuracy of the non-)
+0.80 (PBS; strives; to provide users with the highest-quality related resources on all of its sites)
+0.83 Context(PBS strives,List([6, 17))):(PBS; strives to provide; users)
+
+content to which we link.
+0.90 (content; link; we)
+
+instapaper holdings  inc.
+
+( company ) has adopted the following general policy toward copyright infringement in accordance with the digital millennium copyright act (pdf).
+0.92 (company; has adopted; the following general policy toward copyright infringement in accordance with the digital millennium copyright act)
+
+the address of the designated agent to receive notification of claimed infringement ( designated agent ) is listed at the end of this policy.
+0.93 (the address of the designated agent; to receive; notification of claimed infringement)
+
+procedure for reporting copyright infringement we may disclose and use personally identifiable information and other information in special circumstances where it is necessary to enforce our user and member agreement or terms of service (for example  when necessary to protect our intellectual property rights).
+0.19 (we; may disclose; )
+0.41 (we; use; personally identifiable information and other information)
+
+we may also disclose or use your personally identifiable information as well as other information when we  in good faith  believe that the law requires us to do so.
+0.19 (we; may also disclose; )
+0.18 (we; use; your personally identifiable information as well as other information; T:when we  in good faith  believe that the law requires us to do so)
+0.23 (us; to do; so)
+0.25 (we  in good faith; believe; that the law requires us to do so)
+0.80 Context(we in good faith believe,List([103, 129))):(the law; requires; us; to do so)
+
+if you have comments on any part of the service or ideas on how to improve it  please send email to feedback spiceworks.com.
+0.58 (you; have; comments on any part of the service or ideas on how to improve it)
+
+please note that by doing so  you also grant spiceworks and third parties permission to use and incorporate your ideas or comments into the service (or third party software or content) without further compensation or approval.
+
+you agree not to reproduce  duplicate  copy  sell  trade  resell or exploit for any commercial purposes  any portion of google services  use of google services  or access to google services except as otherwise expressly provided in the terms or as specifically authorized in a separate written agreement.
+0.70 (you; agree; not to reproduce  duplicate  copy  sell  trade  resell or exploit for any commercial purposes  any portion of google services  use of google services  or access to google services except as otherwise expressly provided in the terms)
+0.70 Context(you agree,List([0, 9))):(you; agree not to reproduce; duplicate  copy  sell  trade  resell or exploit for any commercial purposes  any portion of google services  use of google services  or access to google services except as otherwise expressly provided in the terms)
+0.55 Context(you agree not to reproduce,List([0, 26))):(you; agree not to reproduce duplicate; copy  sell  trade  resell)
+0.61 Context(you agree not to reproduce,List([0, 26))):(you; agree not to reproduce exploit; for any commercial purposes; any portion of google services  use of google services  or access to google services except as otherwise expressly provided in the terms)
+
+export control.
+
+You may browse the Site without registering for an account.
+0.62 (You; may browse; the Site)
+
+You will be required to register for an account to use certain features of the Site, such as purchasing a ticket.
+0.72 (You; will be required; to register for an account to use certain features of the Site, such as purchasing a ticket)
+0.63 (You; to register; for an account; to use certain features of the Site, such as purchasing a ticket)
+0.63 Context(You to register,List([0, 32))):(You; to register for an account to use; certain features of the Site, such as purchasing a ticket)
+
+Your account username may not include the name of another person with the intent to impersonate that person, or be offensive, vulgar or obscene.
+0.66 (Your account username; may not include; the name of another person with the intent)
+
+Your account username and password are personal to you.
+0.56 (Your account username and password; are; personal to you)
+
+You will be responsible for the confidentiality and use of your username and password, and for all activities (including purchases) that are conducted through your account.
+0.58 (You; will be; responsible for the confidentiality and use of your username and password, and for all activities (including purchases)
+0.68 (purchases; are conducted; )
+
+You may not transfer or sell access to your account.
+0.32 (You; may not transfer; )
+0.49 (You; sell; access to your account)
+
+We will not be liable for any harm related to disclosure of your username or password or the use by anyone else of your username or password.
+0.45 (We; will not be; liable for any harm)
+0.89 (any harm; related; to disclosure of your username or password or the use by anyone else of your username or password)
+
+You may not use another user's account without that user's permission.
+0.62 (You; may not use; another user's account)
+
+You will immediately notify us in writing if you discover any unauthorized use of your account or other account-related security breach.
+0.50 (You; will notify; us; in writing; T:immediately)
+0.58 (you; discover; any unauthorized use of your account or other account-related security breach)
+
+We may require you to change your username and/or password if we believe your account is no longer secure or if we receive a complaint that your username violates someone else's rights.
+0.21 (we; receive; a complaint that your username violates someone else's rights)
+0.46 (you; to change; your username)
+0.64 (your username; violates; someone else's rights)
+0.23 (you; to password; )
+0.17 (we; believe; your account is no longer secure or if we receive a complaint that your username violates someone else's rights)
+0.40 Context(we believe,List([62, 72))):(your account; is; no longer secure)
+
+You will have no ownership in your account or your username.
+0.46 (You; will have; no ownership in your account or your username)
+
+We may refuse registration, cancel an account or deny access to the Site for any reason.
+0.39 (We; may refuse; registration)
+0.29 Context(We may refuse,List([0, 13))):(We; may refuse registration cancel; an account)
+0.29 Context(We may refuse,List([0, 13))):(We; may refuse registration deny; access to the Site for any reason)
+
+Code of Conduct The Site and all data, text, designs, pages, print screens, images, artwork, photographs, audio and video clips, and HTML code, source code, or software that resides or is viewable or otherwise discoverable on the Site (collectively, the "Content") is owned by us or our licensors.
+0.68 (software; resides; )
+0.90 (software; is; viewable or otherwise discoverable on the Site)
+
+We own a copyright in the Site and Content.
+0.52 (We; own; a copyright in the Site and Content)
+
+We may change the Content and features of the Site at any time.
+0.45 (We; may change; the Content and features of the Site; T:at any time)
+
+This license is expressly conditioned on your preexisting agreement to comply with, and your actual compliance with, each of the provisions described in this Ownership of Content and Grant of Conditional License section.
+0.83 (This license; is expressly conditioned; L:on your preexisting agreement)
+0.95 (the provisions; described; L:in this Ownership of Content and Grant of Conditional License section)
+
+This license exists only so long as you strictly comply with each of the provisions described in this section.
+0.89 (This license; exists; T:only so long as you strictly comply with each of the provisions)
+0.62 (you; strictly comply; with each of the provisions)
+0.90 (the provisions; described; L:in this section)
+
+Any use of the Site or Content by you or anyone acting on your behalf that does not strictly comply with each and every provision in this section exceeds the scope of the license granted to you herein, constitutes unauthorized reproduction, display, or creation of unauthorized derivative versions of the Site and Content, and infringes our copyrights and other rights in the Site and Content.
+0.66 (Any use of the Site or Content by you or anyone; infringes; our copyrights and other rights; L:in the Site and Content)
+0.67 (anyone acting on your behalf; does not strictly comply; with each and every provision in this section)
+0.74 (Any use of the Site or Content by you or anyone; exceeds; the scope of the license)
+0.78 Context(Any use of the Site or Content by you or anyone exceeds,List([0, 153))):(Any use of the Site or Content by you or anyone; exceeds the scope of the license constitutes; unauthorized reproduction, display, or creation of unauthorized derivative versions of the Site and Content)
+0.83 (the license; granted; to you; T:herein)
+
+You will not acquire any ownership rights by using the Site or the Content.
+0.62 (You; will not acquire; any ownership rights)
+
+You own all rights to your User Content.
+0.58 (You; own; all rights to your User Content)
+
+If you submit User Content to the Site, you grant us a worldwide, non-exclusive, transferable, sublicenseable, royalty-free right and license to use, reproduce, modify, create derivative works of, distribute, publicly perform, display, archive and commercialize your User Content, in our sole discretion, in all formats and in all media channels now known or hereinafter discovered, without any compensation or acknowledgment to you or anyone else.
+0.66 (you; submit; User Content; to the Site)
+0.88 (all media channels; known; T:now)
+0.54 (you; grant; us)
+0.94 (worldwide, non-exclusive, transferable, sublicenseable, royalty-free right and license; discovered; T:hereinafter)
+
+This license will not affect your ownership in your User Content, including the right to grant additional licenses to your User Content, except if it conflicts with these Terms.
+0.91 (This license; will not affect; your ownership in your User Content, including the right)
+0.45 (it; conflicts; with these Terms)
+
+We are not obligated to post, display or otherwise use any User Content, or to attribute your User Content to you.
+0.46 (We; are not; obligated to post, display or otherwise use any User Content, or to attribute your User Content to you)
+0.17 (We; to post; )
+0.12 (We; to display; )
+
+You will not make or authorize any claim against us that our use of your User Content infringes any of your rights.
+0.32 (You; will not make; )
+0.34 (You; authorize; any claim against us that our use of your User Content infringes any of your rights)
+0.66 (our use of your User Content; infringes; any of your rights)
+
+Under the Digital Millennium Copyright Act of 1998 (the "DMCA") if you believe in good faith that any content on the Site infringes your copyright, you may send us a notice requesting that the content be removed.
+0.34 (you; believe; in good faith that any content on the Site infringes your copyright)
+0.87 (any content on the Site; infringes; your copyright)
+0.41 (you; may send; us; a notice requesting that the content be removed; L:Under the Digital Millennium Copyright Act of 1998)
+0.73 (a notice; requesting; that the content be removed)
+0.69 Context(a notice requesting,List([164, 183))):(the content; be removed; )
+
+The notice must include: (a) your (or your agent's) physical or electronic signature.
+0.81 (The notice; must include; (a) your)
+
+(b) identification of the copyrighted work on our Site that is claimed to have been infringed (or a representative list if multiple copyrighted works are included in one notification).
+0.34 (our Site; is claimed; to have been infringed)
+0.30 (our Site; to have been infringed; )
+0.91 (multiple copyrighted works; are included; in one notification)
+
+(c) identification of the content that is claimed to be infringing or the subject of infringing activity, including information reasonably sufficient to allow us to locate the content on the Site.
+0.87 (the content; is claimed; to be infringing or the subject of infringing activity, including information reasonably sufficient to allow us to locate the content on the Site)
+0.70 (the content; to be infringing; )
+
+(d) your name, address, telephone number and email address (if available).
+
+(e) a statement that you have a good faith belief that use of the content in the manner complained of is not authorized by you or your agent or the law.
+0.48 (you; have; a good faith belief that use of the content in the manner complained of)
+0.84 (use of the content in the manner; complained; of)
+0.61 (a statement that you have a good faith belief; is not authorized; by you or your agent or the law)
+
+and (f) a statement that the information in the notification is accurate and, under penalty of perjury, that you or your agent is authorized to act on behalf of the copyright owner.
+0.85 (the information in the notification; is; accurate)
+0.60 (your agent; to act; on behalf of the copyright owner)
+
+If you believe in good faith that a notice of copyright infringement has been wrongly filed against you, you may send us a counter-notice.
+0.62 (you; believe; in good faith)
+0.87 (a notice of copyright infringement; has been wrongly filed; against you)
+0.46 (you; may send; us; a counter-notice)
+
+You may read more information about the DMCA at http://www.loc.gov/copyright.
+0.66 (You; may read; more information about the DMCA at http://www.loc.gov/copyright.)
+
+you may not change  reorganize  modify  copy  reverse engineer  decompile  disassemble  attempt to derive the source code of  or create derivative works from the service  any updates  or any part thereof for any purpose  including in order to (a) build a competitive product or service  (b) build a product using similar ideas  features  functions or graphics of the service  (c) remove  change or replace any spiceworks' trademarks  logos  copyrights or any other branding elements  (d) modify  hide  obscure  disable or otherwise render inoperable any portion of the user interface including  but not limited to  the display of advertisements and promotions within the service  or (e) copy any ideas  features  functions or graphics of the service.
+0.55 (you; may not change; reorganize  modify  copy  reverse engineer  decompile  disassemble  attempt)
+0.55 Context(you may not change,List([0, 18))):(you; may not change reorganize; modify  copy  reverse engineer  decompile  disassemble  attempt)
+0.90 (any ideas; features; functions or graphics of the service)
+0.94 (a competitive product or service; build; a product using similar ideas  features  functions or graphics of the service  (c) remove  change or replace any spiceworks' trademarks  logos  copyrights or any other branding elements)
+0.90 (a product; using; similar ideas  features  functions or graphics of the service)
+
+if you wish to request spiceworks  written approval to do any of the above  please contact spiceworks by sending an email to partners spiceworks.com.
+0.63 (you; wish; to request spiceworks)
+0.56 Context(you wish,List([3, 11))):(you; wish to request; spiceworks  written approval)
+
+you acknowledge that spiceworks (and its licensors  where applicable) own all right  title and interest in and to the service  portions thereof  or software or content provided through or in conjunction with the service  including without limitation  all intellectual property rights in and to the service and any protectable suggestions  ideas  enhancements  requests  feedback and recommendations or other information provided by you or any other party relating to the service.
+0.83 (the service  portions thereof  or software or content; provided; )
+0.83 (other information; provided; by you or any other party)
+0.91 (any other party; relating; to the service)
+0.29 (you; acknowledge; that spiceworks (and its licensors  where applicable) own all right  title and interest in and to the service  portions thereof  or software or content)
+0.80 Context(you acknowledge,List([0, 15))):(spiceworks (and its licensors  where applicable; own; all right  title and interest in and to the service  portions thereof  or software or content)
+
+intellectual property rights  means any and all rights existing from time to time under patent law  copyright law  trade secret law  trademark law  unfair competition law  and any and all other proprietary rights  and any and all applications  renewals  extensions and restorations thereof  now or hereafter in force and effect worldwide.
+0.91 (intellectual property rights; means; any and all rights)
+
+you agree not to (and agree not to allow third parties to) modify  adapt  translate  prepare derivative works from  decompile  reverse engineer  disassemble or otherwise attempt to derive source code from the service  or to extract significant portions of service's files for use in other applications.
+0.36 (you; agree; not to)
+0.86 (third parties; to prepare; derivative works; from  decompile  reverse engineer  disassemble)
+0.63 (you; agree; not to allow third parties to) modify  adapt  translate  prepare derivative works from  decompile  reverse engineer  disassemble or otherwise attempt to derive source code from the service  or to extract significant portions of service's files for use in other applications)
+0.63 Context(you agree,List([0, 27))):(you; agree not to allow; third parties to) modify  adapt  translate  prepare derivative works from  decompile  reverse engineer  disassemble or otherwise attempt to derive source code from the service  or to extract significant portions of service's files for use in other applications)
+0.80 Context(you agree not to allow,List([0, 40))):(third parties; to modify; prepare derivative works from  decompile  reverse engineer  disassemble)
+
+you also agree to (and will require third parties to) not remove  obscure  or alter spiceworks' or any third party's copyright notice  trademarks  or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the service.
+0.36 (you; also agree; to)
+0.68 (you; will require; third parties; to) not remove  obscure  or alter spiceworks' or any third party's copyright notice  trademarks  or other proprietary rights notices)
+0.68 (third parties; to not remove; obscure)
+0.86 (third parties; to alter; spiceworks)
+
+user content by posting user content to any part of the service  you automatically hereby grant  and you represent and warrant that you have the right to grant  to spiceworks an irrevocable  perpetual  non-exclusive  transferable  royalty-free  worldwide license (with the right to sublicense) to use  copy  publicly perform  publicly display  reformat  translate  excerpt (in whole or in part) and distribute such user content for any purpose on or in connection with the service or the promotion thereof  to prepare derivative works of  or incorporate into other works  such user content  and to grant and authorize sublicenses of the foregoing.
+0.88 (the service; automatically hereby grant; you)
+0.90 (display  reformat; translate; excerpt (in whole or in part)
+0.32 (you; represent; )
+0.26 (you; warrant; that you have the right to grant  to spiceworks an irrevocable  perpetual  non-exclusive  transferable  royalty-free  worldwide license (with the right to sublicense) to use  copy  publicly perform  publicly)
+0.67 Context(you warrant,List([101, 126))):(you; have; the right to grant  to spiceworks an irrevocable  perpetual  non-exclusive  transferable  royalty-free  worldwide license (with the right to sublicense))
+0.57 Context(you warrant you have,List([101, 140))):(you; have to grant; to spiceworks; an irrevocable  perpetual  non-exclusive  transferable  royalty-free  worldwide license (with the right to sublicense) to use  copy)
+0.57 Context(you warrant you have,List([101, 140))):(you; have publicly perform publicly; display  reformat  translate  excerpt (in whole or in part) and distribute such user content for any purpose on or in connection with the service or the promotion thereof)
+
+you also hereby grant each member or user a non-exclusive license to access the user content you post through the service  and to use  reproduce  distribute  prepare derivative works of  display and perform such content as permitted through the functionality of the service and the site and under this agreement.
+0.50 (you; hereby grant; a non-exclusive license to access the user content you post through the service  and to use  reproduce  distribute  prepare derivative works of  display and perform such content)
+0.88 (distribute; perform; such content)
+0.92 (the user content; post; through the service)
+
+if you are a copyright owner or an agent thereof  and you believe any content submitted to and hosted on the service infringes your copyrights  then you may submit a notification pursuant to the digital millennium copyright act ( dmca ).
+0.62 (you; are; a copyright owner or an agent thereof)
+0.74 (you; may submit; a notification pursuant to the digital millennium copyright act; T:then)
+0.77 (any content; submitted; to)
+0.53 (you; believe; any content submitted to and hosted on the service infringes your copyrights)
+0.89 Context(you believe,List([54, 65))):(any content submitted to and hosted on the service; infringes; your copyrights)
+0.86 Context(you believe any content submitted to and hosted on the service infringes,List([54, 126))):(any content; hosted; on the service)
+
+more details regarding such notification may be found here.
+0.81 (more details regarding such notification; may be found; L:here)
+
+in addition  click here to find more information about how to file a counter notification if you believe your posting was removed in error.
+0.41 (you; believe; your posting was removed in error)
+0.59 Context(you believe,List([93, 104))):(your posting; was removed; L:in error)
+
+desktop terms license.
+
+the desktop is licensed  not sold  to you for use only under the terms of this agreement.
+0.89 (the desktop; is licensed; not sold  to you for use only under the terms of this agreement)
+0.81 (the desktop; not sold; to you; for use only under the terms of this agreement)
+
+subject to the terms and conditions of and your ongoing compliance with this agreement  including without limitation payment of the applicable fees (if any)  spiceworks hereby grants you a personal  limited  revocable  non-exclusive  non-transferable license to install and use the desktop solely for your personal  non-commercial use  or  if you are an entity rather than an individual  to allow your employees and contractors to use the desktop for the sole benefit of you  provided each such employee or contractor has agreed to and is bound by this agreement.
+0.50 (any; spiceworks; hereby grants)
+0.41 (the sole benefit of you; provided; )
+0.32 (you; to use; the desktop; solely for your personal  non-commercial use)
+0.81 (each such employee or contractor; has agreed; to)
+0.58 (you; are; an entity rather than an individual  to allow your employees and contractors to use the desktop for the sole benefit of you)
+0.91 (each such employee or contractor; is bound; by this agreement)
+
+grant of right to use web-based offering.
+
+subject to the terms and conditions of and your ongoing compliance with this agreement  including without limitation payment of the applicable fees  spiceworks hereby grants you a personal  limited  non-exclusive  revocable  non-transferable  non-sublicensable right during the period for which you have paid all applicable fees to permit each user for whom you have purchased a user subscription to access the applicable web-based offering solely for your internal business purposes.
+0.69 (you; have paid; all applicable fees; to permit each user for whom; T:the period)
+0.52 Context(you have paid,List([295, 308))):(you; have paid all applicable fees to permit; each user for whom you have purchased a user subscription)
+0.84 (each user; have purchased; a user subscription; to access the applicable web-based offering solely for your internal business purposes)
+0.48 Context(each user have purchased,List([339, 376))):(you; to access; the applicable web-based offering solely for your internal business purposes)
+
+you must ensure that each of your users has agreed to and is bound by this agreement.
+0.64 (each of your users; is bound; by this agreement)
+0.28 (you; must ensure; that each of your users has agreed to and is bound by this agreement)
+0.37 Context(you must ensure,List([0, 15))):(each of your users; has agreed; to)
+
+information practices The trademarks, service marks, trade names, trade dress and logos (collectively, Marks) contained or described on the Site (including, without limitation, the ScienceBlogs name and logo, the phylotaxis logo, the Seed logo and logotype, and any Marks associated with any Products) are the sole property of SB, Seed Media Group, and/or suppliers or licensors of SB and may not be copied, imitated or otherwise used, in whole or in part, without the prior written permission of SB, Seed Media Group, and/or its suppliers or licensors.
+0.94 (any Marks; associated; with any Products)
+0.98 (information practices The trademarks, service marks, trade names, trade dress and logos; are; the sole property of SB, Seed Media Group, and/or suppliers or licensors of SB)
+
+In addition, all page headers, custom graphics, button icons and scripts are Marks of SB and may not be copied, imitated or otherwise used, in whole or in part, without the prior written permission of SB.
+0.96 (all page headers, custom graphics, button icons and scripts; are; Marks of SB)
+0.38 (button icons and scripts; are Marks of; SB)
+
+SB will enforce its intellectual property rights to the fullest extent of the law.
+0.76 (SB; will enforce; its intellectual property rights; to the fullest extent of the law)
+
+Submissions Any Submissions submitted by you to the Site through the Venues or otherwise will be deemed non-proprietary and non-confidential, and may be used by SB without restriction.
+0.83 (Any Submissions; submitted; by you; to the Site)
+
+Without limiting the foregoing, by offering any Submissions through the Site, you grant to SB the worldwide, perpetual, royalty-free, irrevocable, nonexclusive right and license to reproduce, modify, edit, publish, display, perform, adapt, distribute, sublicense and otherwise use and exploit such Submissions (and any and all proprietary rights therein that you may have) in any and all forms and media, now or hereafter discovered, without compensation or attribution to you.
+0.88 (proprietary rights; may have; you)
+0.34 (you; grant; to SB the worldwide, perpetual, royalty-free, irrevocable, nonexclusive right and license to reproduce, modify, edit, publish, display, perform, adapt, distribute, sublicense and otherwise use and exploit such Submissions (and any and all proprietary rights therein that you may have) in any and all forms and media, now or hereafter discovered, without compensation or attribution to you)
+0.28 Context(you grant,List([78, 87))):(you; grant to SB; the worldwide, perpetual, royalty-free, irrevocable, nonexclusive right and license to reproduce, modify, edit, publish, display, perform, adapt, distribute, sublicense and otherwise use and exploit such Submissions (and any and all proprietary rights therein that you may have) in any and all forms and media, now or hereafter discovered, without compensation or attribution to you)
+
+Licensing Agreements You own the content that you create on Kinja, however Kinja may distribute or use that content in a variety of ways.
+0.34 (You; own; the content that you create on Kinja)
+0.90 (the content; create; L:on Kinja)
+0.77 (Kinja; may distribute; )
+0.78 (Kinja; use; that content; L:in a variety of ways)
+
+Examples include:  Your post may be selected to be featured on another Kinja site by a staff member or editor Any Kinja user can repost any content you create to their own Kinja blog, however it will link to your blog If you post a favorable review of a company or its product, the company may pay us to feature your post across Kinja Copyright Policy Kinja respects the intellectual property rights of others and expects users and contributors to do the same.
+0.54 (you; post; a favorable review of a company or its product)
+0.92 (Copyright Policy Kinja; expects; users and contributors)
+0.64 (Your post; to be featured; on another Kinja site; by a staff member or editor)
+0.88 (the company; may pay; us; to feature your post across Kinja Copyright Policy Kinja respects the intellectual property rights of others and expects users and contributors)
+0.88 Context(the company may pay,List([278, 297))):(the company; may pay us to feature; your post across Kinja Copyright Policy Kinja respects the intellectual property rights of others and expects users and contributors)
+0.90 (Any Kinja user; can repost; any content you create to their own Kinja blog)
+0.84 (any content; create; to their own Kinja blog)
+
+We will respond to notices of alleged copyright infringement where necessary.
+0.45 (We; will respond; to notices of alleged copyright infringement; L:where necessary)
+
+User License: You retain your rights to any Content you submit to or through the Service.
+0.46 (You; retain; your rights; to any Content)
+0.90 (any Content; submit; to or through the Service)
+
+By posting any Content on the Service, however, you expressly grant, and you represent and warrant that you have all rights necessary to and do grant, to Kinja a royalty-free, sublicensable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, translate, distribute, syndicate, publicly perform, publicly display, and make derivative works of all such Content and your name, voice, and/or likeness as contained in your Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed, for use in connection with the Service and Kinjas (and its successors, assignees, or affiliates) business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats, whether now known or hereafter developed, and through any media channels or search engines for commercial and noncommercial purposes alike.
+0.24 (you; do grant; to Kinja)
+0.17 Context(you do grant,List([104, 149))):(you; do grant to Kinja; )
+0.32 (you; expressly grant; )
+0.32 (you; represent; )
+0.29 (you; warrant; that you have all rights necessary to and do grant, to Kinja a royalty-free, sublicensable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, translate, distribute, syndicate, publicly perform, publicly display, and make derivative works of all such Content and your name, voice, and/or likeness as contained in your Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed, for use in connection with the Service and Kinjas (and its successors, assignees, or affiliates) business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats, whether now known or hereafter developed, and through any media channels or search engines for commercial and noncommercial purposes alike)
+0.57 Context(you warrant,List([73, 98))):(you; have; all rights necessary to and do grant, to Kinja a royalty-free, sublicensable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, translate, distribute, syndicate, publicly perform, publicly display, and make derivative works of all such Content and your name, voice, and/or likeness as contained in your Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed, for use in connection with the Service and Kinjas (and its successors, assignees, or affiliates) business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats, whether now known or hereafter developed, and through any media channels or search engines for commercial and noncommercial purposes alike)
+0.47 Context(you warrant you have,List([73, 112))):(you; have to make; derivative works of all such Content and your name, voice)
+
+You also hereby grant each user of the Service a non-exclusive license to access your Content through the Service, and to use, reproduce, distribute, display and perform such Content as permitted through the functionality of the Service and under these Terms.
+0.62 (You; hereby grant; each user of the Service)
+
+19.
+
+We may in our absolute discretion accept or reject any product review which may be submitted to us and may edit any such review for both length and/or content as we see fit.
+0.23 (We; may reject; any product review which may be submitted to us)
+0.82 (any product review; may be submitted; to us)
+0.41 (We; may edit; any such review)
+0.23 (we; see; fit)
+
+All reviews are submitted on the basis that Argos or any member of the Group may use the review in any format and for any purpose as it sees fit and for any marketing or promotional purposes.
+0.73 (All reviews; are submitted; )
+0.95 (Argos or any member of the Group; may use; the review; in any format and for any purpose)
+
+General
+

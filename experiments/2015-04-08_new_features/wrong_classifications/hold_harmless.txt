@@ -1,0 +1,58 @@
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+You may use the AdChoices widget to tell your friends about the site, you will need to provide your friends email address to tell them about the site.
+PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino have no access to this third party information, please read AdChoices privacy policy to learn more about their privacy practices.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+in addition  motorola s web sites may allow third parties to provide products and services directly to motorola customers 
+such relationships are often designated with a  provided by  or  powered by  company logo or other similarly worded designation 
+if you choose to purchase a product or service from such a third party  that party will collect your information and share it with motorola 
+you may review the privacy practices of the third party either by clicking the link on the bottom of the page or by clicking on the  provided by company  logo  which will take you to their web site
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+when you place an order or provide personal information  we use certain security measures  such as encryption  where appropriate 
+encryption scrambles the information in your purchase  including your credit card number  so this information can only be viewed by motorola 
+motorola uses secure socket layer  ssl  encryption technology  where appropriate  for internet based transactions
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+When you register for a user group on any of the InfoSpace Sites, you are asked for your individual user information.
+The individual user information may be collected and stored by a third party partner.
+This partner will store your individual user information on their servers for a period of time at which InfoSpace will assume such storage responsibilities and your information will be deleted from their servers.
+The partner will not have InfoSpace's permission to use your individual user information for secondary purposes.
+If you choose to participate in a user group, your individual user information will be used to qualify you and to contact you for various projects at InfoSpace's discretion.
+InfoSpace may share your individual user information with a third party with whom InfoSpace has entered into an agreement to support such user group projects.
+You may opt out at any time by following the opt out provisions of this privacy policy. Tell-A-Friend
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+The InfoSpace Sites contain links to other sites on the Web.
+Please be aware that InfoSpace is not responsible for the privacy practices of such other sites.
+We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+This privacy statement applies solely to information collected by this Web site. Cookies
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+we encourage business partners to adopt and post privacy policies 
+however  their use of personal information obtained through groupon is governed by their privacy policies and is not subject to our control
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Scott Price and Windermere makes no claim or representation, and accepts no responsibility regarding the quality, nature, content, operability, or reliability of other Web sites accessible by hyperlink from this Web site, or sites linking to this Web site.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Advertising contributes to the funding of operation and maintenance costs of this site and does not constitute an endorsement of any product by The FOURnet Information Network or Cooks . com . Please contact the advertiser directly for details concerning any product or offer .
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Cooks . com is an archival collection of free cooking recipes and articles available to the general public . Information is provided free of charge without warranty of any kind . We are not responsible for any typographical errors or omissions . Your usage of this site constitues your agreement to the terms stated herein . If you do not agree to these terms , permission to access any information on this site is hereby rescinded .
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+22.
+Please be aware that our site may link to other websites which may be accessed through our site.
+We are not responsible for the data policies or procedures or the content of these linked websites. How can I get my name removed from the argos.co.uk mailing list?

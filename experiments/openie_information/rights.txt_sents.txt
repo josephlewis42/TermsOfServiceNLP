@@ -1,0 +1,282 @@
+You should only provide Content that you are comfortable sharing with others under these Terms, and that does not violate any third-partys rights of any kind, including without limitation, any intellectual property rights, rights of privacy, or publicity rights.
+Unless provided otherwise under a separate agreement with Kinja, you agree to abide by the Content Guidelines located here: Content Guidelines. 1. Registration.
+Even if you choose to create an anonymous account, you are still agreeing to all of these Terms.
+You may not:  use a false information or an account owned or controlled by another person with the intent to mislead other users maliciously by impersonating that person or for any other reason; use as a User ID a name subject to any rights of a person other than yourself without appropriate authorization or in violation of our Content Guidelines.
+or otherwise submit false or misleading information to the Company.
+You agree that your use of and conduct on the Service (including any forum, message board, chat or other communication feature), and your User Contributed Content shall be lawful and will not:  violate the contractual, personal, intellectual property or other rights of any party, or promote or constitute illegal activity; be in violation of these Terms, any local, state, federal or international law, rule or regulation or the rules of conduct posted with respect to any individual feature of the Services; create user accounts by automated means or under false pretenses or mislead others as to the origins of your communications; trick, defraud or mislead the Company or other users, especially in any attempt to learn sensitive account information such as passwords; make improper use of the Companys support services or submit false reports of abuse or misconduct; engage in promoting any pyramid schemes or other multi-tiered marketing schemes or engage in promoting any websites or services that are deemed spam, malware, or contain objectionable material in the Company's sole discretion; create or transmit unwanted electronic communications such as spam, to other users or members of Service or otherwise interfere with other users' or members' enjoyment of the Service; disseminate or transmit viruses, worms, Trojan horses, RATs, keyboard loggers, time bombs, spyware, adware, cancelbots, passive collection mechanisms (PCMs), or any other malicious or invasive code or program or upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including, without limitation, clear graphics interchange formats ("gifs"), 1x1 pixels, web bugs, cookies or other similar devices; copy or adapt the Services software including but not limited to Flash, PHP, HTML, JavaScript or other code; reverse engineer, decompile, reverse assemble, modify or attempt to discover any software (source code or object code) that the Service create to generate web pages or any software or other products or processes accessible through the Service; except as may be the result of standard search engine or Internet browser usage, use or launch, develop or distribute any automated system, including, without limitation, any spider, robot (or "bot"), cheat utility, scraper or offline reader that accesses the Service, or use or launch any unauthorized script or other software; cover or obscure any notice, banner, advertisement or other branding on the Service; disguise the source of your User Contributed Content or other information you submit to the Service; interfere with or circumvent any security feature of the Service or any feature that restricts or enforces limitations on use of or access to the Service, Content or the User Content; the responsibility lies upon the user to not spread malicious  false or illegal material using the site.
+we do not censor but we do block people that use our service wrongfully (i.e.
+commercial organisations that have not cleared the usage with us first).
+we also reserve the rights to publish any information regarding violations.
+info hashes  ip addresses and all other information that is supplied to the site will be considered our right to publish.
+We use email addresses to provide information or promotional opportunities that may be of interest to you from United or third parties and to deliver information relevant to our customers, such as fare specials, reservation confirmations, surveys, account information, and notification services, and for administrative reasons.
+As a MileagePlus member, a registered user of one of our websites, or a contest entrant, you occasionally will receive emails about fare sales, special offers, new services and other noteworthy news items.
+We hope you will find these updates interesting and informative.
+Of course, if you would rather not receive this information, you may opt out of receiving such emails as described below.
+Online surveys and promotions No information we collect from children known to be under the age of 13 is used for any marketing or promotional purposes whatsoever, by United, our affiliates, or our third-party sponsors.
+We use the information collected about children known to be under 13 to provide services only.
+We will give out personal information about children if required by law, for example, to comply with a court order or subpoena, or to protect the safety and security of visitors and our sites.
+Law enforcement/legal processes/other uses The Site is not intended for children under the age of 13 and no person under the age of 13 may use the Site.
+We strongly encourage all parents and guardians to monitor the Internet use by their children.
+If you use the Site, you affirm you are at least 13 years old.
+Account Registration You may browse the Site without registering for an account.
+You will be required to register for an account to use certain features of the Site, such as purchasing a ticket.
+Your account username may not include the name of another person with the intent to impersonate that person, or be offensive, vulgar or obscene.
+Your account username and password are personal to you.
+You will be responsible for the confidentiality and use of your username and password, and for all activities (including purchases) that are conducted through your account.
+You may not transfer or sell access to your account.
+We will not be liable for any harm related to disclosure of your username or password or the use by anyone else of your username or password.
+You may not use another user's account without that user's permission.
+You will immediately notify us in writing if you discover any unauthorized use of your account or other account-related security breach.
+We may require you to change your username and/or password if we believe your account is no longer secure or if we receive a complaint that your username violates someone else's rights.
+You will have no ownership in your account or your username.
+We may refuse registration, cancel an account or deny access to the Site for any reason.
+Code of Conduct We grant you a limited, conditional, no-cost, non-exclusive, non-transferable, non-sub-licensable license to view this Site and its Content to purchase tickets as permitted by these Terms for non-commercial purposes only if, as a condition precedent, you agree that you will not:  Submit any software or other materials that contain any viruses, worms, Trojan horses, defects, date bombs, time bombs or other items of a destructive nature; Manipulate identifiers, including by forging headers, in order to disguise the origin of any posting that you submit; Link to any portion of the Site other than the URL assigned to the home page of our site; "Frame" or "mirror" any part of the Site; Modify, adapt, sub-license, translate, sell, reverse engineer, decompile or disassemble any portion of the Site or otherwise attempt to derive any source code or underlying ideas or algorithms of any part of the Site; Remove any copyright, trademark or other proprietary rights notices contained on the Site; Use any robot, spider, offline reader, site search/retrieval application or other manual or automatic device, tool, or process to retrieve, index, data mine or in any way reproduce or circumvent the navigational structure or presentation of the Site or its contents, including with respect to any CAPTCHA displayed on the Site.
+Operators of public search engines may use spiders to copy materials from the Site for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials.
+We may revoke this exception at any time.
+Use any automated software or computer system to search for, reserve, buy or otherwise obtain tickets, tm ticket cash, promotional codes, vouchers, gift cards or any other items available on the Site, including sending information from your computer to another computer where such software or system is active; Take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure; Access, reload or refresh transactional event or ticketing pages, or make any other request to transactional servers, more than once during any three-second interval.
+Request more than 1,000 pages of the Site in any 24-hour period, whether alone or with a group of individuals; Make more than 800 reserve requests on the Site in any 24-hour period, whether alone or with a group of individuals.
+Reproduce, modify, display, publicly perform, distribute or create derivative works of the Site or the Content; Use the Site or the Content in an attempt to, or in conjunction with, any device, program or service designed to circumvent any technological measure that effectively controls access to, or the rights in, the Site and/or Content in any way including, without limitation, by manual or automatic device or process, for any purpose.
+You own all rights to your User Content.
+If you submit User Content to the Site, you grant us a worldwide, non-exclusive, transferable, sublicenseable, royalty-free right and license to use, reproduce, modify, create derivative works of, distribute, publicly perform, display, archive and commercialize your User Content, in our sole discretion, in all formats and in all media channels now known or hereinafter discovered, without any compensation or acknowledgment to you or anyone else.
+This license will not affect your ownership in your User Content, including the right to grant additional licenses to your User Content, except if it conflicts with these Terms.
+We are not obligated to post, display or otherwise use any User Content, or to attribute your User Content to you.
+You will not make or authorize any claim against us that our use of your User Content infringes any of your rights.
+You will be responsible for your User Content and the consequences of posting it.
+By submitting User Content, you represent to us that (i) you own, or have the necessary permission to submit the User Content and to grant the licenses to us under this section, and (ii) you have the written permission of every identifiable person in the User Content to use that person's name and likeness in the manner contemplated by the Site and these Terms or, if the person is a minor, the written permission of the minor's parent or legal guardian.
+You agree that your abusive use of the Site may cause damage and harm to us, including impaired goodwill, lost sales and increased expenses.
+You also agree that monetary damages for your abusive use of the Site are difficult to determine and that if you, or others acting with you, request more than 1,000 pages of the Site or make more than 800 reserve requests on the Site in any 24-hour period, you, and those acting with you, will be jointly and severally liable for liquidated damages in the amount of twenty-five cents ($0.25) for each page request or reserve request made during that 24-hour period which exceeds those limits.
+Disclaimer of Warranties The arbitration agreement in these Terms is governed by the Federal Arbitration Act, including its procedural provisions.
+It is intended to be broadly interpreted, and will survive termination of these Terms.
+The arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to the extent permitted by law to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability or formation of this Agreement, including, but not limited to any claim that all or any part of this Agreement is void or voidable.
+There is no judge or jury in arbitration, and court review of an arbitration award is limited.
+However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow these Terms as a court would.
+We each agree that the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding, and that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action.
+You agree to waive any right to a jury trial or to participate in a class action.
+If this specific provision is found to be unenforceable, then the entirety of this arbitration section will be null and void and neither of us will be entitled to arbitrate our dispute.
+you have the right to access  update and correct factual inaccuracies in any personally identifiable information we collect about you you may have choices about the use of your information by third parties wishing to deliver certain targeted advertising to you parents and guardians can review any personally identifiable information collected about their children and request that such information be deleted and or that no further information be collected we may combine information collected through the nickelodeon sites with information we collect from other sources   e g    social media integration services  other viacom family of company s sites  offline records or publicly available information  it is your responsibility to provide complete and accurate information and to keep such information up to date  we are not responsible for any problem or liability arising from your failure to do so parents guardians of children under the age of 13 can print out and mail or fax us a signed form that allows them to review any personally identifiable information collected about their child  have this information deleted  and or request that there be no further collection or use of their child s personally identifiable information  you can download the form here  we will take steps to verify the identity of anyone requesting personally identifiable information about a child and to ensure that the person is in fact the child s parent or legal guardian PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino may occasionally change the features and content found on their sites.
+Consequently, our privacy policy may be modified to reflect any revisions to the sites.
+We suggest you revisit our privacy policy from time to time to be sure that you are familiar with our practices.
+We do not ask for, access or track any location based information from your mobile device at any time while using our mobile optimized websites.
+From time to time, we may post customer testimonials on our web sites which may contain personally identifiable information such as the customer's name.
+If the testimonial contains personally identifiable information, we do obtain the customer's consent prior to posting these testimonials.
+Visitors who do not want to hear about PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino opportunities may follow the simple unsubscribe procedure of removing the check mark located at the permission notice box appearing on each site's registration and/or entry page.
+If an opt out is not submitted, we may notify users by email about special opportunities, drawings, contests, and events.
+In the event of a merger, acquisition, or change of control, customer data would be considered a business asset and may be transferred.
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena.
+We may also disclose personal information as required by law or to protect the safety and security of our users.
+Receiving email messages is optional.
+As noted earlier, the collection, use, and distribution of personal data helps us create a more personalized, relevant, and intelligent web service for our users.
+Our sites will not contact you with email offers and announcements from us or from select marketing partners if you follow the simple opt-out procedure of removing the check mark located at the permission notice box appearing on the sites registration and/or entry pages.
+To update your password or update, correct, or delete registration information, please go to MY ACCOUNT.
+Our sites are not directed to visitors residing outside of the United States and such users are not eligible to submit online sweepstakes entries.
+If we become aware that a user who does not reside in the United States has registered with the PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino sites, we will use reasonable efforts to remove such information from our files.
+III.
+HOW DO WE USE INFORMATION GATHERED ON THE SITE?
+Except as expressly set forth in our policies, we will not willfully disclose your personally identifiable information to any third party without first receiving your permission.
+We will never sell, rent, or swap your personally identifiable information with non-affiliated third parties for their own purposes.
+IV.
+HOW CAN I ACCESS OR CORRECT INFORMATION?
+Access to personally identifiable information that is collected from our Site may be accessible for a limited period of time from the point of collection, such as where a user provides an e-mail address in order to receive an e-mail newsletter or a reminder about an upcoming program or event.
+In other cases, personally identifiable information may be maintained, edited and deleted at the users discretion at any time after the information has been submitted to PBS.
+For example, if you created a password-protected account within our Site, you may be able to access that account to review the information you provided and make corrections and updates as necessary.
+However this feature is not available throughout our Site where the user is not asked to create an account.
+Therefore, if at any time, you prefer not to receive e-mail from a service that you subscribed to without creating a personal account, simply get out by following the unsubscribe options at the bottom of each e-mail.
+if you are a california resident and you provided your email address to pj media  llc ( pjm   us  or  we )  then  once each calendar year  you may submit a written request for information about the information we shared  if any  with other companies for their use in direct marketing.
+to submit your written request  please send an e-mail to webmaster pjmedia.com
+with  request for california privacy  in the subject line.
+we reserve our right not to respond to requests sent more than once in a calendar year  or requests submitted to an address other than the one posted in this notice.
+please note   we are general audience sites  and do not direct any of our content specifically at children under 13 years of age.
+we understand and are committed to respecting the sensitive nature of children s privacy online.
+if we learn or have reason to suspect that a site user is under age 13  we will promptly delete any personal information in that user s account.
+if you subscribe to any members-only area of the sites  to special email lists  or to any other voluntary subscription-based program  you may occasionally receive email messages about the sites that are intended to assist you in making the most out of your subscription.
+these member messages contain a link that you may use to opt out of receiving further member messages.
+you may also decline to receive them by contacting support pjmedia.com.
+ability to choose   you may  of course  decline to submit personally identifiable information through the pjm sites  in which case we may not be able to provide all of our services to you.
+you may update or correct your personal profile information and email preferences at any time by visiting your profile page.
+please note that media files uploaded by you cannot be removed and remain subject to our user and member agreement and terms of service.
+to protect your privacy and security  we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections.
+you are responsible for maintaining the secrecy of your unique password and account information at all times.
+email and newsletter opt-out   we give our users the option to sign up for email lists and newsletters.
+however  you may change your mind about a subscription  or we may make a mistake and add you to a mailing list you didn t request.  in either case  you can always click on the  opt-out  link at the bottom of each email or newsletter we might send.
+you have the right at any time to decline to receive these offers.
+if you do not want to receive these offers on services to which you do not currently subscribe  please send an email to gciprivacy gci.com with your name as it appears on your gci bill and your telephone number.
+declining to hear these offers will not affect the provision of any services to which you subscribe.
+gci will honor your decision to decline these offers until you affirmatively tell us otherwise.
+following termination or deactivation of any say media service account  say media may retain your profile information and user content for a commercially reasonable time for backup  archival  or audit purposes.
+furthermore  say media may retain and continue to use indefinitely all information (including user content) contained in your communications to other users or posted to public or semi-public areas of the say media services after termination or deactivation of your account.
+to protect your privacy and security  we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to any accounts maintained on the say media services.
+you are responsible for maintaining the secrecy of your unique password and account information  and for controlling access to your email communications from say media  at all times.
+7. compromise of personal information in the event that personal information is compromised as a result of a breach of security  say media will promptly notify those persons whose personal information has been compromised  in accordance with the notification procedures set forth in this privacy policy  or as otherwise required by law.
+8. your choices about your information you may  of course  decline to submit personally identifiable information through the service  in which case say media may not be able to provide certain services to you.
+you may update or correct your account information and email preferences at any time by adjusting your account settings or contacting us at privacy saymedia.com.
+you can review and correct the information about you that say media keeps on file by contacting us directly at privacy saymedia.com. it is our policy to provide notifications  whether such notifications are required by law or are for marketing or other business related purposes  to you via email notice  written or hard copy notice  or through conspicuous posting of such notice on the applicable say media website or service  as determined by say media in its sole discretion.
+we reserve the right to determine the form and means of providing notifications to you  provided that you may opt out of certain means of notification as described in this privacy policy.
+12. governing law we think that you benefit from a more personalized experience when we know more about you and what you like  however  you can limit the information you provide to groupon  and you can limit the communications that groupon sends to you you can manage your email and notice preferences by logging into your account through the groupon website  entering the  my stuff  section  and selecting  my email subscriptions  or via the groupon mobile application  by selecting  project  in your account options and then selecting  subscriptions  you can also manage your subscriptions by following subscription management instructions contained in the commercial e mails that we send you  you may choose to subscribe to some types of messages  and may choose to unsubscribe from others  you may update your subscription preferences at any time  please note that even if you unsubscribe from promotional email messages  we may still need to contact you with important transactional information related to your account and your purchases  for example  even if you have unsubscribed from our promotional email messages  we will still send you confirmations when you make purchases on the site you can access  update and delete your   financial account information  and the other information you provided to us in your profile by logging into your account and accessing the  my account  section of the site or sending us an email at privacy groupon com  keeping your personal information current helps ensure that we  our affiliates and business partners offer you the offers that are most relevant to you groupon does not intend that any portion of the site will be accessed or used by children under the age of thirteen  and such use is prohibited  the site is designed and intended for adults  by using groupon  you represent that you are at least eighteen years old and understand that you must be at least eighteen years old in order to create an account and purchase the goods or services advertised through the site  we will promptly delete information associated with any account be obtain actual knowledge is associated with a registered user who is not at least eighteen years old if you reside in canada  you may have the right to be provided with access to personal information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to vendors outside canada  e mail us at privacy groupon com with questions How to Manage Your Personal Information/Communications Preferences    If you do not want to receive unsolicited marketing communications from GM, please visit our Consumer Preference System website at www.gmcontactpreferences.com.
+This will allow you to opt out of telephone and email communications and/or to change previously submitted opt-out preferences.
+You can also call 1-866-MYPRIVACY (1-866-697-7482) to opt out of direct mail communications, as well as telephone and email communications, and/or to change previously submitted opt-out preferences.
+If you have subscribed to a particular email newsletter or other communication (such as My GMLINK Service Reminders), you should follow the instructions in the email or on a related website to unsubscribe.
+GM and GM dealers are separate legal entities with their own privacy practices.For questions about your dealer's privacy practices including opting out of marketing communications from your dealer, please contact your dealer directly.
+GM adheres to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising (www.AboutAds.info).
+If you do not wish to receive personalized advertising or content from us while visiting GM web sites, you may click on the AdChoices icon located at the bottom of the web site page or the Digital Advertising Alliances Opt-Out page (www.AboutAds.info/choices).
+In the event that personal information is compromised as a result of a breach of security, Byliner will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+You may access or change your information and preferences at any time in your Settings area once you have signed in with your personal password.
+You may, of course, decline to submit personally identifiable information through Byliner, in which case Byliner may not be able to provide certain services to you.
+We may share your information for reasons not described in this policy.
+We will tell you before we do this.
+You have certain choices about how we use your information.
+You can opt out of receiving our marketing emails.
+To stop receiving our promotional emails, click here or follow the instructions in any promotional message you get from us.
+Your device settings should provide you with instructions on how to turn off push notifications.
+It may take about ten days to process your request.
+Don't worry!
+Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages.
+For example, we may still contact you about your orders.
+You can modify information you have given us.
+To correct or delete information or update account settings, log into your account and follow the instructions.
+We make changes as soon as we can.
+This information may stay in our backup files.
+If we cannot make the changes you want, we will let you know and explain why.
+If you contact us requesting access to your information, we will respond within 30 days.
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes.
+We will also give you a list of the third parties that have received your information.
+You can make a request one time each year.
+customer testimonials.
+from time-to-time we may ask individual users to participate in customer testimonials posted on our website.
+we never post these testimonials without their express permission.
+any information provided as part of these testimonials is used solely for the purpose of these testimonials and is not used in any other way.
+if you wish to update or delete your testimonial  you can contact us at info spiceworks.com.
+we offer you choices when we ask for personal information  whenever reasonably possible.
+you may decline to provide personal information to us and or refuse cookies in your browser  although some if not all of our features or services may not function properly as a result.
+we make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it  when reasonably possible.
+if your personal information changes  you may update it using the  update profile  link at the bottom of the email newsletter.
+when you update information  we may keep a copy of the prior version for our records.
+by using the service or providing personal information to us  you agree that we may communicate with you electronically regarding security  privacy  and administrative issues relating to your use of the site.
+if we learn of a security system s breach  we may attempt to notify you electronically by posting a notice on the site or sending an email to you.
+you may have a legal right to receive this notice in writing.
+to receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice)  please notify us at info spiceworks.com.
+international users You have the choice to tell us not to collect and use this information.
+For more information, including how you can opt out, click here: About Toys"R"Us Advertising We operate cameras in our Retail Stores for security and operational purposes.
+Except for security and loss-prevention purposes, we do not use these cameras to identify you personally.
+The Toys"R"Us Sites, including the Tabeo tablet, do not knowingly solicit or collect personally identifiable information online from children under the age of 13 without prior verifiable parental consent.
+If Toys"R"Us learns that a child under the age of 13 has submitted personally identifiable information online without parental consent, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law).
+If you become aware of any personally identifiable information we have collected from children under 13, please contact us at contactus@toysrus.com or by calling 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787).
+You may choose to:  Stop receiving marketing or promotional e-mails, direct mail, phone and mobile marketing communications Update and correct your personal information Deactivate your account Request removal of content or personal information posted by you from our website, online service, online application, mobile application, blog, or community forum.
+In some cases, we may not be able to remove your content or personal information, in which case we will let you know if we are unable to do so and why.
+Please note: Even if we are able to anonymize or make your content or information no longer visible, this does not ensure complete or comprehensive removal of your content or personal information from the Internet as third parties may retain screen shots of Best Buy web pages (e.g., cache files).
+InfoSpace offers certain personalization services within its directory services (i.e., White Pages and Yellow Pages) that enable you to give us your geographic location so we can remember it for you when you return to use our service.
+For example, if we know that you are searching from Bellevue, Washington for a particular company, we will pre-populate the city and state fields with Bellevue and Washington.
+While you are not required to use this feature of the directory services, the information enables us to provide you with a more efficient experience on the InfoSpace Sites.
+In addition, InfoSpace allows you to update, correct any errors in the listings, or include yourself in the directory services.
+In order to make these modifications, you may provide InfoSpace with certain individual user information that InfoSpace will use, along with its affiliates and third party service providers, to modify and update your information in the directory services database.
+We desire to keep you in control of the personal information you provide to us.
+Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls.
+In order to elect not to receive future communications from us, please Contact us Notification of Changes the motorola website may also contain various links to third party websites that may provide additional information  goods  services and promotions  these sites are operated independently of motorola and have their own separate privacy and data collection practices  any information you provide to these websites will be governed under the terms of their privacy policy  if any  motorola has no responsibility or liability for the actions or policies of these independent sites and is not responsible for the content or privacy practices of such sites motorola or its business partners may send you email or direct mail regarding our products and services  if you do not want to receive such information  simply tell us when you give us your personal information  or follow the directions contained on the mailing to remove your name from our mailing list s  you may also visit http optout motorola com   on certain types of motorola promotions  we will ask for your email address in order to contact you in the event you have won a prize  when you participate in these types of promotions  you may receive promotion related email  occasionally these promotion related email messages may include targeted advertisements  if you do not wish to receive such advertisements  you can choose not to participate in such promotions or contests you also have the right to access  review  correct or delete  your personal information by contacting motorola  individuals are responsible for providing motorola with accurate and complete personal information and for contacting motorola if correction of such information is required  please note that  where permitted  we may charge a nominal fee for fulfilling access requests and that we reserve the right to disallow unreasonable requests for access if you have established a  user profile  on a motorola web site  you may change the information you provided by visiting that portion of the web site and re submitting your information You may be required to register for an account on the Site in order to take advantage of certain features of the Site, such as purchasing Products or using our chat rooms, message boards and blogs.
+If you choose to register on the Site or if you otherwise provide information on the Site, you agree to (a) provide true, accurate, current and complete information about yourself as prompted by the Site, and (b) as permitted, maintain and promptly update such information to keep it true, accurate, current and complete.
+If you provide any information to SB that is false, inaccurate, outdated or incomplete, or SB has reasonable grounds to suspect that such information is false, inaccurate, outdated or incomplete, SB has the right to suspend or terminate your account and prohibit any and all current or future use of the Service (or any portion thereof) by you.
+Any registration or other information you provide to SB is subject to our Privacy Policy.
+For more information, see our fullPrivacy Policy.
+Our Privacy Policy is hereby incorporated into the Terms by this reference.
+Member Account and Password If you choose to register for an account with SB, you will create a username and password while completing the registration process.
+You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your password or account.
+You agree to (a) immediately notify SB of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session.
+SB (and its affiliated companies) cannot and will not be liable for any loss or damage arising from your failure to comply with this section.
+Materials on the Site, Proprietary Use If you are dissatisfied with any Materials, or with any of SBs terms and conditions, your sole and exclusive remedy is to discontinue using the Service.
+Exclusions and Limitations Nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party or government request to disclose your information.
+Advertising You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account.
+You may also email our Privacy Team at privacy@peoplesmart.com.
+We will respond to your request within 30 days.
+Communication Preferences 2. User's Obligation to Abide By Applicable Law.In connection with the use of PBS ONLINE, you shall abide by all applicable federal, state or local laws, including those pertaining to such areas as libel, slander, defamation, trade libel, product disparagement, harassment, invasion of privacy, tort, obscenity, indecency, and copyright or trademark infringement ("Applicable Law").
+The Information available on PBS ONLINE may include intellectual property that is protected under the copyright, trademark and other intellectual property laws of the United States and/or other countries ("Intellectual Property Laws").
+Such Intellectual Property Laws generally prohibit the unauthorized reproduction, distribution or exhibition of all text, photographic and graphic (art and electronic) images, music, sound samplings and other protected materials.
+The violation of applicable Intellectual Property Laws may give rise to civil and/or criminal penalties.
+3.
+If you do not wish to receive information of products and services which may be of interest to you from us or carefully chosen third parties, please select the opt-out option where appropriate.
+14.
+We are required to provide you with clear and comprehensive information about the cookies which we use on the site and to obtain your consent to the use of the cookies.
+In order to comply with these requirements we have prepared a cookies policy setting out information about cookies, detailing the cookies we use and providing information on how to manage cookies on your computer.
+16.
+We will treat all of your information in strict confidence and we will endeavour to take all reasonable steps to protect your personal information.
+However, we cannot guarantee the security of any data you disclose online.
+You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
+Please be aware that:   your review may be shared on other Home Retail Group sites.
+once submitted, it usually takes 72 hours for your review, question or answer to appear on the website providing it adheres to our Publishing guidelines.
+your review can be submitted anonymously or if you prefer you can leave a ratings only review.
+it is not possible for you to edit/remove your review after submission  If you require any further information on this service or wish to have your review removed, you can contact Customer services.
+20.
+You have the right to see personal data (as defined in the Data Protection Act) that we keep about you upon receipt of a written request and payment of a fee (see Contact us below).
+21.
+If you are concerned that any of the information we hold on you is incorrect please Contact Us. 24.
+To change any of your registered details on argos.co.uk, click on 'Sign in' and enter your login name and password.
+Once logged in change any of the details shown and click 'update my details'.
+For further information about shopping on argos.co.uk, please read our Terms and conditions and Home delivery information.
+Contact Us spiceworks reserves the right  at its sole discretion  to change  modify  add or remove portions of these terms of use and the privacy policy at any time.
+the most current version of the terms of use may be found at www.spiceworks.com
+terms  (or such successor url as spiceworks may provide).
+you should visit this page periodically to review the most current terms of use  because you are bound by them.
+the most current version of the privacy policy may be found at www.spiceworks.com
+privacy (or such successor url as spiceworks may provide).
+your continued use of the service indicates your acceptance and agreement to the changes.
+as long as you comply with this agreement  spiceworks grants you a personal  non-exclusive  non-transferable  limited privilege to enter the site and use the service.
+if you are asked to register for the service  you must provide complete and accurate identification  contact  and other information required as part of the registration process  and accurately and promptly update that information if it changes.
+spiceworks reserves the right  in its sole discretion  to refuse or discontinue participation or access to any or all of the service to any user or member at any time.
+you may not use any  deep-link   page-scrape   robot   spider  or other automatic device  program  algorithm or methodology  or any similar or equivalent manual process  to access  acquire  copy or monitor any portion of the service  or in any way reproduce or circumvent the navigational structure or presentation of the service to obtain or attempt to obtain any materials  documents or information through any means not purposely made available through the service.
+you may not probe  scan or test the vulnerability of the service or any network connected to the service  nor breach the security or authentication measures of the service or any network connected to the service.
+you may not reverse look-up  trace or seek to trace any information on any other user of or visitor of the service  or any other customer of spiceworks  including any spiceworks account not owned by you  to its source  or exploit the service or any service or information made available or offered by or through the service  in any way where the purpose is to reveal any information  including but not limited to personal identification or information  other than your own information  as provided for by the service.
+you  not spiceworks  shall have sole responsibility for the accuracy  quality  integrity  legality  reliability  appropriateness  and intellectual property ownership or right to use of all your data  and spiceworks shall not be responsible or liable for the deletion  correction  destruction  damage  loss or failure to store any of this data.
+you shall not knowingly send or store spam  unlawful  infringing  obscene  or libelous material  or viruses  worms  trojan horses and other harmful code.
+you acknowledge that spiceworks (and its licensors  where applicable) own all right  title and interest in and to the service  portions thereof  or software or content provided through or in conjunction with the service  including without limitation  all intellectual property rights in and to the service and any protectable suggestions  ideas  enhancements  requests  feedback and recommendations or other information provided by you or any other party relating to the service.
+intellectual property rights  means any and all rights existing from time to time under patent law  copyright law  trade secret law  trademark law  unfair competition law  and any and all other proprietary rights  and any and all applications  renewals  extensions and restorations thereof  now or hereafter in force and effect worldwide.
+you agree not to (and agree not to allow third parties to) modify  adapt  translate  prepare derivative works from  decompile  reverse engineer  disassemble or otherwise attempt to derive source code from the service  or to extract significant portions of service's files for use in other applications.
+you also agree to (and will require third parties to) not remove  obscure  or alter spiceworks' or any third party's copyright notice  trademarks  or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the service.
+user content you are solely responsible for the photos  profiles  messages  notes  text  information  music  video  plugins  source code  computer software  and other content that you upload  publish  submit  share or display (hereinafter   post ) on or through the service  or transmit to or share with other members (collectively the  user content ).
+you understand and agree that spiceworks may  but is not obligated to  review and delete or remove (without notice) any user content in its sole discretion  including without limitation user content that in spiceworks' sole judgment violates this agreement or which might be offensive  illegal  or that might violate the rights  harm  or threaten the safety of members  users or others.
+by posting user content to any part of the service  you automatically hereby grant  and you represent and warrant that you have the right to grant  to spiceworks an irrevocable  perpetual  non-exclusive  transferable  royalty-free  worldwide license (with the right to sublicense) to use  copy  publicly perform  publicly display  reformat  translate  excerpt (in whole or in part) and distribute such user content for any purpose on or in connection with the service or the promotion thereof  to prepare derivative works of  or incorporate into other works  such user content  and to grant and authorize sublicenses of the foregoing.
+you may not post or transmit any message which is libelous or defamatory  or which discloses private or personal matters concerning any person.
+you may not post or transmit any message  data  image or program that is indecent  obscene  pornographic  harassing  threatening  abusive  hateful  racially or ethnically offensive.
+that encourages conduct that would be considered a criminal offense  give rise to civil liability or violate any law.
+or that is otherwise inappropriate.
+except where expressly permitted  you may not post or transmit charity requests.
+petitions for signatures.
+franchise  distributorship  sales representative agency arrangements  or other business opportunities (including offers of employment or contracting arrangements).
+club memberships  chain letters  or letters relating to pyramid schemes.
+you may not post or transmit any advertising  promotional materials or any other solicitation of other users or members to use or buy products  goods or services except in those areas (e.g.  a classified bulletin board) that are designated for such purpose and as expressly permitted.
+you may not copy or use personal identifying or business contact information about other users or members without their permission.
+unsolicited e-mails  mailings  telephone calls  or other communications to individuals or companies whose contact details you obtain through the service are prohibited.
+you represent  warrant and agree that no materials of any kind submitted through your account or otherwise posted or shared by you through the service will violate or infringe upon the rights of any third party  including copyright  trademark  privacy  publicity or other personal or proprietary rights.
+or contain libelous  defamatory or otherwise unlawful material.
+no implied rights grant of right to use web-based offering.
+subject to the terms and conditions of and your ongoing compliance with this agreement  including without limitation payment of the applicable fees  spiceworks hereby grants you a personal  limited  non-exclusive  revocable  non-transferable  non-sublicensable right during the period for which you have paid all applicable fees to permit each user for whom you have purchased a user subscription to access the applicable web-based offering solely for your internal business purposes.
+you must ensure that each of your users has agreed to and is bound by this agreement.
+information practices signing up for a spiceworks account is free.
+access and use of portions of the site and certain other portions of the service may be provided at no charge.
+however  spiceworks reserves the right to charge for the service or any portion thereof  modify the pricing of  add to  or discontinue the service or any portion thereof without prior notice.
+from time to time spiceworks makes available certain value-added services for a fee  such as a web-based offering.
+should you elect to use such services  you agree to pay the required fee as specified in the services registration and purchase pages.
+if you elect not to pay any fees charged by spiceworks  spiceworks shall have the right to cease providing those services to you.
+spiceworks reserves the right to modify the pricing of these services at any time without prior notice.
+during use of the service  you may enter into correspondence with  submit a request for quote (pricing and availability)  purchase goods and or services from  follow a vendor or user  or participate in promotions  sweepstakes or contests of advertisers or sponsors showing their goods and or services through the service.
+any such activity  and any terms  conditions  warranties or representations associated with such activity  is solely between you and the applicable third party.
+spiceworks and its licensors shall have no liability  obligation or responsibility for any such correspondence  purchase  request for quote (pricing and availability)  promotions  sweepstakes or contests between you and any such third party.
+spiceworks does not endorse any sites on the internet that are linked through the service.
+spiceworks provides these links to you only as a matter of convenience  and in no event shall spiceworks or its licensors be responsible for any content  products  or other materials on or available from such third-party sites.
+spiceworks provides the service to you pursuant to the terms and conditions of this agreement.
+you recognize  however  that certain third-party providers of ancillary software  hardware or services may require your agreement to additional or different licenses or other terms prior to your use of or access to such software  hardware or services.
+trademarks the information contained in cbc radio-canada world wide web pages could contain technical inaccuracies or typographical errors.
+cbc radio-canada reserve the right to make changes to any information contained within its world wide web pages and to make improvements and or changes in the products and programs described in its world wide web pages at any time and without notice.
+Conduct market or traffic flow analysis and reporting or produce or facilitate production by others of business and marketing reports to share with third parties.
+For example, we may aggregate customer information across a particular region and create a report showing that 10,000 subscribers from a given city visited a sports stadium.
+If you do not wish for us to use your information to produce de-identified and aggregated data sets in the reports we share with third parties, you may opt out at any time.
+See sprint.com/privacy
+for details.
+With your opt-in consent only, customize or personalize advertising based on information we collect about your use of your wireless device in order to provide wireless service to you.
+For example, we may use information about your mobile web browsing or use of mobile applications to deliver advertisements tailored to your interests, and we may share de-identified information about your use of your device with third parties so that they can tailor advertising to your interests based on that information.
+To participate in this program, you must opt in.
+See sprint.com/privacy
+for details on how to do so.
+As described above, we work with advertisers and advertising networks that serve ads on our sites and that may use cookies, web beacons and other technologies to collect information about your use of our sites and other websites.
+This information may be used to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on other websites and better understand your online activity.
+To find out more about targeted advertising and/or to "opt out" of automatic collection of information for this purpose, visit http://www.aboutads.info/choices/.
+You also may register a do-not-contact request by calling Sprint customer care or sending an email to officeofprivacy@sprint.com.
+If you register a do-not-contact request, we still may contact you for non-promotional purposes, such as emails or wireless messages related to your accounts or our ongoing business relations.
+For details on Sprints do-not-contact practices, including how we honor consumer and business customer do-not-contact requests, please visit sprint.com/privacy.
+

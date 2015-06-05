@@ -1,0 +1,14 @@
+java -cp "lib/*" -jar maltparser-1.8.jar -c engmalt.poly-1.7 -m parse  -i testoutput 2>/dev/null
+
+
+cat testinput | java -cp "/home/joseph/Desktop/tosback/experiments/2015-04-16_bow_multiclass_malt_parser/libs/classpath/*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos -outputFormat conll 2>/dev/null
+
+cat out.conll | python subj_verb_extract.py
+
+
+cat input | java -cp "/home/joseph/Desktop/tosback/experiments/2015-04-16_bow_multiclass_malt_parser/libs/classpath/*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos -outputFormat conll 2>/dev/null | python stanford2malt.py | java -cp "lib/*" -jar maltparser-1.8.jar -c engmalt.poly-1.7 -m parse  2>/dev/null
+
+
+
+cat other_sentences.txt | java -cp "/home/joseph/Desktop/tosback/experiments/2015-04-22_bow_multiclass_malt_parser/libs/classpath/*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos -outputFormat conll 2>/dev/null | python stanford2malt.py | java -cp "lib/*" -jar maltparser-1.8.jar -c engmalt.poly-1.7 -m parse  2>/dev/null
+

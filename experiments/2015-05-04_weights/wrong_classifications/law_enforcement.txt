@@ -1,0 +1,43 @@
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+GM may share the information it collects about you or your vehicle in the following instances: 
+
+as required by law, such as in conjunction with a subpoena, government inquiry, litigation, dispute resolution or similar legal process
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to alaw enforcement request
+with our services providers who work on our behalf and who do not have an independent right to use the information to which they have access or that we disclose to them
+with our business partners for GM marketing activities, business partner marketing activities or both
+with third parties for research and development purposes (such as university research institutes for improving highway safety)
+in connection with the sale, transfer or financing of a significant part of a GM business or its assets, including any such activities associated with a bankruptcy proceeding
+within GM, with our subsidiaries and affiliates, with GM dealers and with GM licensees.
+however, transaction information regarding your GM Card will not be shared with GM dealers.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+we may disclose and use personally identifiable information and other information in special circumstances where it is necessary to enforce our user and member agreement or terms of service (for example  when necessary to protect our intellectual property rights).
+we may also disclose or use your personally identifiable information as well as other information when we  in good faith  believe that the law requires us to do so.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+we  or our vendors on our behalf  may share your personal information as required or permitted by law  
+ 
+ with any groupon affiliate who may only use the personal information for the purposes described in this privacy statement  
+ with our vendors to provide services for us and who are required to protect the personal information  
+ to report or collect on debts owed to us or our business partners  
+ with relevant business partners   
+ with whom we jointly offer products and services  
+ to facilitate a direct relationship with you  including in connection with any program we administer on behalf of the business partner  
+ to enable electronic communications with you as part of purchase  a sponsored reward  offer  contest  program  or other activity in which you have elected to participate 
+ 
+ to the extent you have purchased or redeemed a groupon voucher  goods or services offered by a business partner or participated in an offer  rewards  contest or other activity or program sponsored or offered through groupon on behalf of that business partner  
+ 
+ 
+ with a purchaser of groupon or any of the groupon affiliates  or their assets 
+ 
+ to comply with legal orders and government requests  or as needed to support auditing  compliance  and corporate governance functions 
+ 
+ to combat fraud or criminal activity  and to protect our rights or those of our affiliates  users  and business partners  or as part of legal proceedings affecting groupon 
+ 
+ in response to a subpoena  or similar legal process  including to law enforcement agencies  regulators  and courts in the united states and other countries where we operate 
+or  
+ with your consent

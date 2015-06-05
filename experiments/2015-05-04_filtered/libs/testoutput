@@ -1,0 +1,30 @@
+1	I	_	PRP	PRP	_
+2	said	_	VBD	VBD	_
+3	hello	_	UH	UH	_
+4	!	_	.	.	_
+
+
+1	Argos.co.uk	_	NN	NN	_
+2	is	_	VBZ	VBZ	_
+3	an	_	DT	DT	_
+4	awesome	_	JJ	JJ	_
+5	company	_	NN	NN	_
+6	.	_	.	.	_
+
+
+1	We	_	PRP	PRP	_
+2	may	_	MD	MD	_
+3	steal	_	VB	VB	_
+4	your	_	PRP$	PRP$	_
+5	data	_	NNS	NNS	_
+6	.	_	.	.	_
+
+
+1	Our	_	PRP$	PRP$	_
+2	partners	_	NNS	NNS	_
+3	may	_	MD	MD	_
+4	use	_	VB	VB	_
+5	tracking	_	NN	NN	_
+6	cookies	_	NNS	NNS	_
+7	.	_	.	.	_
+

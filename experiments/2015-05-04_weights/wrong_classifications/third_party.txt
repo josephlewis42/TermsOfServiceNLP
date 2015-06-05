@@ -1,0 +1,92 @@
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.mapstone.net send directly to your browsers.
+They automatically receive your IP address when this occurs.
+Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+we don t sell your personal information or share it with any third parties.
+we do send advertisements from third party companies in our newsletter  but this comes from us.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+we may use information in the following ways  
+ 
+ credit card information is used only to process  validate and verify memberships and subscriptions  
+ for any purpose  if we announce the purpose in advance  
+ to provide notifications about new or existing products and services  special offers from us and from third-party providers  through email  pop-ups or other technology  
+ to provide advertisements to you through the sites  email messages  text messages  applications  or other methods of communication  
+ to operate and enhance existing features or develop new features  products and services  
+ to provide third party service providers (see description of third party service providers  below) with aggregate information about our user base and usage patterns  
+ to allow us to personalize the content that you and others see based on personal characteristics or preferences.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+we may use third parties  called third party service providers  to provide premium features such as links to sources of additional information or to conduct surveys.
+these third party service providers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf.
+they may also collect additional personally identifiable information directly on their websites.
+they may also collect and use non-personally identifiable information about your visits to the sites and other websites in order to present custom information that may be of interest to you.
+ if you would like more information about this practice or to opt out of having this information used by some third party service providers  please visit here.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+when you view any third party content such as a survey or supplemental references on our sites or on other sites  our third party service provider may place or recognize a unique cookie on your browser.
+the sites and our providers may also use web beacons (invisible images often referred to as pixel tags or clear gifs) to note which services pages you visit after viewing our ads.
+the information that is collected through the use of these images is not personally identifiable and is used only to track response to our advertising efforts.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+we use p3p to allow the use of third party cookies within the family of pjm sites.
+p3p (platform for privacy preferences project) is a protocol that allows websites to declare their intended use of information they collect about web browser users.
+when this is done some of the default restrictions against third party cookies are relaxed.
+we do this to allow all of our sites to use a single database of user information   so that once you register with one of our sites  you will be able to sign in to any of our sites.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+other cookies that you may receive during your sessions here are from actual third party service providers.
+these third party service providers may use their own cookies in order to serve surveys or premium content on our sites.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+third party cookie information for emails. 
+ 
+we  or a data provider we have engaged  may place or recognize a unique cookie on your browser to enable you to receive customized ads  content or services.
+no personally identifiable information is placed into these cookies.
+the cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us  e.g.  your email address  in hashed  non-human readable form.
+to opt-out of these cookies or learn more please go to http aboutads.info choices or http www.networkadvertising.org choices
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+Byliner never discloses your personal information to any third party unless you have instructed us to do so.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Byliner services.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+Byliner allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Byliner site.
+These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Byliner.
+They automatically receive your IP address when this happens.
+They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+When you register for a user group on any of the InfoSpace Sites, you are asked for your individual user information.
+The individual user information may be collected and stored by a third party partner.
+This partner will store your individual user information on their servers for a period of time at which InfoSpace will assume such storage responsibilities and your information will be deleted from their servers.
+The partner will not have InfoSpace's permission to use your individual user information for secondary purposes.
+If you choose to participate in a user group, your individual user information will be used to qualify you and to contact you for various projects at InfoSpace's discretion.
+InfoSpace may share your individual user information with a third party with whom InfoSpace has entered into an agreement to support such user group projects.
+You may opt out at any time by following the opt out provisions of this privacy policy. Tell-A-Friend
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+We also participate in AOL Behavioral Targeting ( previously TACODA ) to optimize the advertisements you see . For more information on online advertising and important privacy and safety information , please click here .
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+In the course of serving advertisements to this site , our third - party advertisers may place or recognize a unique " cookie " on your browser .

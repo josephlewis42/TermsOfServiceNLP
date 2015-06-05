@@ -1,0 +1,221 @@
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+we may disclose and use personally identifiable information and other information in special circumstances where it is necessary to enforce our user and member agreement or terms of service (for example  when necessary to protect our intellectual property rights).
+we may also disclose or use your personally identifiable information as well as other information when we  in good faith  believe that the law requires us to do so.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+if you subscribe to any members-only area of the sites  to special email lists  or to any other voluntary subscription-based program  you may occasionally receive email messages about the sites that are intended to assist you in making the most out of your subscription.
+these member messages contain a link that you may use to opt out of receiving further member messages.
+you may also decline to receive them by contacting support pjmedia.com.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+to protect your privacy and security  we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections.
+you are responsible for maintaining the secrecy of your unique password and account information at all times.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+email and newsletter opt-out   we give our users the option to sign up for email lists and newsletters.  however  you may change your mind about a subscription  or we may make a mistake and add you to a mailing list you didn t request.  in either case  you can always click on the  opt-out  link at the bottom of each email or newsletter we might send.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+additionally  emails we send may contain a bit of code known as a  web beacon.  this code allows us to understand the time and date of when a user has opened an email and when he she has utilized a link within the email to visit a website.
+our web beacons do not collect personally identifiable information.
+users wishing to disable our web beacons should do so by turning images  off  in their email client (e.g.  outlook  outlook express).
+please see your email client for more information.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+We may share your information for reasons not described in this policy. We will tell you before we do this. You have certain choices about how we use your information.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+You can modify information you have given us. To correct or delete information or update account settings, log into your account and follow the instructions.
+We make changes as soon as we can.
+This information may stay in our backup files.
+If we cannot make the changes you want, we will let you know and explain why.
+If you contact us requesting access to your information, we will respond within 30 days.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes.
+We will also give you a list of the third parties that have received your information.
+You can make a request one time each year.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+the motorola website may also contain various links to third party websites that may provide additional information  goods  services and promotions 
+these sites are operated independently of motorola and have their own separate privacy and data collection practices 
+any information you provide to these websites will be governed under the terms of their privacy policy  if any 
+motorola has no responsibility or liability for the actions or policies of these independent sites and is not responsible for the content or privacy practices of such sites
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+except as outlined in this policy or on our web sites  motorola does not provide your personal information to third parties without your consent 
+please note that  in special cases  we may need to share information without acquiring consent  such as when we believe in good faith that the law requires it  or to identify  contact or bring legal action against someone who may be violating our sites  terms of use or may be violating motorola s or others  rights or causing injury to or interference with motorola s or others  property
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+motorola may share your personal information with third party business partners so that they may provide services to motorola that are consistent with the terms of this privacy statement  and this web site  e g 
+order processing and delivery  database management  sending targeted advertisements  software sales  and conducting sweepstakes and other promotions on behalf of motorola 
+motorola takes great pride in utilizing only reputable business partners 
+motorola may also  on occasion  provide personal information to third party businesses as part of a specific product  service  or promotion
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+motorola or its business partners may send you email or direct mail regarding our products and services 
+if you do not want to receive such information  simply tell us when you give us your personal information  or follow the directions contained on the mailing to remove your name from our mailing list s 
+you may also visit http optout motorola com   on certain types of motorola promotions  we will ask for your email address in order to contact you in the event you have won a prize 
+when you participate in these types of promotions  you may receive promotion related email 
+occasionally these promotion related email messages may include targeted advertisements 
+if you do not wish to receive such advertisements  you can choose not to participate in such promotions or contests
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+you also have the right to access  review  correct or delete  your personal information by contacting motorola 
+individuals are responsible for providing motorola with accurate and complete personal information and for contacting motorola if correction of such information is required 
+please note that  where permitted  we may charge a nominal fee for fulfilling access requests and that we reserve the right to disallow unreasonable requests for access
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+if you have established a  user profile  on a motorola web site  you may change the information you provided by visiting that portion of the web site and re submitting your information
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+the information contained in cbc radio-canada world wide web pages could contain technical inaccuracies or typographical errors.
+cbc radio-canada reserve the right to make changes to any information contained within its world wide web pages and to make improvements and or changes in the products and programs described in its world wide web pages at any time and without notice.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+8.1.2  You acknowledge and agree that You are solely responsible for any Content that You, Your Administrators and/or Your Business Users upload, submit, post, transmit or display through the Skype Software and/or the Skype Website (aUsea or aUseda) and that Skype is not responsible to You or any third party for any Content that is Used by You, Your Administrators, Business Users or any other Skype Software user.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+8.2 Third Party IP Rights.  You agree that You shall not Use (and shall ensure that Your Administrators and Business Users shall not use) any Content that is subject to any third party IP Rights, unless You, the Administrator or the Business User has a licence or specific permission from the owner to Use such third party content, and to grant Skype the licence set out in paragraph 8.3 below.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+8.3 Licence.  You hereby grant to Skype a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub-licensable and transferable licence to: (i) reproduce, modify and publish any Content that You, Your Administrators and/or Business Users Use on the publicly accessible areas of the Skype Website (e.g.
+Skype forum, blogs) for the purpose of displaying and distributing such Content on the Skype Website for such time as You, Your Administrators and/or Business Users continue to Use such Content on the Skype Website.
+and (ii) distribute and/or display through the Skype Software any Content that You, Your Administrators and/or Business Users provide or make available using the Skype Software for the sole purposes of making the Skype Software and the Products available to You, Your Administrators and Your Business Users.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+you have the right at any time to decline to receive these offers.  if you do not want to receive these offers on services to which you do not currently subscribe  please send an email to gciprivacy gci.com with your name as it appears on your gci bill and your telephone number.  declining to hear these offers will not affect the provision of any services to which you subscribe.  gci will honor your decision to decline these offers until you affirmatively tell us otherwise.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino may occasionally change the features and content found on their sites.
+Consequently, our privacy policy may be modified to reflect any revisions to the sites.
+We suggest you revisit our privacy policy from time to time to be sure that you are familiar with our practices. We do not ask for, access or track any location based information from your mobile device at any time while using our mobile optimized websites.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+For each day that you play, we will send you an email confirmation with the number of bonus Diamonds earned and/or of the numbers you have chosen for entry at PCHlotto and/or your Jackpot ball progress and the nightly drawing card you may submit at PCHbingo.
+We may utilize the services of service providers and subcontractors to collect such information on our behalf for administrative and other purposes that we may deem necessary to maintain service and improve the user experience.
+We may forward personally identifiable information to select vendors or third parties necessary for the fulfilment of any prize you may win.
+These service providers are prohibited from using your personally identifiable information for any other purpose including their own marketing.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+From time to time, we may post customer testimonials on our web sites which may contain personally identifiable information such as the customer's name.
+If the testimonial contains personally identifiable information, we do obtain the customer's consent prior to posting these testimonials.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+We forward personally identifiable information to select vendors or third parties necessary for the fulfillment of any prize you may win.
+We utilize the services of and disclose user information to our service providers and subcontractors for purposes of collecting information on our behalf and for administrative and other purposes that we may deem necessary to maintain service and improve the user experience.
+Unless otherwise noted in this Privacy Policy or at the point of collection, we will not share personally identifiable information with marketing partners.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Visitors who do not want to hear about PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino opportunities may follow the simple unsubscribe procedure of removing the check mark located at the permission notice box appearing on each site's registration and/or entry page.
+If an opt out is not submitted, we may notify users by email about special opportunities, drawings, contests, and events.
+In the event of a merger, acquisition, or change of control, customer data would be considered a business asset and may be transferred.
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena.
+We may also disclose personal information as required by law or to protect the safety and security of our users.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Receiving email messages is optional.
+As noted earlier, the collection, use, and distribution of personal data helps us create a more personalized, relevant, and intelligent web service for our users.
+Our sites will not contact you with email offers and announcements from us or from select marketing partners if you follow the simple opt-out procedure of removing the check mark located at the permission notice box appearing on the sites registration and/or entry pages.
+To update your password or update, correct, or delete registration information, please go to MY ACCOUNT.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Our sites are not directed to visitors residing outside of the United States and such users are not eligible to submit online sweepstakes entries.
+If we become aware that a user who does not reside in the United States has registered with the PCHbingo, PCHlotto, PCHslots, PCHBlackJack, and PCHCasino sites, we will use reasonable efforts to remove such information from our files.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party or government request to disclose your information.
+ Advertising
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account.
+You may also email our Privacy Team at privacy@peoplesmart.com.
+We will respond to your request within 30 days.
+ Communication Preferences
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+We may send you information about our products, notify you of any changes to your account, or send confirmations, technical notices, updates, security alerts, support and administrative messages, and marketing emails.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Fraud prevention tools may collect personally identifiable information regardless of whether or not you enable the Do Not Track setting in your browser.
+however, this data is used specifically for fraud and abuse prevention and will never be used for marketing purposes.
+ California Information-Sharing Disclosure
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Advice &amp.
+Resources 
+Career Resources
+Salary Calculator
+hireINSIDER
+
+
+ Search Keywords Ex.
+Registered Nurse or Sales Location Ex.
+Chicago IL or 60607 Save a Search &gt;&gt.
+Saved Searches
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Find annual salaries and compare average salary information locally. Search now to discover how much you can make.
+ Salary Calculator Job TitleEx.
+Registered Nurse, Sales Manager, etc. LocationEx.
+Chicago IL or 60607 Are you an employer?
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+The Nordstrom family of companies is happy to provide further details of our privacy policies.
+Please see the following links for further information:  
+ 
+  Nordstrom Privacy Policy Overview  
+  Categories of Information We Collect  
+  How We Use Your Information  
+  Personal Book  
+  Our Salesperson Texting App aNEXT"  
+  Mobile Privacy  
+  Cookies, Web Beacons, and Other Similar Technologies  
+  Third Party Advertising and Links to Other Websites and Services  
+  Social Media Interactions  
+  Your Information, Your Choice  
+  Children's Privacy  
+  Security  
+  Fraud Alerts: Protecting Your Personal Information  
+  Your Access  
+ 
+ 
+  Job Applicant/Careers Privacy  
+  In-Store Prosthesis Privacy Policy  
+  Canada Privacy Policy  
+  International Customer Privacy  
+  Business Transitions  
+  Policy Changes

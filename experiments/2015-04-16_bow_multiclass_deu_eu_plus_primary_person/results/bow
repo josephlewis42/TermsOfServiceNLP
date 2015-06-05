@@ -1,0 +1,158 @@
+
+With general features + bow + entitybow + primaryperson
+
+Multiclass Classification over Policy/Business Changes, Data Copyright, Rights/Responsibility, Definitions, Personal Information, Hold Harmless, Law Enforcement, Data Collection, Third Party
+Correct mean: 0.919551282051
+                         precision    recall  f1-score   support
+
+Policy/Business Changes       1.00      0.70      0.82        10
+         Data Copyright       0.67      0.17      0.27        12
+  Rights/Responsibility       0.36      0.14      0.21        28
+            Definitions       0.71      0.24      0.36        21
+   Personal Information       0.44      0.19      0.27        36
+          Hold Harmless       0.91      0.29      0.44        34
+        Law Enforcement       0.80      0.44      0.57         9
+        Data Collection       0.69      0.37      0.48        30
+            Third Party       0.73      0.56      0.63        34
+                   None       0.74      0.83      0.78       157
+
+            avg / total       0.70      0.54      0.57       371
+
+
+
+
+================================================================================
+
+With general features + directionalentitybow + bow + entitybow
+
+Multiclass Classification over Policy/Business Changes, Data Copyright, Rights/Responsibility, Definitions, Personal Information, Hold Harmless, Law Enforcement, Data Collection, Third Party
+Correct mean: 0.91891025641
+                         precision    recall  f1-score   support
+
+Policy/Business Changes       1.00      0.70      0.82        10
+         Data Copyright       0.67      0.17      0.27        12
+  Rights/Responsibility       0.60      0.11      0.18        28
+            Definitions       0.83      0.24      0.37        21
+   Personal Information       0.39      0.19      0.26        36
+          Hold Harmless       0.88      0.41      0.56        34
+        Law Enforcement       0.75      0.33      0.46         9
+        Data Collection       0.57      0.27      0.36        30
+            Third Party       0.69      0.53      0.60        34
+                   None       0.73      0.85      0.78       157
+
+            avg / total       0.69      0.54      0.57       371
+
+
+================================================================================
+
+
+With general features + directionalentitybow + bow (no entitybow)
+
+Multiclass Classification over Policy/Business Changes, Data Copyright, Rights/Responsibility, Definitions, Personal Information, Hold Harmless, Law Enforcement, Data Collection, Third Party
+Correct mean: 0.917948717949
+                         precision    recall  f1-score   support
+
+Policy/Business Changes       1.00      0.70      0.82        10
+         Data Copyright       0.67      0.17      0.27        12
+  Rights/Responsibility       0.60      0.11      0.18        28
+            Definitions       0.86      0.29      0.43        21
+   Personal Information       0.43      0.25      0.32        36
+          Hold Harmless       0.88      0.41      0.56        34
+        Law Enforcement       0.75      0.33      0.46         9
+        Data Collection       0.67      0.27      0.38        30
+            Third Party       0.67      0.47      0.55        34
+                   None       0.71      0.84      0.77       157
+
+            avg / total       0.70      0.54      0.57       371
+
+
+
+================================================================================
+
+With general features + entitybow
+Multiclass Classification over Policy/Business Changes, Data Copyright, Rights/Responsibility, Definitions, Personal Information, Hold Harmless, Law Enforcement, Data Collection, Third Party
+Correct mean: 0.922435897436
+                         precision    recall  f1-score   support
+
+Policy/Business Changes       0.88      0.70      0.78        10
+         Data Copyright       0.67      0.17      0.27        12
+  Rights/Responsibility       0.50      0.18      0.26        28
+            Definitions       0.88      0.33      0.48        21
+   Personal Information       0.41      0.19      0.26        36
+          Hold Harmless       0.92      0.32      0.48        34
+        Law Enforcement       0.75      0.33      0.46         9
+        Data Collection       0.67      0.33      0.44        30
+            Third Party       0.77      0.59      0.67        34
+                   None       0.76      0.83      0.79       157
+
+            avg / total       0.72      0.54      0.59       371
+
+
+=============================================================================
+
+With feature chunks + bow + classifiers
+
+Multiclass Classification over Policy/Business Changes, Data Copyright, Rights/Responsibility, Definitions, Personal Information, Hold Harmless, Law Enforcement, Data Collection, Third Party
+Correct mean: 0.901282051282
+                         precision    recall  f1-score   support
+
+Policy/Business Changes       0.80      0.40      0.53        10
+         Data Copyright       0.57      0.33      0.42        12
+  Rights/Responsibility       0.40      0.07      0.12        28
+            Definitions       0.00      0.00      0.00        21
+   Personal Information       0.33      0.17      0.22        36
+          Hold Harmless       0.76      0.38      0.51        34
+        Law Enforcement       0.40      0.22      0.29         9
+        Data Collection       0.56      0.17      0.26        30
+            Third Party       0.46      0.32      0.38        34
+                   None       0.67      0.76      0.72       157
+
+            avg / total       0.55      0.45      0.47       371
+
+
+================================================================================
+
+
+With Basic BOW + general features
+
+
+
+Multiclass Classification over Policy/Business Changes, Data Copyright, Rights/Responsibility, Definitions, Personal Information, Hold Harmless, Law Enforcement, Data Collection, Third Party
+Correct mean: 0.91858974359
+                         precision    recall  f1-score   support
+
+Policy/Business Changes       0.88      0.70      0.78        10
+         Data Copyright       0.67      0.17      0.27        12
+  Rights/Responsibility       0.25      0.14      0.18        28
+            Definitions       0.64      0.33      0.44        21
+   Personal Information       0.44      0.31      0.36        36
+          Hold Harmless       0.94      0.47      0.63        34
+        Law Enforcement       1.00      0.33      0.50         9
+        Data Collection       0.64      0.30      0.41        30
+            Third Party       0.76      0.56      0.64        34
+                   None       0.75      0.80      0.77       157
+
+            avg / total       0.69      0.55      0.59       371
+
+
+
+================================================================================
+With Straight Multiclass (no bow)
+
+Multiclass Classification over Policy/Business Changes, Data Copyright, Rights/Responsibility, Definitions, Personal Information, Hold Harmless, Law Enforcement, Data Collection, Third Party
+Correct mean: 0.901282051282
+                         precision    recall  f1-score   support
+
+Policy/Business Changes       0.80      0.40      0.53        10
+         Data Copyright       0.57      0.33      0.42        12
+  Rights/Responsibility       0.40      0.07      0.12        28
+            Definitions       0.00      0.00      0.00        21
+   Personal Information       0.33      0.17      0.22        36
+          Hold Harmless       0.76      0.38      0.51        34
+        Law Enforcement       0.40      0.22      0.29         9
+        Data Collection       0.56      0.17      0.26        30
+            Third Party       0.46      0.32      0.38        34
+                   None       0.67      0.76      0.72       157
+
+            avg / total       0.55      0.45      0.47       371
+

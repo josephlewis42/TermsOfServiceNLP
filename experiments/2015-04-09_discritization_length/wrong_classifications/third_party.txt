@@ -1,0 +1,325 @@
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+we may share non-personally identifiable information (such as anonymous usage data  referring exit pages and urls  platform types  number of clicks  etc.) with interested third parties to help them understand the usage patterns for certain say media services  and as part of the function of our business.  for example  we may share the number of ad views  ad clicks and content views to help calculate the payments due under the program.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+say media reserves the right  but has no obligation  to monitor the user content you post on any of the say media services.  we reserve the right to remove any such information or material for any reason or no reason  including without limitation if in our sole opinion such information or material violates  or may violate  any law or our terms and conditions of service  or to protect or defend our rights or property or those of any third party.  say media also reserves the right to remove information upon the request of any third party. 
+ 5.
+data retention
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+you can also limit targeted advertising by configuring your browser s settings or changing the management panel of the adobe flash player to limit your acceptance of or delete cookies.  because the management of cookies in various browsers differs  you should consult the documentation for your browser in order to manage your cookies.  in order to limit the acceptance of or disable  flash  cookies  you must access the management panel of the adobe flash player installed on your computer.  to learn more about the management panel of the adobe flash player and the management of  flash  cookies  please access the following link  http www.macromedia.com support documentation en flashplayer help index.html.  you can also opt-out of receiving cookies from third-party data providers by following the instructions at  http www.networkadvertising.org managing opt_out.asp.  truste also provides you with ways to opt-out of behavioral tracking at  http preferences.truste.com truste.  you can opt-out of receiving cookies from targusinfo  a specific third-party data provider  by following the instructions at  http www.adadvisor.net optout.html.  also  because your choices are not associated with you as a particular individual  if you change computers  web browsers or cookie settings  you will need to re-implement your preferences as described above.  note that if you limit or disable cookies  this does not mean that you will not see ads on the say media services.
+instead  ads will be displayed that are based on passive browser information or other information that that may be provided by the say media services at the time of your visit.  9.
+children s privacy
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+DoubleClick DART Cookie 
+ 
+ 
+ Google, as a third party vendor, uses cookies to serve ads on www.mapstone.net. 
+ Google's use of the DART cookie enables it to serve ads to users based on their visit to www.mapstone.net and other sites on the Internet. 
+ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
+www.mapstone.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+we re an ad-supported business.
+our advertising provider may also use cookies to track consumer information and provide ads that you might find useful.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+if you are a california resident and you provided your email address to pj media  llc ( pjm   us  or  we )  then  once each calendar year  you may submit a written request for information about the information we shared  if any  with other companies for their use in direct marketing.
+to submit your written request  please send an e-mail to webmaster pjmedia.com with  request for california privacy  in the subject line.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+within 30 days of receiving your request  we will send you a list of the names and addresses of these other companies during the immediately preceding calendar year.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+although pii is collected through our sites  your billing information (full name  address and associated credit card number) are not stored on our servers.  we use the services of paypal to process credit card payments.  please refer to paypal s privacy statement which can be found here for information about the storage of your name  address and credit card information.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+your email address and user password are stored on our server.
+we also collect other non-pii facts about your computers  profession  interests and similar information.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+we may also share our membership list with organizations which provide information  services or products from which we believe our members will benefit.
+information on canceling any account or opting out of our email lists can be found in the  your rights  section below.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+we may hire other companies to perform services on our behalf including  without limitation  facilitating some aspects of the sites  serving advertisements  sending e-mail  and fulfilling purchase requests.
+these other companies may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf.  please see the following provider privacy policies  
+ 
+ 
+ publir privacy policy 
+ 
+ 
+ google analytics privacy policy 
+ 
+ 
+ paypal privacy policy 
+ 
+ 
+ liveintent privacy policy 
+ 
+ 
+ newsmax privacy policy
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+if you would like more information about opting out or having your information used by some third party service providers  please visit here.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+how to review  correct or delete your information   you may review  and update the personally identifiable information registration information that you have provided to us by contacting customer service at support pjmedia.com.
+you may also delete your account through customer service at the links provided.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+there is another type of cookie called a  third party  cookie.
+if you are using website a  and website a uses the services of website b  and if website b were to leave a cookie on your machine  that would be considered a  third party  cookie because you are not using website b directly.  some browsers  for example internet explorer  are configured to disallow third party cookies by default.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+additionally  emails we send may contain a bit of code known as a  web beacon.  this code allows us to understand the time and date of when a user has opened an email and when he she has utilized a link within the email to visit a website.
+our web beacons do not collect personally identifiable information.
+users wishing to disable our web beacons should do so by turning images  off  in their email client (e.g.  outlook  outlook express).
+please see your email client for more information.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+You agree that you will comply with all applicable laws, rules and regulations, and that you will not:
+
+Restrict or inhibit any other person from using the Site;
+Use the Site for any unlawful purpose;
+Express or imply that any statements you make are endorsed by us, without our prior written consent;
+Impersonate any person or entity, whether actual or fictitious, including any employee or representative of our company;
+Submit (a) any content or information that is unlawful, fraudulent, libelous, defamatory, or otherwise objectionable, or infringes our or any third party's intellectual property or other rights.
+(b) any non-public information about companies without authorization.
+or (c) any advertisements, solicitations, chain letters, pyramid schemes, surveys, contests, investment opportunities or other unsolicited commercial communication;
+Submit, or provide links to, any postings containing material that could be considered harmful, obscene, pornographic, sexually explicit, indecent, lewd, violent, abusive, profane, insulting, threatening, harassing, hateful or otherwise objectionable, includes the image or likeness of individuals under 18 years of age, encourages or otherwise depicts or glamorizes drug use (including alcohol and cigarettes), characterizes violence as acceptable, glamorous or desirable, or contains any personal contact information or other personal information identifying any third party;
+Submit, or provide links to, any postings containing material that harasses, victimizes, degrades, or intimidates an individual or group of individuals on the basis of religion, race, ethnicity, sexual orientation, gender, age, or disability;
+Engage in spamming or flooding;
+Harvest or collect information about Site users;
+Order a number of tickets for an event that exceeds the stated limit for that event.
+
+Use any password or code to participate in a presale or other offer on the Site if you did not receive the password or code from us or if you violate the terms of the presale or offer.
+or
+Use any area of the Site for commercial purposes, such as to conduct sales of tickets, products or services.
+Ownership of Content and Grant of Conditional License
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Please review our Purchase Policy, which will govern your purchase of any tickets or other products through the Site, including any refunds or exchanges.
+We may impose conditions on your use of any coupon, promotional code or gift card.
+You will pay all charges incurred by you or any users of your account and credit card (or other applicable payment mechanism) at the price(s) in effect when such charges are incurred, including any applicable taxes.
+You may only use credit or debit cards, gift cards or vouchers that belong to you or to people who expressly authorize you to use such payment methods.
+You may use tm ticket cash only in accordance with the Code Terms of Use found at Ticketmaster.com/ticketcash.
+You may not attempt to conceal your identity by using multiple Internet Protocol addresses or email addresses to conduct transactions on the Site.
+You will not hold us liable if you do not comply with laws related to your transactions.
+We may provide law enforcement with information you provide to us related to your transactions to assist in any investigation or prosecution of you.
+If we are unable to verify or authenticate any information or tickets you provide during any registration, ordering, purchase, ticket posting, sale, authentication, delivery, payment or remittance process, or any other process, or if we are no longer able to verify or authorize your credit card or bank account information, your tickets may be cancelled, we may refuse to honor all pending and future ticket purchases made with those credit card or bank accounts and/or via any online accounts associated with those credit card or bank accounts.
+We may also prohibit you from using the Site. Forums and User Content
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+You own all rights to your User Content.
+If you submit User Content to the Site, you grant us a worldwide, non-exclusive, transferable, sublicenseable, royalty-free right and license to use, reproduce, modify, create derivative works of, distribute, publicly perform, display, archive and commercialize your User Content, in our sole discretion, in all formats and in all media channels now known or hereinafter discovered, without any compensation or acknowledgment to you or anyone else.
+This license will not affect your ownership in your User Content, including the right to grant additional licenses to your User Content, except if it conflicts with these Terms.
+We are not obligated to post, display or otherwise use any User Content, or to attribute your User Content to you.
+You will not make or authorize any claim against us that our use of your User Content infringes any of your rights.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+You will be responsible for your User Content and the consequences of posting it.
+By submitting User Content, you represent to us that (i) you own, or have the necessary permission to submit the User Content and to grant the licenses to us under this section, and (ii) you have the written permission of every identifiable person in the User Content to use that person's name and likeness in the manner contemplated by the Site and these Terms or, if the person is a minor, the written permission of the minor's parent or legal guardian.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+We will have the right (but not the obligation) to monitor the Site, the Forums and the User Content, and to disclose any User Content and the circumstances surrounding its submission in order to operate the Site properly, or to protect ourselves, our sponsors and our users, or to comply with legal obligations or governmental requests.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+We may investigate any violation of these Terms, including unauthorized use of the Site.
+We may take legal action that we feel is appropriate.
+You agree that monetary damages may not provide us a sufficient remedy and that we may pursue injunctive or other relief for your violation of these Terms.
+If we determine that you have violated these Terms or the law, or for any other reason or for no reason, we may cancel your account, delete all your User Content and prevent you from accessing the Site at any time without notice to you.
+If that happens, you may no longer use the Site or any Content.
+You will still be bound by your obligations under these Terms.
+You agree that we will not be liable to you or any third party for termination of your access to the Site or to your account or any related information, and we will not be required to make the Site or your account or any related information available to you.
+We may also cancel any ticket or merchandise order, and tickets or merchandise acquired through your order.
+We may refuse to honor pending and future purchases made from all accounts we believe may be associated with you, or cancel a ticket or ticket order associated with any person we believe to be acting with you, or cancel your ticket postings, or exercise any other remedy available to us.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+You agree that your abusive use of the Site may cause damage and harm to us, including impaired goodwill, lost sales and increased expenses.
+You also agree that monetary damages for your abusive use of the Site are difficult to determine and that if you, or others acting with you, request more than 1,000 pages of the Site or make more than 800 reserve requests on the Site in any 24-hour period, you, and those acting with you, will be jointly and severally liable for liquidated damages in the amount of twenty-five cents ($0.25) for each page request or reserve request made during that 24-hour period which exceeds those limits. Disclaimer of Warranties
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Any dispute or claim relating in any way to your use of the Site, or to products or services sold or distributed by us or through us, will be resolved by binding arbitration rather than in court, with the following exceptions:
+
+You may assert claims in small claims court if your claims apply;
+If a claim involves the conditional license granted to you as described in the Ownership of Content and Grant of Conditional License section above, either of us may file a lawsuit in a federal or state court located within Los Angeles County, California, and we both consent to the jurisdiction of those courts for such purposes.
+and
+In the event that the arbitration agreement in these Terms is for any reason held to be unenforceable, any litigation against us (except for small-claims court actions) may be commenced only in a federal or state court located within Los Angeles County, California, and we both consent to the jurisdiction of those courts for such purposes.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Information We Collect
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Log file information is automatically reported by your browser each time you access a web page.
+When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website.
+These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, referring/exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+When you use the Service, we may employ clear gifs (a.k.a.
+Web Beacons), which are used to track the online usage patterns of our users anonymously.
+No personally identifiable information from your Byliner account is collected using these clear gifs.
+In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.
+The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Byliner better for our users.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public via the Service and our business partners.
+User Content includes, but is not limited to, reviews, and comments.
+If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Your name and, depending on privacy settings, email address, are used when you invite another person to join Byliner, or when you request to add another member to your friends list.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Byliner may use certain information about you and/or your User Content without identifying you as an individual to third parties.
+We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Byliner may develop special sites in cooperation with other companies.
+If you register at these co-branded sites, we may share your registration information (such as name and email address) with that company.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Byliner reserves the right, but has no obligation, to monitor the User Content you post on the site.
+Byliner has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party.
+Byliner also reserves the right to remove information upon the request of any third party.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+As we develop our business, we may buy or sell assets or business offerings.
+Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
+We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Except as otherwise described in this privacy statement, Byliner will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities.
+(b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site.
+and (c) to exercise or protect the rights, property, or personal safety of Byliner, our users or others.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Byliner services.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Byliner does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent.
+However, please note that if an advertiser asks Byliner to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks.
+The Byliner privacy policy does not apply to, and we cannot control the activities of, such advertisers.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+The InfoSpace Sites do not require you to share information that identifies you personally, such as your name or e-mail address, in order for you to use the InfoSpace Sites.
+The InfoSpace Sites assign an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited the InfoSpace Site, your search terms, and the links upon which you choose to click.
+Like most standard Web site servers, we use log files to collect and store this anonymous user information.
+InfoSpace analyzes the information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. Individual User Information
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+From time-to-time the InfoSpace Sites request information from you that may identify you personally in addition to the anonymous information described above.
+The requested information typically includes contact information (such as name, e-mail address, shipping address, and zip code), and demographic information (such as age, gender, occupation, and household income).
+InfoSpace will not use or disclose your individual user information except as described in this privacy policy.
+InfoSpace collects individual user information in the following ways from different InfoSpace Sites:  Surveys or Contests
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+From time to time, InfoSpace may conduct surveys or contests on an InfoSpace Site.
+Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose individual user information to the InfoSpace Site.
+Contest information will be shared with the contest or survey sponsors to notify the winners and award prizes.
+Survey information will be used for purposes of monitoring or improving the use and satisfaction of the InfoSpace Site.
+We may use an intermediary to conduct these surveys or contests.
+These companies may use your personal information to help the InfoSpace Site communicate with you about offers from the InfoSpace Site and our marketing partners.
+Such third parties do not have InfoSpace's permission to use your personally identifiable information for any secondary purpose. Go2Net.com Registration
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+InfoSpace offers certain personalization services within its directory services (i.e., White Pages and Yellow Pages) that enable you to give us your geographic location so we can remember it for you when you return to use our service.
+For example, if we know that you are searching from Bellevue, Washington for a particular company, we will pre-populate the city and state fields with Bellevue and Washington.
+While you are not required to use this feature of the directory services, the information enables us to provide you with a more efficient experience on the InfoSpace Sites.
+In addition, InfoSpace allows you to update, correct any errors in the listings, or include yourself in the directory services.
+In order to make these modifications, you may provide InfoSpace with certain individual user information that InfoSpace will use, along with its affiliates and third party service providers, to modify and update your information in the directory services database.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Once you have located it, simply click the update or remove link.
+To verify your request, InfoSpace will send an e-mail message to the address that you provide.
+Once you confirm the request, your listing will be updated or deleted.
+Please allow approximately 24 hours for the update to become active after we receive your confirmation. User Groups
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+If you elect to use our referral service for informing a friend about any of our sites, we ask you for your friend's name and e-mail address.
+InfoSpace will automatically send the friend a one-time e-mail inviting them to visit the InfoSpace Site.
+InfoSpace does not store the information related to your friends and the one-time e-mail sent pursuant to your input will be our only contact with that person for such input. Correspondence
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+If you contact InfoSpace, we may keep a record of that correspondence and we may collect your e-mail address. Third Party Information Gathering
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+The InfoSpace Sites include content and ads from third parties that may perform user activity tracking other than that described herein.
+For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site.
+We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of InfoSpace's or such InfoSpace Site's terms of use, or as otherwise required by law.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+InfoSpace Sites may use third party service providers to serve ads and e-mails on our behalf.
+These companies may use technologies to measure the effectiveness of ads and e-mails and use information about your visits to the InfoSpace Site so that we can provide a better search experience to you.
+For this purpose, we may also provide these third party service providers anonymous information about your site navigation. Mergers.
+Business Transitions
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+We use third - party advertising companies to serve ads when you visit our Web site .
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+8.1.2  You acknowledge and agree that You are solely responsible for any Content that You, Your Administrators and/or Your Business Users upload, submit, post, transmit or display through the Skype Software and/or the Skype Website (aUsea or aUseda) and that Skype is not responsible to You or any third party for any Content that is Used by You, Your Administrators, Business Users or any other Skype Software user.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+8.2 Third Party IP Rights.  You agree that You shall not Use (and shall ensure that Your Administrators and Business Users shall not use) any Content that is subject to any third party IP Rights, unless You, the Administrator or the Business User has a licence or specific permission from the owner to Use such third party content, and to grant Skype the licence set out in paragraph 8.3 below.

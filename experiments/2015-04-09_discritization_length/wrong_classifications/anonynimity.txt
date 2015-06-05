@@ -1,0 +1,166 @@
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Using Kinja, User Conduct, and Your Content
+
+
+Anything you post on Kinja is public.
+So make sure youre comfortable with the idea that anyone can view anything you post here.
+You shouldnt post any content or use our service to do anything illegal or malicious.
+If it turns out any of your content or use is illegal or malicious, Kinja is not responsible  youre responsible.
+Please do not hack, attack, or copy Kinja or our services.
+While we wouldnt do it without good reason, ultimately Kinja may remove your content or terminate or suspend your account at its sole discretion.
+If disputes arise between you and anyone other than Kinja, we have no obligation to participate or assist either party.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+1.
+Registration.
+
+Even if you choose to create an anonymous account, you are still agreeing to all of these Terms.
+You may not: 
+use a false information or an account owned or controlled by another person with the intent to mislead other users maliciously by impersonating that person or for any other reason;
+use as a User ID a name subject to any rights of a person other than yourself without appropriate authorization or in violation of our Content Guidelines.
+or
+otherwise submit false or misleading information to the Company.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+other information.  we also collect some information from you when you use the service that does not constitute  personal information.  for example  each installed copy of the desktop includes a unique application number.
+if you install the desktop  this number and a message indicating whether the installation succeeded or failed  is sent back to spiceworks.
+also  when the desktop automatically checks to see if a new version is available  the current version number and the unique application number are sent to spiceworks.
+the unique application number is required for the desktop to function properly and cannot be disabled.
+from time to time  the desktop also collects anonymous aggregate information about your computing environment.
+this information is anonymized and collected into groups so that it no longer reflects or references an individually identifiable company or user.
+we also collect information you input into the any web-based offerings made available by spiceworks in connection with your use of those offerings.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+automatic data collection.  as is true of most websites  we gather certain information automatically from your browser and store it in log files.
+this information includes display size  browser type  referring exit pages  operating system  date time stamp  and various click-stream data.
+if your browser has a  private browsing  mode you may be able to block this information from being sent to spiceworks  but in some cases this may impact your ability to use the service.  cookies and related technologies
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+we use a third-party service provider to serve ads on our behalf across the internet and sometimes on our site.
+they may collect anonymous information about your visits to our site and your interaction with our products and services.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+we also work with a third party to monitor certain pages of our site for the purpose of reporting site traffic and other advertising statistics.
+where authorized by us  this third party may use cookies and or other monitoring technologies to compile anonymous statistics about our site visitors.
+no personal information is transferred to this third party.  how we use the information
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+internal and service-related usage.  we use data you input into or that is collected by the service to perform the services requested in connection with those services.
+for example  if you input inventory data into one of the web-based offerings  we will use that information to display that inventory data to you when you use such web-based offering.
+we use your payment information to collect payment for the applicable services.
+we may store and combine the personal information you submit or we collect via any part of the service with information from other spiceworks services or third parties (including sns) in order to deliver the service  to provide you with a better experience and to improve the quality of our services.
+we may use anonymized aggregate personal or environment information to provide the services you've requested  including services that display customized content and advertising  and compare your environment configuration to those of the broader user community.
+such information does not identify you or your company individually.
+we may use browser usage information  which does not identify individual users or companies  to analyze trends  to administer the service  to track users' movements around the site  to gather demographic information about our user base as a whole  and to operate and improve the spiceworks technologies and services.
+we may use and retain any data we collect to provide and improve our services.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+advertising.  third party service providers that we use to serve ads on our behalf may also use information about your visits to our site and other websites to target advertisements for goods and services.
+this anonymous information is collected through the use of a pixel tag  which is industry standard technology used by most major websites.
+no personally identifiable information is collected or used in this process.
+they do not know the name  phone number  address  email address or any personally identifying information about the user.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+marketing.  we may share anonymous aggregated information with third parties outside of spiceworks  such as advertisers and market research firms approved by spiceworks  for their marketing and promotional purposes.
+for example  we share with advertisers the breakdown of our user community by company size and industry.
+when we share such information it does not identify you or your company individually.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+we use cookies to anonymously track traffic through our site.
+your web browser also provides information such as your ip address  browser version and language.
+all of this is anonymous.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+1.
+When you register and use this site:
+
+You will be asked to provide certain information such as your name, contact details and possibly credit card or other payment details.
+We will store this data and hold it on computers or otherwise.
+We will use this data to fulfil our agreement with you.
+Some of our services will require further details.
+For example, when using the Gift list service, this will require further information to set up and maintain your gift list and allow your chosen guests to see your list details.
+In addition, we may gather other information about your use of the website, including by the use of cookies (see section on Cookies below).
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+9.
+We may give information about you to the following companies and organisations who may use it for the same purposes as set out above: (a) to other companies in the Group. (b) to employees and agents of the Group and other approved third parties to administer any accounts, products and services provided to you by the Group now or in the future. (c) to agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs. (d) to other organisations for the administration of prize draws or competitions. (e) to anyone to whom we transfer our rights and duties under our agreement with you. (f) if we have a duty to do so or if the law allows us to do so.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Please be aware that:
+
+
+your review may be shared on other Home Retail Group sites.
+once submitted, it usually takes 72 hours for your review, question or answer to appear on the website providing it adheres to our Publishing guidelines.
+your review can be submitted anonymously or if you prefer you can leave a ratings only review.
+
+it is not possible for you to edit/remove your review after submission
+ If you require any further information on this service or wish to have your review removed, you can contact Customer services.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+You may browse the Site without registering for an account.
+You will be required to register for an account to use certain features of the Site, such as purchasing a ticket.
+Your account username may not include the name of another person with the intent to impersonate that person, or be offensive, vulgar or obscene.
+Your account username and password are personal to you.
+You will be responsible for the confidentiality and use of your username and password, and for all activities (including purchases) that are conducted through your account.
+You may not transfer or sell access to your account.
+We will not be liable for any harm related to disclosure of your username or password or the use by anyone else of your username or password.
+You may not use another user's account without that user's permission.
+You will immediately notify us in writing if you discover any unauthorized use of your account or other account-related security breach.
+We may require you to change your username and/or password if we believe your account is no longer secure or if we receive a complaint that your username violates someone else's rights.
+You will have no ownership in your account or your username.
+We may refuse registration, cancel an account or deny access to the Site for any reason. Code of Conduct
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+You agree that you will comply with all applicable laws, rules and regulations, and that you will not:
+
+Restrict or inhibit any other person from using the Site;
+Use the Site for any unlawful purpose;
+Express or imply that any statements you make are endorsed by us, without our prior written consent;
+Impersonate any person or entity, whether actual or fictitious, including any employee or representative of our company;
+Submit (a) any content or information that is unlawful, fraudulent, libelous, defamatory, or otherwise objectionable, or infringes our or any third party's intellectual property or other rights.
+(b) any non-public information about companies without authorization.
+or (c) any advertisements, solicitations, chain letters, pyramid schemes, surveys, contests, investment opportunities or other unsolicited commercial communication;
+Submit, or provide links to, any postings containing material that could be considered harmful, obscene, pornographic, sexually explicit, indecent, lewd, violent, abusive, profane, insulting, threatening, harassing, hateful or otherwise objectionable, includes the image or likeness of individuals under 18 years of age, encourages or otherwise depicts or glamorizes drug use (including alcohol and cigarettes), characterizes violence as acceptable, glamorous or desirable, or contains any personal contact information or other personal information identifying any third party;
+Submit, or provide links to, any postings containing material that harasses, victimizes, degrades, or intimidates an individual or group of individuals on the basis of religion, race, ethnicity, sexual orientation, gender, age, or disability;
+Engage in spamming or flooding;
+Harvest or collect information about Site users;
+Order a number of tickets for an event that exceeds the stated limit for that event.
+
+Use any password or code to participate in a presale or other offer on the Site if you did not receive the password or code from us or if you violate the terms of the presale or offer.
+or
+Use any area of the Site for commercial purposes, such as to conduct sales of tickets, products or services.
+Ownership of Content and Grant of Conditional License
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Please review our Purchase Policy, which will govern your purchase of any tickets or other products through the Site, including any refunds or exchanges.
+We may impose conditions on your use of any coupon, promotional code or gift card.
+You will pay all charges incurred by you or any users of your account and credit card (or other applicable payment mechanism) at the price(s) in effect when such charges are incurred, including any applicable taxes.
+You may only use credit or debit cards, gift cards or vouchers that belong to you or to people who expressly authorize you to use such payment methods.
+You may use tm ticket cash only in accordance with the Code Terms of Use found at Ticketmaster.com/ticketcash.
+You may not attempt to conceal your identity by using multiple Internet Protocol addresses or email addresses to conduct transactions on the Site.
+You will not hold us liable if you do not comply with laws related to your transactions.
+We may provide law enforcement with information you provide to us related to your transactions to assist in any investigation or prosecution of you.
+If we are unable to verify or authenticate any information or tickets you provide during any registration, ordering, purchase, ticket posting, sale, authentication, delivery, payment or remittance process, or any other process, or if we are no longer able to verify or authorize your credit card or bank account information, your tickets may be cancelled, we may refuse to honor all pending and future ticket purchases made with those credit card or bank accounts and/or via any online accounts associated with those credit card or bank accounts.
+We may also prohibit you from using the Site. Forums and User Content
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+The Nordstrom family of companies (Nordstrom, Nordstrom Rack, Nordstrom.com, Nordstrom fsb, Nordstrom Canada, HauteLook, Inc., Jeffrey and Trunk Club, Inc.) takes seriously the protection and proper use of your personal information, including social security numbers.
+In this policy, we may use "we," "our," "us" and "Nordstrom" to refer to the Nordstrom family of companies.

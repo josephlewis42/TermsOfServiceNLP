@@ -1,0 +1,462 @@
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+15.
+By using the Argos website, mobile website and Apps, you are agreeing to our Privacy and cookie policies and consent to the use of cookies and similar technologies by us and our carefully selected third party partners as described in these policies.
+If you do not agree to such use, please see the Managing your cookies section for details on how to adjust your settings.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+WE PROVIDE THE SITE AND THE CONTENT TO YOU "AS IS" AND "AS AVAILABLE".
+WE TRY TO KEEP THE SITE UP, BUG-FREE AND SAFE, BUT YOU USE IT AT YOUR OWN RISK.
+TO THE FULLEST EXTENT PERMISSIBLE BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF TITLE, NON-INFRINGEMENT, ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR WARRANTIES THAT MAY ARISE FROM COURSE OF DEALING OR COURSE OF PERFORMANCE OR USAGE OF TRADE.
+WE DO NOT GUARANTEE THAT THE SITE WILL ALWAYS BE SAFE, SECURE OR ERROR-FREE OR THAT THE SITE WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS, DELAYS OR IMPERFECTIONS.
+WE ARE NOT RESPONSIBLE FOR THE ACTIONS OR INFORMATION OF THIRD PARTIES, AND YOU RELEASE US FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SOME OF THESE EXCLUSIONS MAY NOT APPLY TO YOU.
+IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE 1542, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR.
+ Limitation of Liability
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to: Live Nation Entertainment, Inc., 9348 Civic Center Drive, Beverly Hills, CA 90210, Attn: Legal.
+You may download the forms located at http://www.jamsadr.com/files/Uploads/Documents/JAMS_Arbitration_Demand.doc.
+The arbitration will be conducted by JAMS under its Streamlined Arbitration Rules and Procedures or, if applicable, its Comprehensive Arbitration Rules and Procedures, and any applicable supplemental rules including its Consumer Arbitration Standards of Minimum Fairness.
+The JAMS Rules are available online at http://www.jamsadr.com/rules-clauses or by calling 1-800-352-5267.
+Payment of all filing, administration and arbitrator fees will be governed by JAMS's rules.
+We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous, but in no event will we pay for attorneys' fees.
+You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+spiceworks processes personal information on servers in the united states of america and in other countries.
+in some cases  we may process personal information on a server outside your own country.
+if you are visiting from the european union or other regions with laws governing data collection and use  please note that you are agreeing to the transfer of your information to the united states and processing globally.
+by providing your information you consent to any transfer and processing in accordance with this privacy policy.  third-party sites
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+6.
+What are cookies and how does Toys"R"Us use them?
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+1.
+You can choose to tell us not to collect this information and not to provide you with interest-based advertising.
+Note that if you choose to opt out, you may continue to see ads on Toys"R"Us websites and receive communications from Toys"R"Us, but they will not be based on how you browse and shop.
+To opt out of receiving interest-based advertising, click here: http://www.networkadvertising.org/managing/opt_out.asp
+
+To successfully opt out, you must have cookies enabled in your web browser.
+A "cookie" is a small data file transferred by a website to your computer's hard drive.
+Toys"R"Us or its service providers send cookies when you surf our sites or sites where our ads appear, make purchases, request or personalize information, or register yourself for certain services.
+The "Help" portion of the toolbar on most browsers will tell you how to enable or disable cookies.
+
+Opting out only applies to your current web browser on your current computer.
+If you use multiple computers or multiple web browsers, you must opt out using each one.
+
+Once you opt out, if you delete your browser's saved cookies, you will need to opt out again.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+2.
+As an alternative, you can prevent Toys"R"Us from automatic collection of some information by disabling cookies on your web browser.
+The "Help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies or how to disable cookies altogether, and the portion of this Privacy Policy above regarding "Flash cookie" addresses how to disable other types of automatic collection of information for these purposes.
+Note that some information will still be collected unless you opt out as described above.
+Also, note that if you reject cookies from Toys"R"Us Sites altogether, you may not be able to participate in certain activities or receive a promotion tailored to you.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+cookies and web beacons
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+we employ cookie technology.
+read our cookie disclosure statement for more information about our use of cookies.
+we use web beacons (invisible images often referred to as pixel tags or clear gifs) on our sites in order to recognize users and assess traffic patterns.
+we also include web beacons in our e-mail messages including newsletters in order to count how many e-mail messages have been opened.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+pjm is hosted in the united states.  if you are a member or user accessing pjm from the european union  asia  or any other region with laws or regulations governing personal data collection  use  and disclosure  that differ from united states laws  please be advised that through your continued use of pjm (which is governed by u.s.
+law)  this privacy notice  and our terms of use  you are transferring your personal information to the united states and you consent to that transfer.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+if you set your browser to  not accept  any cookies  or if you block our cookies  you will not be able to register or sign in to the sites because we use cookies to keep track of your sign-in status.
+we also use cookies to implement the  remember me  feature  which allows you to return to the sites without having to log in each time.
+we do this by saving an encrypted version of your credentials in a cookie.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+we use p3p to allow the use of third party cookies within the family of pjm sites.
+p3p (platform for privacy preferences project) is a protocol that allows websites to declare their intended use of information they collect about web browser users.
+when this is done some of the default restrictions against third party cookies are relaxed.
+we do this to allow all of our sites to use a single database of user information   so that once you register with one of our sites  you will be able to sign in to any of our sites.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+other cookies that you may receive during your sessions here are from actual third party service providers.
+these third party service providers may use their own cookies in order to serve surveys or premium content on our sites.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+about us blogs press center jobs management terms cookies privacy policy
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+The InfoSpace Sites include content and ads from third parties that may perform user activity tracking other than that described herein.
+For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+The InfoSpace Sites contain links to other sites on the Web.
+Please be aware that InfoSpace is not responsible for the privacy practices of such other sites.
+We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+This privacy statement applies solely to information collected by this Web site. Cookies
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+InfoSpace may set and access InfoSpace or partner cookies on your computer.
+A cookie is a small data file that a Web site may send to your browser and which may then be stored on your system.
+We use both session cookies and persistent cookies.
+For the session cookie, once you close the browser, the cookie simply terminates.
+A persistent cookie is a small text file stored on your hard drive for an extended period of time.
+Persistent cookies can be removed by following Internet browser help file directions.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+DoubleClick DART Cookie 
+ 
+ 
+ Google, as a third party vendor, uses cookies to serve ads on www.mapstone.net. 
+ Google's use of the DART cookie enables it to serve ads to users based on their visit to www.mapstone.net and other sites on the Internet. 
+ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+www.mapstone.net has no access to or control over these cookies that are used by third-party advertisers.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Through the use of "cookies" and "pixel tags" (both described below) and online and registration forms, we may collect personal data on, among other things, the following information:
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+3.
+What are Cookies?
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+We utilize software from several third party companies that places tracking technologies on our web sites.
+We have control over these third party cookies and javascript tags which we use to analyze the data they generate, in aggregate.
+Some of the reasons for collecting this data is to determine the most popular offers on our sites, the most popular areas for users to click on a screen with many buttons to click, etc.
+We also use one of these services to estimate broad demographic patterns for our users in order to present our site audience as a whole to advertisers.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+The Terms shall be exclusively governed by and construed in accordance with the laws of the State of New York within the United States of America without giving effect to any principles of conflicts of law.
+SB controls and operates the Site from its offices located in the State of New York in the United States of America.
+SB makes no representation that Materials contained on the Site or Products described or offered on the Site are appropriate or available for use in jurisdictions outside the United States, or that the Terms comply with the laws of any other country.
+Visitors who use the Service and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
+If any provision of the Terms shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from the Terms and shall not affect the validity and enforceability of any remaining provisions.
+Contacting Us
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Cookies Information
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+datenschutzerkl rung und nutzungsbedingungen czechdeutschdanishdutchenglishitalianpolishrussianspanish  
+ 
+ 
+top_navi
+ 
+  ber quisma 
+ online werbung 
+ cookies 
+ browsereinstellungen 
+ datenschutz 
+ organisationen 
+ 
+ 
+ 
+  datenschutz
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+twitter 
+ subscribe 
+ give a gift 
+ customer service  advertisement  at home with town amp country
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+more than 150 covers   dating back to 1860.  home   faq   privacy policy   your california privacy rights   terms of use   community guidelines   press   site map   advertise online   about our ads   advertise in print subscribe   give a gift   customer service   contact us  hearst women's sites  cosmopolitan   country living   delish   good housekeeping   harper's bazaar   house beautiful   marie claire   quick  amp.
+simple   redbook   town  amp.
+country   town  amp.
+country travel   veranda 
+ 2014 hearst communications  inc.
+all rights reserved.
+  being green  why did i get this ad
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Applicable Law. You agree that the laws of the State of New York, without regard to principles of conflict of laws, will govern these Terms and any claim or dispute that has arisen or may arise between you and Kinja, except as otherwise stated in these Terms.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+Judicial Forum for Legal Disputes.
+Unless you and we agree otherwise, in the event that the Binding Arbitration provision above is found not to apply to you or to a particular claim or dispute, either as a result of your decision to opt-out of the Terms or a court order, you agree that any claim or dispute that has arisen or may arise between you and Kinja must be resolved exclusively by a state or federal court located in New York City, New York.
+You and Kinja agree to submit to the personal jurisdiction of the courts located within New York City, New York for the purpose of litigating all such claims or disputes.
+13.
+Statute of Limitations.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+when posting content to the google code website
+(http code.google.com) or when
+sharing content obtained from this website with others  you agree that
+you are solely responsible for complying with u.s.
+export control
+regulations  including the export administration regulations ( ear ) 
+and all other applicable export and import laws and regulations.
+these
+regulations require that all postings of open source encryption code
+be simultaneously reported by email to the u.s.
+government.
+you are
+responsible for submitting this email report to the u.s.
+government in
+accordance with procedures described in 
+http www.bis.doc.gov encryption pubavailencsourcecodenofify.html
+and section 740.13(e) of the ear.
+users residing in countries on the
+united states office of foreign assets control sanction list 
+including cuba  iran  north korea  sudan and syria  may not post or
+access content available through the google code website.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+This Privacy Policy ("Policy") describes how Sprint Corporation ("Sprint") will collect, access, use or disclose your personal information.
+It applies to all of our products, services, and web sites ("Services").
+A few of our Services are covered by different privacy policies and in the event of a conflict between the two, the product or service specific policy governs.
+For example, we may have a separate policy or agreement for certain products, services or brands.
+Our collection, access, use, disclosure and safeguarding of your personal information is subject to U.S.
+law.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+As described above, we work with advertisers and advertising networks that serve ads on our sites and that may use cookies, web beacons and other technologies to collect information about your use of our sites and other websites.
+This information may be used to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on other websites and better understand your online activity.
+To find out more about targeted advertising and/or to "opt out" of automatic collection of information for this purpose, visit http://www.aboutads.info/choices/.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+advertisers.  we use outside ad companies to display ads on our site.
+ads may contain cookies that appear to be coming from our site  but in reality they are coming from our partners who are serving ads on our site.
+we do not have access to any information about you from cookies you might receive while visiting our site.
+some customer data is shared with the advertising companies.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+FAQ
+Support
+Terms
+Cookies
+ Android is a trademark of Google, Inc.
+Facebook is a trademark of Facebook, Inc., registered in the United States and in other countries.
+Chrome is a trademark of Google, Inc.
+LinkedIn is a registered trademark of LinkedIn corporation and its affiliates in the US and other countries.
+Twitter is a trademark of Twitter, Inc., registered in the United States and in other countries.
+Firefox is a trademark of the Mozilla Foundation.
+iOS is a trademark of Cisco in the US and is used by Apple under license.
+Internet Explorer is a trademark of Microsoft.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+what about cookies  related third party services and interest based advertisements
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+in order to offer and provide a customized website experience  motorola may use cookies  including googleanalytics and doubleclick cookies  to store and help track information about you 
+cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer s hard drive 
+motorola uses cookies to help remind us who you are and to help you navigate our sites during your visits 
+cookies enable us to save passwords and preferences for you so you won t have to re enter them each time you visit 
+we also use cookies in order to determine relevant interest based advertisements to serve the user
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+as a global company motorola has websites and users all over the world 
+the information you provide may be transmitted  used  processed and stored outside of the country where you submitted that information  including countries that may not have data privacy laws that provide protection equivalent to such laws in your home country 
+whenever motorola handles personal information  regardless of where this occurs  we take appropriate steps to ensure that your information is treated securely and in accordance with the relevant terms of use  this privacy statement and all applicable laws and regulations
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+we re an ad-supported business.
+our advertising provider may also use cookies to track consumer information and provide ads that you might find useful.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Third Party Cookies
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+This site uses cookies that collect anonymous traffic data and these cookies may be placed by a third - party in order to provide such services .
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+groupon  inc 
+is headquartered in the united states of america 
+we recognize that the european community has established a data protection regime pursuant to directive 95 46 ec  the   directive   
+the directive applies to the european economic area    eea   
+switzerland has also established a data protection regime pursuant to the federal act on data protection    fadp   
+these regimes restrict companies in the eea and switzerland  collectively    eea ch    from transferring personal data about individuals in the eea ch to the united states  unless there is  adequate protection  for such personal data when it is received in the united states 
+to create such  adequate protection  and allow our affiliates  vendors and business partners to overcome the restriction on international data transfers established by the directive and the fadp  we adhere to the safe harbor privacy principles published by us department of commerce    safe harbor principles    with respect to personal data about individuals in the eea ch that our subsidiaries and business partners in the eea ch send to us     eea ch data   
+more information on the safe harbor principles and groupon  inc s scope of participation is available at http export gov safeharbor 
+groupon s policy concerning the processing of eea ch data under its certification can be viewed at http www groupon com safe harbor
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+if you live outside the united states  including in the eea ch  and you use the site or provide us with personal information directly via the site  your information will be handled in accordance with this privacy statement 
+by using the site or giving us your personal information  you are directly transferring your personal information and non identifiable information to us in the united states 
+the united states may not have the same level of data protection as your jurisdiction 
+however  you agree and consent to our collection  transfer  and processing of your personal information and non identifiable information in accordance with this privacy statement 
+you are solely responsible for compliance with any data protection or privacy obligations in your jurisdiction when you use the site or provide us with personal information 
+regardless of where we transfer your information  we still protect your information in the manner described in this privacy statement
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+if you reside in canada  you may have the right to be provided with access to personal information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to vendors outside canada 
+e mail us at privacy groupon com with questions
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+We collect information from you passively. We use tracking tools like browser cookies and web beacons.
+To learn more about these tools and to control them, please click here.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States.
+This site is subject to U.S.
+laws, which may not afford the same level of protection of those in your country.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+protecting our users  privacy is very important to spiceworks.
+as a condition of downloading and using the service  you agree to the terms of the spiceworks privacy policy  which may be updated from time to time  as expressed in the most recent version that exists at the time of your use.
+the most current version of the spiceworks privacy policy may be found at www.spiceworks.com privacy .
+information collected by spiceworks may be stored and processed in the united states or any other country in which spiceworks  inc.
+or its agents maintain facilities.
+by using the service you consent to any such transfer of information outside of your country.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+this agreement and any dispute that may arise related to this agreement are governed by texas law.
+all claims arising out of or relating to this agreement must be litigated exclusively in the federal or state courts of travis county  texas and you consent to venue and personal jurisdiction there for the purposes of litigating all claims related to this agreement.
+if for any reason a court of competent jurisdiction finds any provision or portion of this agreement to be unenforceable  the remainder of the agreement will continue in full force and effect. 
+  miscellaneous provisions
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+PBS uses the content from the cookies to deliver relevant local resources, remember browser preferences, and improve our visitors experiences on the Site. PBS does not sell information collected by cookies nor use the information for commerce-related purposes. In addition, PBS will not filter content based on your preferences without permission.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Our customers can register for flight status notifications and other wireless services by providing basic flight information and other relevant information.
+Wherever possible, information already provided will be used for the delivery of these services.
+Participation in flight status notifications and other wireless services is optional. Cookies and other tracking technologies
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Our Policy Concerning Cookies
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+To serve you faster and with better quality, we use "cookie" technology and also allow third parties to use cookies on our Site.
+Cookies are small bits of code, usually stored on a user's computer hard drive or device, which enable a web site to "personalize" itself for each user by remembering information about the user's visit to the web site.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+As described in more detail below, priceline.com's cookies have many benefits to enhance your experience on our web site.
+The third party cookies used on our site are also designed to improve your web site experience by facilitating the receipt of targeted advertisements while on our site and while you are viewing other, non-priceline.com web sites.
+To opt-out of advertising and certain other cookies, please see the opt-out links below.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Priceline Cookies (First Party Cookies): We, at priceline.com, use our cookies improve your web-browsing experience.
+For example, we use a cookie to reduce the time it takes for you to submit purchase requests by storing a registered user's e-mail address so that the user does not need to enter their e-mail address each time that they log-in to priceline.com.
+We will also use a cookie to keep track of your search criteria while you are engaging priceline.com's services.
+Priceline.com cookies are associated with a user's Personal Data.
+However, no third party has access to the information we collect through our priceline.com cookies.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Third Party Cookies: We work with third-parties that place cookies on our Site to provide their services, including:
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Opting Out of Cookies: We provide you with choice over the use of cookies as described in this Privacy Policy.
+However, we do not otherwise support Do Not Track browser settings.
+If you'd rather we didn't use priceline.com cookies when you visit us, click here for information to help you turn them off.
+If you would like to control third-party advertising and marketing cookies that are set on this Site, please click here for your control options.
+If you would like to opt-out of ad targeting cookies set by Google and Doubleclick on our site, please click here: https://www.google.com/settings/u/0/ads?hl=en.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+f  electronic postcards and messages   some nickelodeon sites provide visitors the opportunity to send electronic postcards and  wish lists  of items they want to family or friends  which means we will send  on the visitor s behalf  email messages to family and or friends 
+to do so  visitors must provide the email address of the recipient of such electronic postcards or email messages 
+visitors must only provide email addresses of people who they know would be happy to receive such electronic postcards or email messages 
+email addresses provided to us for this purpose are used solely to send the requested postcard or email message and are deleted from our system once the postcard or message is sent  in some cases  we may offer visitors an incentive   e g    points to be used in an online game  for referring information about products to the visitor s family or friends in such cases  we will comply with all applicable legal requirements 
+please note that this feature may not be available to visitors in certain regions or countries
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+you acknowledge  consent  and agree to the extent legally permissible in your jurisdiction to allow us to access  preserve  and or disclose the information we collect and or content you provide to us  including information you may have posted on bulletin boards or internal site communication systems  to a law enforcement agency or other third parties if required to do so by law or with a good faith belief that such access  preservation  or disclosure is reasonably necessary to   a  comply with legal process 
+ b  enforce the terms of use of the respective nickelodeon sites 
+ c  respond to claims that the content violates the rights of third parties 
+ d  respond to your requests for customer service 
+or  e  protect the rights  property  or personal safety of the owners of the nickelodeon sites  any user of the nickelodeon sites  a third party or the general public  we also may disclose user information whenever we believe disclosure is necessary to limit our legal liability 
+to protect or defend our rights or property 
+or protect the safety  rights  or property of others
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+the nickelodeon sites are designed for and targeted to u s 
+audiences and are governed by and operated in accordance with the laws of the u s 
+while users from countries other than the u s 
+may access certain of the nickelodeon sites  we make no representation that the nickelodeon sites are operated in accordance with the laws or regulations of  or governed by  other nations 
+by participating in activities on the nickelodeon sites  you certify that you meet the age and other eligibility requirements for the nickelodeon sites as set forth in the respective terms of use agreement for each site 
+if you do not meet the age and other eligibility requirements of the particular site you are visiting  please discontinue using that site immediately as your continued use of the nickelodeon sites indicates that you are agreeing to the collection  use  disclosure  management and storage of your information as described in this privacy policy
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+please be aware that by providing us with personal information  you understand and agree that   1  due to our international operations  your personal information may be transferred to and stored on servers located outside your resident jurisdiction 
+ 2  to the extent you are a resident of a country other than the united states  you consent to the transfer of such data to the united states for processing by our affiliates in accordance with this privacy policy and  3  the privacy policy and the collection of information pursuant to the privacy policy shall be governed by and construed in accordance with the laws of the united states  without giving effect to any principles of conflicts of law 
+our affiliates comply with the u s eu safe harbor 
+please see the safe harbor privacy policy
+for detailed information on these affiliates  privacy practices
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+california civil code section 1798 83 permits our visitors who are california residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes 
+to make such a request  please send an email to or write us  nickprivacy nickonline com email  or you may contact us via regular mail at
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website.
+ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you.
+To learn more about this abehavioral advertisinga practice or to opt-out of this use of your anonymous information, you can visit http://www.valueclickmedia.com/member_privacy.shtml
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+cookies information    when you visit the say media services  we may send one or more cookies a small text file containing a string of alphanumeric characters to your computer that uniquely identifies your browser and lets say media help you log in faster and enhance your navigation through the site.  a cookie may also convey information about how you browse the say media services.  say media uses session  persistent  flash and browser cookies.  the use of cookies on the say media services is anonymous and does not allow us to gather personally identifiable information about you.  a persistent cookie remains on your hard drive after you close your browser.  persistent cookies may be used by your browser on subsequent visits to the site.  persistent cookies can be removed by following your web browser s directions.  a session cookie is temporary and disappears after you close your browser.  you can set your web browser to refuse all cookies or to indicate when a cookie is being sent.  however  some features of the say media services may not function properly if the ability to accept cookies is disabled.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+third party use of technologies   
+ third parties may set and access their own cookies  use their own web beacons  and use their own scripts on and through the say media services  on and through third-party websites  or in and through our emails and newsletters.  how other companies use their own cookies  web beacons and scripts and the information they gather is subject to those companies  privacy policies  not this privacy policy.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+this privacy policy is governed by the laws of the state of california and the united states of america.  13.
+changes to this privacy policy

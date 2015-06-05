@@ -1,0 +1,1183 @@
+motorola may also use cookies to measure traffic patterns and which areas of the motorola site you have visited and your visiting patterns  this information is sometimes called a  clickstream  motorola may use this information to understand how our users navigate our site and to determine common traffic patterns  including what site the user came from  we use this information to simplify site navigation  to make product recommendations and to help design our site in order to make your experience more efficient and enjoyable  the use of cookies is relatively standard  most browsers are initially set up to accept cookies  however  if you prefer not to store cookies  you can choose to        not use our sites   set your browser to notify you when you receive a cookie   set your browser to refuse to accept cookies   delete our cookies after visiting our site   browse our site using your browser s anonymous usage setting  called  incognito  in chrome   inprivate  for internet explorer   private browsing  in firefox and safari etc motorola shares web site usage information about visitors to our web sites who have received a targeted promotional campaign with reputable third party advertising companies for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics  for this purpose  we and our third party advertising companies note some of the pages you visit on our web sites through the use of pixel tags  the information collected by our third party advertising companies through the use of these pixel tags is not personally identifiable As is true of most web sites, we gather certain information automatically and store it in log files.
+0.81 (the pages; visit; L:on our web sites)
+0.46 (you; receive; a cookie   set your browser)
+0.38 (we; gather automatically; certain information)
+0.69 Context(we gather automatically,List([1633, 1676))):(we and our third party advertising companies; note; some of the pages)
+0.92 Context(we and our third party advertising companies note we gather automatically,List([1343, 1676))):(the use of cookies; is; relatively standard  most browsers are initially set up)
+0.65 Context(we and our third party advertising companies note we gather automatically,List([1343, 1676))):(the information collected by our third party advertising companies through the use of these pixel tags; is not personally; identifiable)
+0.30 (you; can choose; to        not use)
+0.82 Context(you can choose,List([673, 687))):(cookies; to not use; you)
+0.90 (anonymous usage; setting; called  incognito; in chrome   inprivate)
+0.77 (the user; came; from)
+0.32 (you; have visited; )
+0.92 (most browsers; are set up; to accept cookies  however; T:initially)
+0.90 (visitor information; used; L:in reporting statistics  for this purpose)
+0.56 (our web sites; have received; a targeted promotional campaign)
+0.93 Context(our web sites have received,List([1102, 1133))):(our web sites who have received a targeted promotional campaign with reputable third party advertising companies for the purpose of targeting future campaigns and upgrading visitor information; in reporting; statistics  for this purpose)
+0.83 (the information; collected; by our third party advertising companies)
+0.91 (a cookie; set; your browser; to refuse to accept cookies   delete our cookies after visiting our site)
+0.52 (you; prefer; not to store cookies  you can choose to        not use our sites   set your browser to notify you)
+0.40 Context(you prefer,List([640, 650))):(you; prefer not to store; cookies  you can choose to        not use)
+0.61 Context(you prefer not to store,List([640, 663))):(our sites; set; your browser; to notify you when you receive a cookie   set your browser to refuse to accept cookies   delete our cookies after visiting our site   browse our site)
+0.54 Context(you prefer not to store our sites set,List([640, 721))):(our sites; set your browser to notify; you; T:when you receive a cookie; browse our site using your browser s anonymous usage setting  called  incognito  in chrome   inprivate  for internet explorer   private browsing  in firefox and safari etc motorola shares web site usage information about visitors to our web sites)
+0.45 Context(you prefer not to store,List([640, 663))):(you; prefer not to store cookies  you can choose to        not use upgrading; visitor information used in reporting statistics  for this purpose)
+0.89 (this information; is called; a  clickstream  motorola; T:sometimes)
+0.91 Context(this information is called,List([140, 176))):(motorola; may also use; cookies; to measure traffic patterns and which areas of the motorola site)
+0.27 (we; store; it; L:in log files)
+
+This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+0.94 (This information; includes; internet protocol (IP) addresses, browser type, internet service provider)
+
+We use this information, which does not identify individual users, to analyze trends, to administer the sites, to track users movements around the sites and to gather demographic information about our user base as a whole.
+0.42 (We; use; this information, which does not identify individual users, to analyze trends, to administer the sites, to track users movements around the sites and to gather demographic information about our user base as a whole)
+0.89 (this information; does not identify; individual users)
+0.89 (this information; to analyze; trends)
+
+We do not link this automatically-collected data to personally identifiable information.
+0.45 (We; do not link; this automatically-collected data)
+
+Targeted advertising (also known as Behavioral Advertising) uses information collected about an individuals web browsing behavior such as the pages they have visited or the searches they have made.
+0.32 (they; have made; )
+0.93 (Targeted advertising; known; as Behavioral Advertising)
+0.97 (Targeted advertising (also known as Behavioral Advertising; uses; information collected about an individuals web browsing behavior such as the pages)
+0.93 (information; collected; about an individuals web browsing behavior such as the pages)
+0.88 (the pages; have visited; they)
+
+This information is then used to select which advertisement should be displayed to a particular individual on websites other than pch.com.
+0.95 (This information; is used; to select which advertisement should be displayed to a particular individual on websites other than pch.com; T:then)
+0.91 (This information; to select; which advertisement should be displayed to a particular individual on websites other than pch.com)
+
+For example, if you have shown a preference for cooking while visiting pch.com, you may be served an advertisement from pch.com for cooking related products when you visit a site other than pch.com.
+0.62 (you; have shown; a preference for cooking)
+0.62 (you; visit; a site other than pch.com)
+0.62 (you; may be served; an advertisement from pch.com for cooking related products)
+
+The information collected is linked to an anonymous cookie ID (random alphanumeric number).
+0.73 (The information; collected; )
+0.75 (The information collected; is linked; )
+
+it does not include any information that could be linked back to a particular person, such as name, address or credit card number.
+0.33 (it; does not include; any information that could be linked back to a particular person, such as name, address or credit card number)
+0.70 (any information; could be linked back; )
+
+The information used for targeted advertising either comes from pch.com or through third party website publishers.
+0.90 (The information; used; for targeted advertising)
+0.92 (The information used for targeted advertising; comes; from pch.com or through third party website publishers)
+
+If you would like to opt out of targeted advertising from pch.com that occurs when visiting our third party advertising publishers, please click here.
+0.55 (you; would like; to opt out of targeted advertising from pch.com)
+0.55 Context(you would like,List([3, 17))):(you; would like to opt; out of targeted advertising from pch.com)
+0.08 (that; occurs; T:when visiting our third party advertising publishers)
+
+Please note that this will opt you out of targeted ads from Publishers Clearing House and any other participating advertisers.
+
+If you opt out, you will continue to receive online advertising from Publishers Clearing House.
+0.32 (you; opt out; )
+0.60 (you; will continue; to receive online advertising from Publishers Clearing House)
+0.60 Context(you will continue,List([16, 33))):(you; will continue to receive; online advertising; from Publishers Clearing House)
+
+however, these ads may not be as relevant to you.
+0.83 (these ads; may not be; as relevant to you)
+
+Using Kinja, User Conduct, and Your Content   Anything you post on Kinja is public.
+0.72 (you; post; on Kinja)
+0.51 (Using Kinja, User Conduct, and Your Content   Anything; is; public)
+
+So make sure youre comfortable with the idea that anyone can view anything you post here.
+0.82 (anyone; can view; anything you post here)
+0.77 (anything; post; here)
+
+You shouldnt post any content or use our service to do anything illegal or malicious.
+0.62 (You; should nt post; any content)
+0.42 (You; use; our service; to do anything illegal or malicious)
+
+If it turns out any of your content or use is illegal or malicious, Kinja is not responsible  youre responsible.
+0.80 (use; is; illegal or malicious)
+0.80 (Kinja; is not; responsible)
+
+Please do not hack, attack, or copy Kinja or our services.
+
+While we wouldnt do it without good reason, ultimately Kinja may remove your content or terminate or suspend your account at its sole discretion.
+0.31 (we; would nt do; it)
+0.74 (Kinja; terminate; )
+0.84 (Kinja; suspend; your account; L:at its sole discretion)
+
+If disputes arise between you and anyone other than Kinja, we have no obligation to participate or assist either party.
+0.85 (disputes; arise; L:between you and anyone other than Kinja)
+0.39 (we; have; no obligation to participate or assist either party)
+0.11 Context(we have,List([59, 66))):(we; have to participate; )
+0.29 Context(we have,List([59, 66))):(we; have to assist; either party)
+
+1. Registration.
+
+Even if you choose to create an anonymous account, you are still agreeing to all of these Terms.
+0.65 (you; are agreeing; to all of these Terms; T:still)
+
+You may not:  use a false information or an account owned or controlled by another person with the intent to mislead other users maliciously by impersonating that person or for any other reason; use as a User ID a name subject to any rights of a person other than yourself without appropriate authorization or in violation of our Content Guidelines.
+0.63 (You; may not use; a false information or an account owned or controlled by another person with the intent)
+
+or otherwise submit false or misleading information to the Company.
+
+Analytics/Measurement: We also use third-party analytics cookies to gain insight into how our visitors use the Site, to find out what works and what doesn't, to optimize and improve our website and to ensure we continue to be interesting and relevant.
+0.36 (We; also use; third-party analytics cookies; to gain insight into how our visitors use the Site)
+0.26 Context(We also use,List([23, 34))):(We; also use third-party analytics cookies to gain; insight into how our visitors use the Site)
+0.20 (we; to be; interesting and relevant)
+0.54 (our visitors; use; the Site; to find out what works and what doesn't, to optimize and improve our website and to ensure we continue to be interesting and relevant)
+0.44 Context(our visitors use,List([90, 106))):(our visitors; use the Site to find out; what works and what doesn't, to optimize and improve our website and to ensure we continue to be interesting and relevant)
+
+The data we gather includes which web pages you have viewed, which referring/exit pages you have entered and left from, which platform type you have used, date and time stamp information and details such as the number of clicks you make on a given page, your mouse movements and scrolling activity, the search words you use and the text you type while using our Site.
+0.88 (The data; gather; we)
+0.61 (you; left; from, which platform type you have used, date and time stamp information and details such as the number of clicks)
+0.89 (the search words; use; you)
+0.48 (The data we gather; includes; which web pages you have viewed)
+0.27 Context(The data we gather includes,List([0, 27))):(you; have viewed; )
+0.32 (you; have used; )
+0.32 (you; make; )
+0.85 (the text; type; you)
+0.36 Context(the text type,List([328, 345))):(you; using; our Site)
+0.32 (you; have entered; )
+
+We also make use of analytics cookies as part of our online advertising campaigns to learn how users interact with our website after they have been shown an online advertisement, which may include advertisements on third-party websites.
+0.45 (We; also make; use of analytics cookies)
+0.90 (an online advertisement; may include; advertisements on third-party websites)
+
+1.
+
+When you register and use this site:  You will be asked to provide certain information such as your name, contact details and possibly credit card or other payment details.
+0.58 (you; use; this site)
+0.58 (You; to provide; certain information)
+0.52 (You; will be asked; to provide certain information such as your name, contact details and possibly credit card or other payment details)
+0.27 Context(You will be asked,List([38, 55))):(you; register; )
+
+We will store this data and hold it on computers or otherwise.
+0.45 (We; will store; this data)
+0.33 (We; hold; it; L:on computers or otherwise)
+
+We will use this data to fulfil our agreement with you.
+0.26 (We; will use; this data; to fulfil our agreement with you)
+0.26 Context(We will use,List([0, 11))):(We; will use this data to fulfil; our agreement with you)
+
+Some of our services will require further details.
+0.68 (Some of our services; will require; further details)
+
+For example, when using the Gift list service, this will require further information to set up and maintain your gift list and allow your chosen guests to see your list details.
+0.54 (this; will require; further information; to set up and maintain your gift list and allow your chosen guests to see your list details; T:when using the Gift list service)
+0.73 (further information; to set up; )
+0.77 (further information; to maintain; your gift list)
+
+In addition, we may gather other information about your use of the website, including by the use of cookies (see section on Cookies below).
+0.31 (we; may gather; other information about your use of the website)
+
+9. We may give information about you to the following companies and organisations who may use it for the same purposes as set out above: (a) to other companies in the Group.
+0.85 (the following companies and organisations; may use; it; for the same purposes as set out above)
+
+(b) to employees and agents of the Group and other approved third parties to administer any accounts, products and services provided to you by the Group now or in the future.
+
+(c) to agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs.
+0.59 (agents; profile; your data; so that we may tailor the goods/services)
+0.42 (we; may tailor; the goods/services we offer to your specific needs)
+0.84 (the goods/services; offer; to your specific needs)
+
+(d) to other organisations for the administration of prize draws or competitions.
+0.88 ((d) to other organisations for the administration of prize; draws; )
+
+(e) to anyone to whom we transfer our rights and duties under our agreement with you.
+0.44 (we; transfer; our rights and duties; under our agreement with you; L:anyone)
+
+(f) if we have a duty to do so or if the law allows us to do so.
+0.45 (we; have; a duty to do so)
+0.80 (the law; allows; us to do so)
+0.19 Context(the law allows,List([37, 51))):(us; to do; so)
+
+Please be aware that:   your review may be shared on other Home Retail Group sites.
+0.68 (your review; may be shared; on other Home Retail Group sites)
+
+once submitted, it usually takes 72 hours for your review, question or answer to appear on the website providing it adheres to our Publishing guidelines.
+0.40 (it; takes; 72 hours; for your review, question; T:once submitted; T:usually)
+
+your review can be submitted anonymously or if you prefer you can leave a ratings only review.
+0.34 (your review; can be submitted anonymously; )
+0.32 (you; prefer; )
+0.62 (you; can leave; a ratings; T:only review)
+0.73 (a ratings; only review; )
+
+it is not possible for you to edit/remove your review after submission  If you require any further information on this service or wish to have your review removed, you can contact Customer services.
+0.23 (it; is not; possible)
+0.52 (you; to edit; T:after submission)
+0.31 Context(you to edit,List([23, 34))):(you; to edit remove; your review)
+0.62 (you; can contact; Customer services)
+0.62 (you; require; any further information on this service)
+
+we may use cookies  web beacons  tokens or similar technologies  collectively referred to as  tracking technologies  on the nickelodeon sites   cookies   which may be html files  flash files or other technology  are text files that help store user preferences and activity web beacons   also known as image tags  gif or web bugs  are small pieces of code used to collect advertising data  such as counting page views  promotion views or advertising responses tokens  are unique persistent identifiers that are generated and sent from a server  such as adobe s pass service  to a user s device to identify an interaction session  such as the authentication for a user s cable provider service  and which are usually stored as an http cookie  the site and or third parties may use tracking technologies to collect computer information automatically as you browse the site and the web we may use tracking technologies to help tailor our content  allow users to move between certain nickelodeon sites without logging into each site  enable the internal functioning of the nickelodeon sites  understand site and internet usage  improve or customize the content  offerings or advertisements on this site  personalize your experience on the site  for example  to recognize you by name when you return to the site  understand your interactions with email messages originating from the nickelodeon sites or the viacom family of companies  such as the links clicked on and whether the messages were opened or forwarded  save your password  save your online game or video player settings  enable you to use shopping carts  help us offer you products  programs or services that may be of interest to you  deliver relevant advertising  maintain and administer the nickelodeon sites  these tracking technologies collect  click stream  data and additional other information regarding your visits to the nickelodeon sites  such as your visits to specific webpages  use of features  purchasing history or preferences  may collect such other information across multiple sessions on the nickelodeon sites and other websites offered by the viacom family of companies and may also collect your ip address or some other identifier unique to the device you use to access the site  identifier  an identifier may be automatically assigned to any device you use to access the nickelodeon sites  when a cable television service subscriber authenticates his cable television service to view full episodes of nickelodeon programing in the nick mobile app  a third party token is stored on the user s mobile device so that the subscriber can view nickelodeon television episodes in the future without having to re authenticate his cable service subscription personally identifiable information (pii)  is any information collected through the sites that identifies or can be used to identify  contact  or locate you.
+0.70 (the sites; identifies; )
+0.26 (we; may use; cookies  web beacons  tokens or similar technologies; understand your interactions with email messages)
+0.18 Context(we may use,List([0, 10))):(we; may use cookies  web beacons  tokens or similar technologies understand; your interactions with email messages)
+0.29 Context(we may use,List([0, 10))):(we; may use cookies  web beacons  tokens or similar technologies to administer; the nickelodeon sites)
+0.26 Context(we may use,List([0, 10))):(we; may use cookies  web beacons  tokens or similar technologies may also collect; your ip address or some other identifier unique to the device)
+0.18 Context(we may use,List([0, 10))):(we; may use cookies  web beacons  tokens or similar technologies to re authenticate; his cable service subscription)
+0.91 (text files; help; store user preferences and activity web beacons)
+0.86 (the device; use; to access the site  identifier  an identifier)
+0.51 Context(the device use,List([2219, 2237))):(you; to access; the site)
+0.62 (you; to use; shopping carts)
+0.73 (the messages; were opened; )
+0.76 (the web we may use tracking technologies; allow; users to move between certain nickelodeon sites without logging into each site)
+0.87 Context(the web we may use tracking technologies allow,List([874, 948))):(users; to move; between certain nickelodeon sites)
+0.89 (features; purchasing; history or preferences)
+0.62 (you; browse; the site)
+0.32 (you; deliver; )
+0.87 (a cable television service subscriber; authenticates; his cable television service; to view full episodes of nickelodeon)
+0.75 (activity web beacons; also known; )
+0.70 (the messages; forwarded; )
+0.86 (the web; may use; tracking technologies)
+0.23 Context(the web may use,List([874, 892))):(we; tracking; technologies to help tailor our content)
+0.62 (you; return; to the site)
+0.90 (the subscriber; can view; nickelodeon television episodes)
+0.95 (unique persistent identifiers; sent; from a server  such as adobe; to identify an interaction session  such as the authentication for a user s cable provider service)
+0.68 (cookies; may be; )
+0.91 (products  programs or services; may be; of interest)
+0.95 (a third party token; is stored; L:on the user s mobile device; L:the nick mobile app)
+0.91 (the site and or third parties; may use; tracking technologies to collect computer information automatically)
+0.90 Context(the site and or third parties may use,List([741, 778))):(the site and or third parties; may use tracking; technologies; to collect computer information automatically as you browse the site and the web we may use tracking technologies to help tailor our content  allow users to move between certain nickelodeon sites without logging into each site)
+0.86 Context(the site and or third parties may use tracking,List([741, 787))):(the site and or third parties; may use tracking technologies to collect automatically; T:as you browse the site and the web we may use tracking technologies to help tailor our content  allow users to move between certain nickelodeon sites without logging into each site)
+0.86 (any device; use; to access the nickelodeon sites)
+0.51 Context(any device use,List([2317, 2335))):(you; to access; the nickelodeon sites)
+0.72 (unique persistent identifiers; are generated; )
+0.96 (image tags  gif or web bugs; are; small pieces of code used to collect advertising data  such as counting page views  promotion views or advertising responses)
+0.93 (html files; flash; files or other technology)
+0.94 (email messages; originating; from the nickelodeon sites or the viacom family of companies  such as the links)
+0.90 (these tracking technologies; collect; use of features)
+0.95 (the authentication for a user s cable provider service; are stored; as an http cookie; T:usually)
+0.83 (tokens; are; unique persistent identifiers that are generated and sent from a server  such as adobe)
+0.95 (small pieces of code; used; to collect advertising data  such as counting page views  promotion views or advertising responses)
+0.89 (stream  data and additional other information regarding your visits to the nickelodeon sites  such as your visits to specific webpages; may be automatically assigned; to any device)
+0.91 (understand site and internet usage; customize; the content  offerings or advertisements)
+0.39 (web bugs; are small pieces of; code)
+
+pii would include your full name  address  and credit-card number.
+0.82 (pii; would include; your full name  address  and credit-card number)
+
+pii may include your email address if you have chosen not to use an anonymous email address (e.g.
+0.82 (pii; may include; your email address)
+0.56 (you; have chosen; not to use an anonymous email address (e.g.)
+0.55 Context(you have chosen,List([38, 53))):(you; have chosen not to use e.g.; an anonymous email address)
+
+some people have their full name in their email address  or have a personal website url in their email address).
+0.83 (some people; have; their full name; L:in their email address)
+0.81 (some people; have; a personal website url; L:in their email address)
+
+your email address is your  user name  on our websites.
+0.58 (your email address; is; your  user name; L:on our websites)
+0.89 (your email address; is your user name on; our websites)
+
+it is not visible to other users.
+0.45 (it; is not; visible to other users)
+
+in some states even an anonymous email address is considered pii.
+
+pii may include your screen name  if you have chosen not to use an anonymous screen name.
+0.82 (pii; may include; your screen name)
+0.56 (you; have chosen; not to use an anonymous screen name)
+0.56 Context(you have chosen,List([37, 52))):(you; have chosen not to use; an anonymous screen name)
+
+your screen name is visible to other users when you post comments.
+0.58 (your screen name; is; visible to other users; T:when you post comments)
+0.68 (you; post; comments)
+
+third party cookie information for emails.
+
+we  or a data provider we have engaged  may place or recognize a unique cookie on your browser to enable you to receive customized ads  content or services.
+0.19 (we; have engaged; )
+0.37 (we  or a data provider; may place; )
+0.61 (we  or a data provider; recognize; a unique cookie)
+0.35 Context(we or a data provider recognize,List([0, 62))):(we  or a data provider; recognize a unique cookie to enable; you; to receive customized ads  content or services)
+0.62 (you; to receive; customized ads  content or services)
+
+no personally identifiable information is placed into these cookies.
+0.92 (no personally identifiable information; is placed; into these cookies)
+
+the cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us  e.g.
+0.90 (the cookies; may reflect; de-identified demographic or other data linked to data)
+0.79 (de-identified demographic or other data; linked; )
+0.82 (data; voluntarily have submitted e.g.; you; to us)
+
+your email address  in hashed  non-human readable form.
+
+to opt-out of these cookies or learn more please go to http aboutads.info
+
+choices or http www.networkadvertising.org choices Registration is optional.
+0.83 (www.networkadvertising.org choices Registration; is; optional)
+
+However, if you choose not to register, certain features may not be available to you.
+0.83 (certain features; may not be; available to you)
+0.31 (you; choose; not to register)
+0.27 Context(you choose,List([12, 22))):(you; choose not to register not to register; )
+
+Once you register with us and sign in to our services, you are not anonymous to us.
+0.46 (you; register; with us)
+0.42 (you; sign in; to our services)
+0.71 (you; are not; anonymous to us; T:Once you register with us and sign in to our services)
+
+Billing Information In order to provide certain services, we may collect additional information from you.
+0.31 (we; may collect; additional information; from you)
+
+When you search for a person using our website, we collect a log of your searches.
+0.62 (you; search; for a person)
+0.83 (a person; using; our website)
+0.44 (we; collect; a log of your searches; T:When you search for a person)
+
+If you wish to enhance your search results using information from third-party services such as Facebook or LinkedIn, we may ask you to give us authorization to access information about you stored in those third-party services.
+0.37 (you; stored; L:in those third-party services)
+0.21 (we; may ask; you; to give us authorization to access information about you stored in those third-party services)
+0.46 (you; to give; us; authorization)
+0.64 (you; wish; to enhance your search results using information from third-party services such as Facebook or LinkedIn)
+0.41 Context(you wish,List([3, 11))):(you; wish to enhance; your search results)
+0.71 Context(you wish to enhance,List([3, 22))):(you; wish to enhance your search results using; information; from third-party services such as Facebook or LinkedIn)
+
+To use our identity protection products, we may ask for the following personal information:  Your legal name Your current residence Your Social Security Number Knowledge-based authentication questions that only you would know   Technical and Analytic Information When you browse our website, we may use trusted third-party tools to analyze website usage, monitor performance, and prevent fraud.
+0.39 (we; may use; trusted third-party tools; to analyze website usage)
+0.39 Context(we may use,List([292, 302))):(we; may use trusted third-party tools to analyze; website usage)
+0.39 (we; may ask; for the following personal information)
+0.41 (we; prevent; fraud)
+0.41 (we; monitor; performance)
+0.46 (you; browse; our website)
+
+All analytics and performance data collected by third-party tools is anonymous.
+0.90 (performance data; collected; by third-party tools)
+0.83 (All analytics and performance data; is; anonymous)
+
+We may use these tools regardless of whether or not you enable the Do Not Track setting in your browser.
+0.44 (We; may use regardless; these tools)
+0.84 (the Do; Not Track; setting in your browser)
+0.84 Context(the Do Not Track,List([63, 79))):(the Do; Not Track setting; in your browser)
+
+InfoSpace collects some anonymous information each time you visit an InfoSpace Site so we can improve the overall quality of your online experience.
+0.88 (InfoSpace; collects; some anonymous information; T:each time you visit an InfoSpace Site)
+0.75 (you; visit; an InfoSpace Site; so we can improve the overall quality of your online experience; T:each time)
+0.31 (we; can improve; the overall quality of your online experience)
+
+We collect your IP address, referral data, and browser and platform type.
+0.42 (We; collect; your IP address, referral data, and browser and platform type)
+
+You do not have to register with InfoSpace before we can collect this anonymous information.
+0.42 (You; to register; with InfoSpace; T:before we can collect this anonymous information)
+0.45 (we; can collect; this anonymous information)
+
+nobody wants to have his or her personal information sold or misused.
+0.48 (his or her personal information; sold; )
+0.37 (his or her personal information; misused; )
+0.83 (nobody; wants; to have his or her personal information)
+0.79 Context(nobody wants,List([0, 12))):(nobody; wants to have; his or her personal information sold or misused)
+
+we look at statistics from customer's visits  which tell us  among other things  how many visitors we have and which items are of interest to them.
+0.45 (we; look; at statistics from customer's visits)
+0.86 (customer's visits; tell; us; among other things)
+0.59 (other things; have; we)
+
+we use this information to make improvements to our site  and hopefully your experience with us.
+0.36 (we; use; this information; to make improvements to our site  and hopefully your experience with us)
+0.36 Context(we use,List([0, 6))):(we; use this information to make; improvements to our site  and hopefully your experience with us)
+
+however  we do not use this information in any way that personally identifies you.
+0.45 (we; do not use; this information)
+
+we do not give  exchange  trade  or sell your information to anyone  period.
+0.45 (we; do not give; exchange  trade)
+0.33 (we; sell; your information; to anyone  period)
+
+cookies information    when you visit the say media services  we may send one or more cookies a small text file containing a string of alphanumeric characters to your computer that uniquely identifies your browser and lets say media help you log in faster and enhance your navigation through the site.
+0.55 (you; visit; the say media services)
+0.47 Context(you visit,List([28, 37))):(you; visit the say media services say; we may send one or more cookies a small text file)
+0.36 Context(you visit say,List([28, 45))):(we; may send; one or more cookies; a small text file containing a string of alphanumeric characters to your computer)
+0.70 (your computer; let; s say media help you log in faster and enhance your navigation through the site; T:when you visit the say media services  we may send one or more cookies a small text file)
+0.36 Context(your computer let,List([162, 221))):(s; say; media help you log in faster and enhance your navigation through the site)
+0.77 Context(your computer let s say,List([162, 226))):(media; help faster; you log in)
+0.86 (a small text file; containing; a string of alphanumeric characters to your computer)
+0.80 (media; enhance; your navigation; through the site)
+0.45 (your computer; uniquely identifies; your browser)
+
+a cookie may also convey information about how you browse the say media services.
+0.77 (a cookie; may convey; information about how you browse the say media services)
+0.62 (you; browse; the say media services)
+
+say media uses session  persistent  flash and browser cookies.
+
+the use of cookies on the say media services is anonymous and does not allow us to gather personally identifiable information about you.  a persistent cookie remains on your hard drive after you close your browser.
+0.46 (you; close; your browser)
+0.81 (a persistent cookie; remains; on your hard drive; T:after you close your browser)
+0.87 Context(a persistent cookie remains,List([138, 165))):(the use of cookies on the say media services; is; anonymous)
+
+persistent cookies may be used by your browser on subsequent visits to the site.
+0.83 (persistent cookies; may be used; by your browser; T:on subsequent visits to the site)
+
+persistent cookies can be removed by following your web browser s directions.
+0.73 (persistent cookies; can be removed; )
+
+a session cookie is temporary and disappears after you close your browser.
+0.83 (a session cookie; is; temporary)
+0.82 (a session cookie; disappears; T:after you close your browser)
+0.46 (you; close; your browser)
+
+you can set your web browser to refuse all cookies or to indicate when a cookie is being sent.
+0.52 (you; can set; your web browser; to refuse all cookies or to indicate when a cookie is being sent)
+0.55 Context(you can set,List([0, 11))):(you; can set your web browser to refuse; all cookies)
+0.45 Context(you can set,List([0, 11))):(you; can set your web browser to to indicate; when a cookie is being sent)
+0.68 Context(you can set to to indicate,List([0, 65))):(a cookie; is being sent; )
+
+however  some features of the say media services may not function properly if the ability to accept cookies is disabled.
+0.82 (some features of the say media services; may not function properly; )
+0.85 (the ability to accept cookies; is; disabled)
+
+device identifiers        when you access the say media services by or through a mobile device  we may access  collect  monitor and or remotely store one or more  device identifiers.
+0.62 (you; access; the say media services)
+0.52 (we; remotely store; one or more  device identifiers; T:when you access the say media services by or through a mobile device)
+
+device identifiers are small data files or similar data structures stored on or associated with your mobile device that uniquely identify your mobile device and are used by say media to enhance your use of the say media services.
+0.90 (device identifiers; are; small data files or similar data structures)
+0.47 (your mobile device; uniquely identify; your mobile device)
+0.59 (your mobile device; are used; by say media to enhance your use of the say media services)
+
+a device identifier may be data stored in connection with the device hardware  data stored in connection with the device s operating system or other software  or data sent to the device by say media.
+0.91 (a device identifier; may be; data stored in connection with the device hardware  data)
+0.89 (data; stored; L:in connection with the device hardware  data)
+0.95 (the device hardware  data; stored; L:in connection with the device s operating system or other software  or data)
+
+a device identifier may convey information to us about how you browse the say media services.
+0.85 (a device identifier; may convey; information; to us)
+0.62 (you; browse; the say media services)
+
+a device identifier does not collect or share any personally identifiable information about you.
+0.75 (a device identifier; does not collect; )
+0.82 (a device identifier; share; any personally identifiable information about you)
+
+however  a device identifier may be used in conjunction with other information in a manner that may constitute personally identifiable information.
+0.75 (a device identifier; may be used; )
+0.89 (a manner; may constitute; personally identifiable information)
+
+a device identifier may remain persistently on your device  to help you log in faster and enhance your navigation through the say media services.
+0.90 (a device identifier; may remain; persistently; T:on your device; to help you log in faster and enhance your navigation through the say media services)
+
+some features of the say media services may not function properly if use or availability of device identifiers are impaired or disabled.
+0.82 (some features of the say media services; may not function properly; )
+0.80 (use or availability of device identifiers; are impaired; )
+0.77 (use or availability of device identifiers; disabled; )
+
+web beacons click-stream data        a web beacon is an electronic file that signals when a webpage  advertisement  video  other content  an email  or a newsletter has been viewed.
+0.83 (a web beacon; is; an electronic file that signals)
+0.93 (an electronic file; signals; T:when a webpage  advertisement  video  other content  an email  or a newsletter has been viewed)
+0.87 (a webpage  advertisement  video  other content  an email  or a newsletter; has been viewed; )
+0.39 (a web beacon; is an electronic file that; signals)
+
+we may use web beacons in our emails and newsletters  or on our websites and services.
+0.42 (we; may use; web beacons; L:in our emails and newsletters  or on our websites and services)
+
+say media uses web beacons in conjunction with cookies to collect click-stream data that helps us better understand how visitors move from page to page within our websites.
+0.90 (click-stream data; helps; better understand how visitors move from page to page within our websites)
+0.36 (us; better understand; how visitors move from page to page within our websites)
+0.87 Context(us better understand,List([95, 115))):(visitors; move; from page; to page)
+
+as with cookies  our use of web beacons is anonymous and does not allow us to gather personally identifiable information about you.
+0.52 (our use of web beacons; is; anonymous)
+
+we may share non-personally identifiable information (such as anonymous usage data  referring exit pages and urls  platform types  number of clicks  etc.) with interested third parties to help them understand the usage patterns for certain say media services  and as part of the function of our business.
+0.91 (anonymous usage data; referring; exit pages)
+0.39 (we; may share; non-personally identifiable information (such as anonymous usage data; with interested third parties)
+0.26 Context(we may share,List([0, 12))):(we; may share non-personally identifiable information (such as anonymous usage data to help; them understand the usage patterns for certain say media services  and as part of the function of our business)
+0.36 Context(we may share to help,List([0, 192))):(them; understand; the usage patterns for certain say media services  and as part of the function of our business)
+
+for example  we may share the number of ad views  ad clicks and content views to help calculate the payments due under the program.
+0.57 (we; may share; the number of ad views  ad clicks and content views)
+
+say media retains the specific anonymous data collected and tied to your computer s unique id as described in this privacy policy for a period of up to twelve months.
+0.77 (the specific anonymous data; collected; )
+0.74 (the specific anonymous data; tied; )
+
+such data may be aggregated and used for analytical purposes indefinitely.
+0.73 (such data; may be aggregated; )
+0.89 (such data; used; for analytical purposes; T:indefinitely)
+
+6. how we protect your information you can also limit targeted advertising by configuring your browser s settings or changing the management panel of the adobe flash player to limit your acceptance of or delete cookies.
+0.26 (we; protect; your information)
+0.55 Context(we protect,List([7, 17))):(you; can also limit; targeted advertising)
+0.40 Context(we protect you can also limit,List([7, 53))):(you; can also limit targeted advertising by configuring; your browser s settings)
+0.30 Context(we protect you can also limit,List([7, 53))):(you; can also limit targeted advertising changing; the management panel of the adobe flash player; to limit your acceptance of or delete cookies)
+
+because the management of cookies in various browsers differs  you should consult the documentation for your browser in order to manage your cookies.  in order to limit the acceptance of or disable  flash  cookies  you must access the management panel of the adobe flash player installed on your computer.
+0.86 (the adobe flash player; installed; on your computer)
+0.62 (you; must access; the management panel of the adobe flash player)
+
+to learn more about the management panel of the adobe flash player and the management of  flash  cookies  please access the following link  http www.macromedia.com
+
+support documentation en flashplayer help index.html.
+
+you can also opt-out of receiving cookies from third-party data providers by following the instructions at  http www.networkadvertising.org managing opt_out.asp.
+0.68 (you; of receiving; cookies; from third-party data providers by following the instructions at  http www.networkadvertising.org managing opt_out.asp)
+0.54 (www.networkadvertising.org; managing; opt_out.asp)
+
+truste also provides you with ways to opt-out of behavioral tracking at  http preferences.truste.com
+0.80 (truste; provides; you; with ways)
+
+truste.
+
+you can opt-out of receiving cookies from targusinfo  a specific third-party data provider  by following the instructions at  http www.adadvisor.net
+
+optout.html.
+
+also  because your choices are not associated with you as a particular individual  if you change computers  web browsers or cookie settings  you will need to re-implement your preferences as described above.
+0.62 (you; change; computers  web browsers or cookie settings)
+0.40 (you; will need; to re-implement your preferences as described above)
+0.40 Context(you will need,List([141, 154))):(you; will need to re-implement; your preferences)
+
+note that if you limit or disable cookies  this does not mean that you will not see ads on the say media services.
+0.32 (you; limit; )
+
+instead  ads will be displayed that are based on passive browser information or other information that that may be provided by the say media services at the time of your visit.
+0.08 (that; may be provided; by the say media services; T:at the time of your visit)
+0.50 (ads; will be displayed; )
+
+9. children s privacy the following information explains our policy regarding any personal information you may supply to us when visiting cruises.co.uk.
+0.78 (any personal information; may supply; to us; T:when visiting cruises.co.uk)
+0.51 Context(any personal information may supply,List([78, 117))):(you; visiting; cruises.co.uk)
+
+you can generally visit our web site without telling us who you are or revealing any personal information  including your e-mail address.
+0.46 (you; can generally visit; our web site)
+0.42 (you; revealing; any personal information  including your e-mail address)
+
+cruises.co.uk does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis  such as when registering as a new user.
+0.93 (cruises.co.uk; does not collect; personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis  such as when registering as a new user)
+0.90 (such individuals; specifically provide; such information on a voluntary basis)
+
+cruises.co.uk will not share e-mail addresses nor any information submitted by a user when accessing our web site with anyone outside cruises.co.uk nor will cruises.co.uk disclose user information to any third party.
+0.82 (cruises.co.uk; will not share; e-mail addresses nor any information; T:when accessing our web site with anyone outside cruises.co.uk)
+0.90 (any information; submitted; by a user)
+
+other information.
+
+we also collect some information from you when you use the service that does not constitute  personal information.
+0.31 (we; also collect; some information; from you; T:when you use the service)
+0.37 (you; use; the service that does not constitute  personal information)
+0.89 (the service; does not constitute; personal information)
+
+for example  each installed copy of the desktop includes a unique application number.
+0.93 (each installed copy of the desktop; includes; a unique application number)
+
+if you install the desktop  this number and a message indicating whether the installation succeeded or failed  is sent back to spiceworks.
+0.62 (you; install; the desktop)
+0.76 (this number and a message; failed; )
+0.91 (this number and a message; is sent; back; to spiceworks)
+0.88 (a message; indicating; whether the installation succeeded or failed)
+0.69 Context(a message indicating,List([44, 64))):(the installation; succeeded; )
+
+also  when the desktop automatically checks to see if a new version is available  the current version number and the unique application number are sent to spiceworks. the unique application number is required for the desktop to function properly and cannot be disabled.
+0.88 (the desktop; automatically checks; to see if a new version is available)
+0.92 Context(the desktop automatically checks,List([11, 43))):(the desktop; automatically checks to see; if a new version is available  the current version number and the unique application number are sent to spiceworks)
+0.79 Context(the desktop automatically checks to see,List([11, 50))):(a new version; is; available)
+0.73 (the desktop; to function properly; )
+0.68 (the desktop; to can not be; disabled)
+0.95 (the current version number and the unique application number; are sent; to spiceworks)
+0.97 (the unique application number; is required; for the desktop to function properly and cannot be disabled; T:when the desktop automatically checks to see if a new version is available)
+
+from time to time  the desktop also collects anonymous aggregate information about your computing environment.
+0.83 (the desktop; also collects; anonymous aggregate information about your computing environment)
+
+this information is anonymized and collected into groups so that it no longer reflects or references an individually identifiable company or user.
+0.73 (this information; is anonymized; )
+0.71 (this information; collected; into groups; so that it no longer reflects or references an individually identifiable company or user)
+0.19 (it; no longer reflects; )
+0.41 (it; references; an individually identifiable company or user)
+
+we also collect information you input into the any web-based offerings made available by spiceworks in connection with your use of those offerings.
+0.42 (we; also collect; information you input into the any web-based offerings)
+0.88 (information; input; into the any web-based offerings)
+
+we use a third-party service provider to serve ads on our behalf across the internet and sometimes on our site.
+0.36 (we; use; a third-party service provider; to serve ads on our behalf across the internet and sometimes on our site)
+0.36 Context(we use,List([0, 6))):(we; use a third-party service provider to serve; ads; on our behalf across the internet and sometimes on our site)
+
+they may collect anonymous information about your visits to our site and your interaction with our products and services.
+0.58 (they; may collect; anonymous information about your visits to our site and your interaction with our products and services)
+
+small pieces of code called web beacons (also referred to as clear gifs  pixel tags and single-pixel gifs)  which are typically one-pixel images embedded in web pages or emails  are used in conjunction with cookies on the service and our emails to help us manage and monitor our online advertising and wider business arrangements with third parties and for the purpose of measuring and analyzing site usage and activity  and improving the quality of the service.
+0.92 (small pieces of code; called; web beacons)
+0.91 (tags and single-pixel gifs; are; used in conjunction with cookies on the service and our emails)
+0.95 (small pieces of code called web beacons; referred; to; T:as clear gifs  pixel tags and single-pixel gifs)
+0.38 (us; monitor; our online advertising and wider business arrangements with third parties and for the purpose of measuring and analyzing site usage and activity  and improving the quality of the service)
+0.89 (clear gifs; pixel; tags and single-pixel gifs)  which are typically one-pixel images embedded in web pages or emails  are used in conjunction with cookies on the service and our emails)
+0.95 (tags and single-pixel gifs; are typically; one-pixel images embedded in web pages or emails)
+0.92 (one-pixel images; embedded; L:in web pages or emails)
+
+these files allow us to aggregate anonymous information relating to advertising and website usage.
+0.90 (anonymous information; relating; to advertising and website usage)
+0.80 (these files; allow; us to aggregate anonymous information)
+0.40 Context(these files allow,List([0, 17))):(us; to aggregate; anonymous information relating to advertising and website usage)
+
+for example  the type of information collected includes information relating to page views.
+0.71 (information; collected; )
+0.91 (the type of information; includes; information relating to page views)
+0.89 (information; relating; to page views)
+
+these web beacons may be used to recognize third party cookies and inform us and or third parties of which advertisement or link brought you to the site  allowing us to monitor the efficacy of our business relationships with third parties.
+0.90 (these web beacons; may be used; to recognize third party cookies and inform us and or third parties of which)
+0.90 (these web beacons; to recognize; third party cookies)
+0.83 (these web beacons; to inform; us; third parties of which advertisement or link brought you to the site)
+0.85 (advertisement or link; brought; you; to the site)
+0.87 (the site; allowing; us to monitor the efficacy of our business relationships with third parties)
+0.26 Context(the site allowing,List([144, 162))):(us; to monitor; the efficacy of our business relationships with third parties)
+
+we also work with a third party to monitor certain pages of our site for the purpose of reporting site traffic and other advertising statistics.
+0.38 (we; work; with a third party; to monitor certain pages of our site for the purpose of reporting site traffic and other advertising statistics)
+0.23 Context(we work,List([0, 12))):(we; work to monitor; certain pages of our site; for the purpose of reporting site traffic and other advertising statistics)
+
+where authorized by us  this third party may use cookies and or other monitoring technologies to compile anonymous statistics about our site visitors.
+0.81 (this third party; may use; cookies and or other monitoring technologies; to compile anonymous statistics about our site visitors)
+0.81 Context(this third party may use,List([24, 48))):(this third party; may use cookies and or other monitoring technologies to compile; anonymous statistics about our site visitors)
+
+no personal information is transferred to this third party.
+0.91 (no personal information; is transferred; to this third party)
+
+how we use the information internal and service-related usage.
+0.45 (we; use; the information internal and service-related usage)
+
+we use data you input into or that is collected by the service to perform the services requested in connection with those services.
+0.21 (we; use; data you input into or that is collected by the service)
+0.72 (data; input; into)
+0.88 (data; is collected; by the service)
+0.73 (the services; requested; )
+
+for example  if you input inventory data into one of the web-based offerings  we will use that information to display that inventory data to you when you use such web-based offering.
+0.62 (you; input; inventory data; into one of the web-based offerings)
+0.62 (you; use; such web-based offering)
+0.11 (we; will use; that information; to display that inventory data to you)
+0.17 Context(we will use,List([78, 89))):(we; will use that information to display; that inventory data to you when you use such web-based offering)
+
+we use your payment information to collect payment for the applicable services.
+0.26 (we; use; your payment information; to collect payment for the applicable services)
+0.39 Context(we use,List([0, 6))):(we; use your payment information to collect; payment for the applicable services)
+
+we may store and combine the personal information you submit or we collect via any part of the service with information from other spiceworks services or third parties (including sns) in order to deliver the service  to provide you with a better experience and to improve the quality of our services.
+0.19 (we; may store; )
+0.27 (we; combine; the personal information you submit)
+0.89 (the personal information; submit; you)
+0.19 (we; collect; )
+
+we may use anonymized aggregate personal or environment information to provide the services you've requested  including services that display customized content and advertising  and compare your environment configuration to those of the broader user community.
+0.26 (we; may use; anonymized aggregate personal or environment information; to provide the services you've requested  including services)
+0.26 Context(we may use,List([0, 10))):(we; may use anonymized aggregate personal or environment information to provide; the services you've requested  including services)
+0.59 (services; compare; your environment configuration; to those of the broader user community)
+0.88 (the services; 've requested; you)
+0.88 (services; display; customized content and advertising)
+
+such information does not identify you or your company individually.
+0.83 (such information; does not identify individually; you or your company)
+
+we may use browser usage information  which does not identify individual users or companies  to analyze trends  to administer the service  to track users' movements around the site  to gather demographic information about our user base as a whole  and to operate and improve the spiceworks technologies and services.
+0.57 (we; may use; browser usage information  which does not identify individual users or companies)
+0.90 (browser usage information; does not identify; individual users or companies)
+
+we may use and retain any data we collect to provide and improve our services.
+0.19 (we; may use; )
+0.27 (we; retain; any data we collect)
+0.86 (any data; collect; we)
+0.86 Context(any data collect,List([22, 41))):(any data; collect to provide; we)
+0.17 Context(any data collect,List([22, 41))):(we; to improve; our services)
+
+advertising.
+
+third party service providers that we use to serve ads on our behalf may also use information about your visits to our site and other websites to target advertisements for goods and services.
+0.82 (third party service providers that we use to serve ads on our behalf; may also use; information about your visits to our site and other websites)
+0.80 (third party service providers; use; to serve ads on our behalf)
+0.23 Context(third party service providers use,List([0, 41))):(we; to serve; ads; on our behalf)
+
+this anonymous information is collected through the use of a pixel tag  which is industry standard technology used by most major websites.
+0.75 (this anonymous information; is collected; )
+0.92 (a pixel tag; is; industry standard technology used by most major websites)
+0.91 (industry standard technology; used; by most major websites)
+
+no personally identifiable information is collected or used in this process.
+0.77 (no personally identifiable information; is collected; )
+0.91 (no personally identifiable information; used; L:in this process)
+
+they do not know the name  phone number  address  email address or any personally identifying information about the user.
+0.72 (they; do not know; the name  phone number  address  email address or any personally identifying information about the user)
+
+marketing.
+
+we may share anonymous aggregated information with third parties outside of spiceworks  such as advertisers and market research firms approved by spiceworks  for their marketing and promotional purposes.
+0.57 (we; may share; anonymous aggregated information; with third parties outside of spiceworks  such as advertisers and market research firms)
+0.85 (market research firms; approved; by spiceworks  for their marketing and promotional purposes)
+
+for example  we share with advertisers the breakdown of our user community by company size and industry.
+0.42 (we; share; with advertisers; the breakdown of our user community by company size and industry)
+
+when we share such information it does not identify you or your company individually.
+0.45 (we; share; such information)
+0.30 (it; does not identify individually; T:when we share such information)
+
+Registration for our website: Our Site may at times require a free registration, which enables full access to the information and resources offered on our Site.
+0.77 (Our Site; may require; a free registration, which enables full access to the information and resources; T:at times)
+0.90 (a free registration; enables; full access to the information and resources)
+0.86 (the information and resources; offered; L:on our Site)
+
+A unique email address must be supplied to register.
+0.80 (A unique email address; must be supplied; to register)
+0.74 (A unique email address; to register; )
+
+On certain pages, we offer visitors the opportunity to provide comments or other user-generated content on blogs and articles.
+0.70 (we; offer; visitors; the opportunity to provide comments or other user-generated content on blogs and articles; L:On certain pages)
+0.92 (visitors; to provide; comments or other user-generated content on blogs and articles)
+
+Any information that you disclose when posting a message to these areas, along with the screen name or ID used, becomes public.
+0.70 (Any information that you disclose; along used; ID)
+0.82 (Any information that you disclose when posting a message to these areas, along with the screen name or ID used; becomes; public)
+0.55 (you; disclose; T:when posting a message to these areas)
+0.45 Context(you disclose,List([21, 33))):(you; disclose posting; a message)
+
+In addition, the information that you disclose in these areas may be used by us for promotional and marketing purposes.
+0.89 (the information; disclose; L:in these areas)
+0.63 (the information that you disclose in these areas; may be used; by us; for promotional and marketing purposes)
+
+We are not responsible for any personally identifiable information that you choose to disclose in these public areas.
+0.45 (We; are not; responsible for any personally identifiable information)
+0.56 (you; choose; to disclose in these public areas)
+0.88 Context(you choose,List([72, 82))):(any personally identifiable information; to disclose; L:in these public areas)
+
+PBS uses cookies at the following times:  A cookie may automatically localize pbs.org to the PBS station nearest you.
+0.72 (A cookie; may automatically localize; pbs.org)
+0.82 Context(A cookie may automatically localize,List([42, 77))):(PBS; uses; cookies; T:at the following times)
+
+You can choose to have your computer remember a different station or no station at all at any time.
+0.52 (You; can choose; to have your computer remember a different station or no station at all at any time)
+0.52 Context(You can choose,List([0, 14))):(You; can choose to have; your computer remember a different station or no station at all at any time)
+0.69 Context(You can choose to have,List([0, 22))):(your computer; remember; a different station or no station at all at any time)
+
+If you watch a video clip or listen to an audio clip on pbs.org, a cookie may remember which media player and type of clip you prefer to use on your computer.
+0.68 (you; watch; a video clip)
+0.58 (you; listen; to an audio clip on pbs.org)
+0.76 (a cookie; may remember; you prefer to use on your computer)
+0.40 Context(a cookie may remember,List([65, 86))):(you; prefer; to use on your computer)
+0.40 Context(a cookie may remember you prefer,List([65, 133))):(you; prefer to use; L:on your computer)
+
+You can change your video and audio preferences at any time, or choose a player each time you view of listen to a clip.
+0.46 (You; can change; your video and audio preferences at any time)
+0.42 (You; choose; a player; T:each time you view of listen to a clip)
+0.69 (you; view; of listen to a clip; T:each time)
+0.55 Context(you view,List([90, 98))):(you; view of listen; to a clip)
+
+A cookie will tell us which pages you visit and the amount of time between each page visit.
+0.80 (A cookie; will tell; us; which pages you visit)
+0.27 Context(A cookie will tell,List([0, 18))):(you; visit; )
+
+The cookie does not remember any information about you or your computer.
+0.83 (The cookie; does not remember; any information about you or your computer)
+
+it just helps us at PBS monitor Site usage and traffic.
+0.31 (it; just helps; us)
+0.38 (Site usage; [is] monitor [of]; PBS)
+
+for example, it allows us to measure the number of repeat visitors to pbs.org in a given month.
+0.36 (it; allows; us to measure the number of repeat visitors to pbs.org in a given month)
+0.39 Context(it allows,List([13, 22))):(us; to measure; the number of repeat visitors)
+
+This data is only used in the aggregate.
+0.90 (This data; is only used; L:in the aggregate)
+
+When you visit Byliner.com,
+0.36 (you; visit; Byliner.com)
+
+we may send one or more cookies  a small text file containing a string of alphanumeric characters  to your computer that uniquely identifies your browser and lets Byliner help you log in faster and enhance your navigation through the site.
+0.45 (we; may send; one or more cookies)
+0.52 (s Byliner; enhance; your navigation; through the site)
+0.86 (a small text file; containing; a string of alphanumeric characters  to your computer)
+0.45 (your computer; uniquely identifies; your browser)
+0.61 (your computer; let; s Byliner help you log in faster and enhance your navigation through the site)
+0.49 Context(your computer let,List([102, 161))):(s Byliner; help faster; you log in)
+
+A cookie does not collect personal information about you.
+0.83 (A cookie; does not collect; personal information about you)
+
+Byliner uses both session cookies and persistent cookies.
+0.92 (Byliner; uses; both session cookies and persistent cookies)
+
+A persistent cookie remains on your hard drive after you close your browser.
+0.85 (A persistent cookie; remains; on your hard drive; T:after you close your browser)
+0.46 (you; close; your browser)
+
+Persistent cookies may be used by your browser on subsequent visits to the site.
+0.83 (Persistent cookies; may be used; by your browser; T:on subsequent visits to the site)
+
+Persistent cookies can be removed by following your web browsers directions.
+0.73 (Persistent cookies; can be removed; )
+
+A session cookie is temporary and disappears after you close your browser.
+0.83 (A session cookie; is; temporary)
+0.82 (A session cookie; disappears; T:after you close your browser)
+0.46 (you; close; your browser)
+
+You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent.
+0.52 (You; can reset; your web browser; to refuse all cookies or to indicate when a cookie is being sent)
+0.55 Context(You can reset,List([0, 13))):(You; can reset your web browser to refuse; all cookies)
+0.45 Context(You can reset,List([0, 13))):(You; can reset your web browser to to indicate; when a cookie is being sent)
+0.68 Context(You can reset to to indicate,List([0, 67))):(a cookie; is being sent; )
+
+However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+0.83 (some features of the Service; may not function properly; )
+0.85 (the ability to accept cookies; is; disabled)
+
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site.
+0.21 (We; use; cookies, clear gifs, and log file information; to: (a) remember information so that you will not have to re-enter it during your visit or the next time)
+0.42 (you; to re-enter; it; T:during your visit or the next time)
+0.62 (you; visit; the site)
+
+(b) provide custom, personalized content and information.
+
+(c) target and re-target advertising on the Byliner service as well as third party services.
+
+(d) monitor the effectiveness of our service.
+
+(e) monitor aggregate metrics such as total number of visitors and traffic.
+
+(f) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. and (g) help you efficiently access your information after you sign in.
+0.83 (technology problems; reported; by our users or engineers)
+0.32 (you; sign in; )
+0.69 (our users or engineers; are associated; with the IP addresses)
+0.94 (the IP addresses; controlled; by a specific web company or ISP)
+
+We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Byliner services.
+0.39 (We; may share; non-personally identifiable information (such as anonymous usage data; with interested third parties)
+0.11 Context(We may share,List([0, 12))):(We; may share non-personally identifiable information (such as anonymous usage data referring; )
+
+You may browse the Site without registering for an account.
+0.62 (You; may browse; the Site)
+
+You will be required to register for an account to use certain features of the Site, such as purchasing a ticket.
+0.72 (You; will be required; to register for an account to use certain features of the Site, such as purchasing a ticket)
+0.63 (You; to register; for an account; to use certain features of the Site, such as purchasing a ticket)
+0.63 Context(You to register,List([0, 32))):(You; to register for an account to use; certain features of the Site, such as purchasing a ticket)
+
+Your account username may not include the name of another person with the intent to impersonate that person, or be offensive, vulgar or obscene.
+0.66 (Your account username; may not include; the name of another person with the intent)
+
+Your account username and password are personal to you.
+0.56 (Your account username and password; are; personal to you)
+
+You will be responsible for the confidentiality and use of your username and password, and for all activities (including purchases) that are conducted through your account.
+0.58 (You; will be; responsible for the confidentiality and use of your username and password, and for all activities (including purchases)
+0.68 (purchases; are conducted; )
+
+You may not transfer or sell access to your account.
+0.32 (You; may not transfer; )
+0.49 (You; sell; access to your account)
+
+We will not be liable for any harm related to disclosure of your username or password or the use by anyone else of your username or password.
+0.45 (We; will not be; liable for any harm)
+0.89 (any harm; related; to disclosure of your username or password or the use by anyone else of your username or password)
+
+You may not use another user's account without that user's permission.
+0.62 (You; may not use; another user's account)
+
+You will immediately notify us in writing if you discover any unauthorized use of your account or other account-related security breach.
+0.50 (You; will notify; us; in writing; T:immediately)
+0.58 (you; discover; any unauthorized use of your account or other account-related security breach)
+
+We may require you to change your username and/or password if we believe your account is no longer secure or if we receive a complaint that your username violates someone else's rights.
+0.21 (we; receive; a complaint that your username violates someone else's rights)
+0.46 (you; to change; your username)
+0.64 (your username; violates; someone else's rights)
+0.23 (you; to password; )
+0.17 (we; believe; your account is no longer secure or if we receive a complaint that your username violates someone else's rights)
+0.40 Context(we believe,List([62, 72))):(your account; is; no longer secure)
+
+You will have no ownership in your account or your username.
+0.46 (You; will have; no ownership in your account or your username)
+
+We may refuse registration, cancel an account or deny access to the Site for any reason.
+0.39 (We; may refuse; registration)
+0.29 Context(We may refuse,List([0, 13))):(We; may refuse registration cancel; an account)
+0.29 Context(We may refuse,List([0, 13))):(We; may refuse registration deny; access to the Site for any reason)
+
+Code of Conduct You agree that you will comply with all applicable laws, rules and regulations, and that you will not:  Restrict or inhibit any other person from using the Site; Use the Site for any unlawful purpose; Express or imply that any statements you make are endorsed by us, without our prior written consent; Impersonate any person or entity, whether actual or fictitious, including any employee or representative of our company; Submit (a) any content or information that is unlawful, fraudulent, libelous, defamatory, or otherwise objectionable, or infringes our or any third party's intellectual property or other rights.
+0.32 (You; agree; that you will comply with all applicable laws, rules and regulations, and that you will not:  Restrict or inhibit any other person from using the Site; Use the Site for any unlawful purpose; Express or imply that any statements you make are endorsed by us, without our prior written consent; Impersonate any person or entity, whether actual or fictitious, including any employee or representative of our company; Submit (a) any content or information that is unlawful, fraudulent, libelous, defamatory, or otherwise objectionable, or infringes our or any third party's intellectual property or other rights)
+0.55 Context(You agree,List([16, 25))):(you; will comply; with all applicable laws, rules and regulations)
+0.58 (you; Use; the Site; for any unlawful purpose)
+0.90 (Submit; (a); any content or information that is unlawful, fraudulent, libelous, defamatory, or otherwise objectionable)
+0.23 (you; will not Restrict; )
+0.89 (Submit; infringes; our or any third party's intellectual property or other rights)
+0.32 (you; make; )
+0.58 (you; inhibit; any other person; from using the Site)
+0.88 (any content or information; is; unlawful, fraudulent, libelous, defamatory, or otherwise objectionable)
+
+(b) any non-public information about companies without authorization.
+
+or (c) any advertisements, solicitations, chain letters, pyramid schemes, surveys, contests, investment opportunities or other unsolicited commercial communication; Submit, or provide links to, any postings containing material that could be considered harmful, obscene, pornographic, sexually explicit, indecent, lewd, violent, abusive, profane, insulting, threatening, harassing, hateful or otherwise objectionable, includes the image or likeness of individuals under 18 years of age, encourages or otherwise depicts or glamorizes drug use (including alcohol and cigarettes), characterizes violence as acceptable, glamorous or desirable, or contains any personal contact information or other personal information identifying any third party; Submit, or provide links to, any postings containing material that harasses, victimizes, degrades, or intimidates an individual or group of individuals on the basis of religion, race, ethnicity, sexual orientation, gender, age, or disability; Engage in spamming or flooding; Harvest or collect information about Site users; Order a number of tickets for an event that exceeds the stated limit for that event.
+0.94 (Submit, or provide links to; Order; a number of tickets; for an event)
+0.74 (an event; exceeds; the stated limit for that event)
+0.77 (any postings; containing; material that could be considered harmful)
+0.94 (any postings containing material; includes; the image or likeness of individuals under 18 years of age)
+0.93 (Submit, or provide links to; Engage; in spamming or flooding)
+0.68 (material; harasses; )
+0.81 (any postings; containing; material that harasses, victimizes, degrades, or intimidates an individual or group of individuals on the basis of religion, race, ethnicity, sexual orientation, gender, age, or disability)
+0.88 Context(any postings containing,List([772, 795))):(any postings containing material; intimidates; an individual or group of individuals)
+
+Use any password or code to participate in a presale or other offer on the Site if you did not receive the password or code from us or if you violate the terms of the presale or offer.
+0.92 (any password or code; to participate; in a presale or other offer on the Site)
+0.46 (you; did not receive; the password or code; from us)
+0.62 (you; violate; the terms of the presale or offer)
+
+or Use any area of the Site for commercial purposes, such as to conduct sales of tickets, products or services.
+
+Ownership of Content and Grant of Conditional License Please review our Purchase Policy, which will govern your purchase of any tickets or other products through the Site, including any refunds or exchanges.
+0.93 (Ownership of Content and Grant of Conditional License; review; our Purchase Policy)
+0.66 (our Purchase Policy; will govern; your purchase of any tickets or other products through the Site, including any refunds or exchanges)
+
+We may impose conditions on your use of any coupon, promotional code or gift card.
+0.42 (We; may impose; conditions; on your use of any coupon, promotional code or gift card)
+
+You will pay all charges incurred by you or any users of your account and credit card (or other applicable payment mechanism) at the price(s) in effect when such charges are incurred, including any applicable taxes.
+0.58 (You; will pay; all charges incurred by you or any users of your account and credit card (or other applicable payment mechanism); at the price; T:when such charges are incurred, including any applicable taxes)
+0.89 (all charges; incurred; by you or any users of your account and credit card (or other applicable payment mechanism)
+0.73 (such charges; are incurred; )
+
+You may only use credit or debit cards, gift cards or vouchers that belong to you or to people who expressly authorize you to use such payment methods.
+0.34 (You; may only use; credit or debit cards, gift cards or vouchers that belong to you or to people)
+0.89 (credit or debit cards, gift cards or vouchers; belong; to you or to people)
+0.86 (people; expressly authorize; to use such payment methods)
+0.62 (you; to use; such payment methods)
+
+You may use tm ticket cash only in accordance with the Code Terms of Use found at Ticketmaster.com/ticketcash.
+0.62 (You; may use; tm ticket cash)
+0.86 (the Code Terms of Use; found; L:at Ticketmaster.com)
+
+You may not attempt to conceal your identity by using multiple Internet Protocol addresses or email addresses to conduct transactions on the Site.
+0.56 (You; may not attempt; to conceal your identity by using multiple Internet Protocol addresses or email addresses to conduct transactions on the Site)
+0.40 Context(You may not attempt,List([0, 19))):(You; may not attempt to conceal; your identity)
+
+You will not hold us liable if you do not comply with laws related to your transactions.
+0.46 (You; will not hold; us liable if you do not comply with laws)
+0.62 (you; do not comply; with laws)
+0.70 (laws; related; to your transactions)
+
+We may provide law enforcement with information you provide to us related to your transactions to assist in any investigation or prosecution of you.
+0.45 (We; may provide; law enforcement)
+0.46 (you; provide; to us)
+0.56 (information you provide to us; related; to your transactions; to assist in any investigation or prosecution of you)
+
+If we are unable to verify or authenticate any information or tickets you provide during any registration, ordering, purchase, ticket posting, sale, authentication, delivery, payment or remittance process, or any other process, or if we are no longer able to verify or authorize your credit card or bank account information, your tickets may be cancelled, we may refuse to honor all pending and future ticket purchases made with those credit card or bank accounts and/or via any online accounts associated with those credit card or bank accounts.
+0.45 (we; are; unable to verify or authenticate any information or tickets)
+0.17 (we; to verify; )
+0.17 (we; to verify; )
+0.20 (we; to authorize; your credit card or bank account information)
+0.28 (we; to authenticate; any information or tickets you provide during any registration, ordering, purchase, ticket posting, sale, authentication, delivery, payment or remittance process, or any other process, or)
+0.34 (your tickets; may be cancelled; )
+0.94 (any information or tickets; provide; T:during any registration, ordering, purchase, ticket posting, sale, authentication, delivery, payment or remittance process, or any other process)
+0.79 (any online accounts; associated; with those credit card or bank accounts)
+0.39 (we; may refuse; to honor all pending and future ticket purchases)
+0.27 Context(we may refuse,List([356, 369))):(we; may refuse to honor; all pending and future ticket purchases made with those credit card or bank accounts and/or via any online accounts)
+0.42 (we; are; T:no longer; able to verify or authorize your credit card or bank account information)
+
+We may also prohibit you from using the Site.
+0.23 (We; may prohibit; you; from using the Site)
+0.62 (you; from using; the Site)
+
+Forums and User Content we use cookies to anonymously track traffic through our site.
+0.31 (we; use; cookies; to anonymously track traffic through our site)
+
+your web browser also provides information such as your ip address  browser version and language.
+0.62 (your web browser; provides; information)
+
+all of this is anonymous.
+0.40 (all of this; is; anonymous)
+
+we may also disclose non identifiable information      for the same reasons we might share personal information    with business partners for their own analysis and research    to facilitate targeted content and ads  or    with third party ad servers to place our ads and or ads of our merchants or business partners on the site and on third party sites  and to analyze the effectiveness of those ads we do not share personal information with third party ad servers  however  third party ad servers may automatically collect non identifying information about your visit to the site and other websites  your device address  your internet service provider and the browser you use to visit the site  they do this by using cookies  clear gifs and other technologies  information collected may be used  among other things  to deliver advertising targeted to your interests and to better understand the usage and visits to the site and the other websites tracked by these third parties  this privacy statement does not cover the collection methods or use of the information collected by third party ad servers  and groupon is not responsible for cookies or clear gifs in third party ads  we encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of cookies and other technologies  if you would like more information about this practice and to know your choices about not having this information used by third party advertisers  please visit http www networkadvertising org Other information.
+0.62 (you; would like; more information about this practice)
+0.90 (information collected; may be used; among other things)
+0.90 (the information; collected; by third party ad servers)
+0.31 (we; might share; personal information; with business partners for their own analysis and research)
+0.45 (we; do not share; personal information; with third party ad servers)
+0.90 (this information; used; by third party advertisers)
+0.91 (groupon; is not; responsible for cookies or clear gifs in third party ads)
+0.36 Context(groupon is not,List([1109, 1123))):(we; encourage; you; to review the privacy policies or statements of these third party advertising companies to learn more about their use of cookies and other technologies)
+0.86 (the browser; use; to visit the site)
+0.48 Context(the browser use,List([658, 677))):(you; to visit; the site  they do this by using cookies  clear gifs and other technologies)
+0.71 (information; collected; )
+0.91 (the other websites; tracked; by these third parties)
+0.82 (advertising; targeted; to your interests)
+0.43 (they; do; this)
+0.42 (you; to know; your choices)
+0.67 (you; to review; the privacy policies or statements of these third party advertising companies)
+0.41 Context(you to review,List([1195, 1208))):(you; to review the privacy policies or statements of these third party advertising companies to learn; more about their use of cookies and other technologies)
+0.91 (this privacy statement; does not cover; the collection methods or use of the information)
+
+If you use our website, we may collect information about the browser you're using.
+0.46 (you; use; our website)
+0.45 (we; may collect; information about the browser)
+0.88 (the browser; 're using; you)
+
+We might look at what site you came from, or what site you visit when you leave us.
+0.45 (We; might look; at what site)
+0.36 (you; came; from)
+0.46 (you; visit; T:when you leave us)
+0.46 (you; leave; us)
+
+If you use our mobile app, we may collect your GPS location or your device's unique identifier.
+0.46 (you; use; our mobile app)
+0.35 (we; may collect; your GPS location or your device's unique identifier)
+
+We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running.
+0.32 (We; might collect; the type of mobile device you are using, or the version of the operating system)
+0.32 (you; are using; )
+0.39 (your computer or device; is running; )
+
+We might look at how often you use the app and where you downloaded it.
+0.31 (We; might look; at how often you use the app)
+0.46 (you; use; the app and where you downloaded it)
+0.46 (you; downloaded; it)
+
+We collect information in different ways.
+0.45 (We; collect; information)
+
+We collect information from you passively.
+0.31 (We; collect; information; from you; T:passively)
+
+We use tracking tools like browser cookies and web beacons.
+0.45 (We; use; tracking tools like browser cookies and web beacons)
+
+To learn more about these tools and to control them, please click here.
+
+We use information for marketing purposes.
+0.45 (We; use; information; for marketing purposes)
+
+For example, we might send you information about special promotions or offers.
+0.31 (we; might send; you; information about special promotions or offers)
+
+We might also tell you about new features or products.
+0.23 (We; might tell; you; about new features or products)
+
+These might be our own offers or products, or third-party offers or products we think you might find interesting.
+0.44 (These; might be; our own offers or products, or third-party offers or products)
+0.31 Context(These might be,List([0, 14))):(we; think; you might find interesting)
+0.30 Context(These might be we think,List([0, 85))):(you; might find; interesting)
+
+Or, for example, if you buy tickets from us we'll enroll you in our newsletter.
+0.46 (you; buy; tickets; from us)
+0.31 (we; 'll enroll; you; in our newsletter)
+
+We may use push notifications and your location information on our mobile apps to send you alerts regarding local events.
+0.36 (We; may use; push notifications and your location information on our mobile apps)
+0.26 Context(We may use,List([0, 10))):(We; may use push; notifications and your location information on our mobile apps)
+
+To learn about your choices for these communications, read the choices section below.
+
+you agree not to use any device  software or routine to interfere or attempt to interfere with the proper working of the service or any transaction being conducted on the service  or with any other person's use of the service.
+0.73 (any transaction; being conducted; )
+0.66 (you; agree; not to use any device  software or routine to interfere or attempt to interfere with the proper working of the service or any transaction)
+0.66 Context(you agree,List([0, 9))):(you; agree not to use; any device  software or routine; to interfere or attempt to interfere with the proper working of the service or any transaction)
+0.27 Context(you agree not to use,List([0, 20))):(you; agree not to use any device  software or routine to interfere; )
+
+you may not forge headers or otherwise manipulate identifiers in order to disguise the origin of any message or transmittal you send to spiceworks on or through the service or any service offered on or through the service.
+0.62 (you; may not forge; headers)
+0.58 (you; otherwise manipulate; identifiers; in order)
+0.73 (any service; offered; )
+
+you may not pretend that you are  or that you represent  someone else  or impersonate any other individual or entity.
+0.62 (you; represent; someone else)
+0.58 (you; impersonate; any other individual or entity)
+0.28 (you; may not pretend; that you are  or that you represent  someone else  or impersonate any other individual or entity)
+0.27 Context(you may not pretend,List([0, 19))):(you; are; )
+
+you may not use the service or any content for any purpose that is unlawful or prohibited by these terms of use  or to solicit the performance of any illegal activity or other activity which infringes the rights of spiceworks or others.
+0.62 (you; may not use; the service or any content for any purpose)
+0.91 (any purpose; is; unlawful or prohibited by these terms of use)
+0.89 (other activity; infringes; the rights of spiceworks or others)
+
+if you chose to complete a spiceworks user profile  a project page or a profile page  you agree to accurately represent yourself  your background and experience  your work history and company affiliation  your certifications and areas of expertise  and any other personal or company information you chose to share.
+0.67 (you; chose; to complete a spiceworks user profile  a project page or a profile page)
+0.56 Context(you chose,List([3, 12))):(you; chose to complete; a spiceworks user profile)
+0.31 (you; chose; to share)
+0.88 Context(you chose,List([295, 304))):(any other personal or company information; to share; you)
+0.52 (you; agree; to accurately represent yourself  your background and experience  your work history and company affiliation  your certifications and areas of expertise  and any other personal or company information)
+0.40 Context(you agree,List([86, 95))):(you; agree to accurately represent; yourself)
+0.41 Context(you agree,List([86, 95))):(you; agree to experience; your work history and company affiliation  your certifications and areas of expertise  and any other personal or company information)
+
+you also agree not to impersonate any person  company or entity  or falsely state or otherwise misrepresent yourself  your age or your affiliation with any person  company or entity.
+0.52 (you; also agree; not to impersonate any person  company or entity  or falsely state or otherwise misrepresent yourself  your age or your affiliation with any person  company or entity)
+0.55 Context(you also agree,List([0, 14))):(you; also agree not to impersonate; any person  company or entity  or falsely state)
+0.30 Context(you also agree,List([0, 14))):(you; also agree to misrepresent; yourself; your age or your affiliation)
+
+intellectual property ownership We operate cameras in our Retail Stores for security and operational purposes.
+0.31 (We; operate; cameras; L:in our Retail Stores for security and operational purposes)
+
+Except for security and loss-prevention purposes, we do not use these cameras to identify you personally.
+0.26 (we; do not use; these cameras; to identify you personally)
+0.25 Context(we do not use,List([50, 63))):(we; do not use these cameras to identify personally; you)
+
+We or our partners may also use Flash cookies (also known as Local Stored Objects) or other similar technologies.
+0.73 (We or our partners; may use; Flash cookies (also known as Local Stored Objects) or other similar technologies)
+0.94 (Flash cookies; known; as Local Stored Objects)
+
+A Flash cookie is a small data file placed on a computer using Adobe Flash or similar technology that may be built into your computer or downloaded or installed by you to your computer.
+0.95 (A Flash cookie; is; a small data file placed on a computer)
+0.78 (similar technology; installed; to your computer)
+0.92 (a small data file; placed; on a computer)
+0.92 (a computer; using; Adobe Flash or similar technology)
+0.81 (similar technology; may be built; into your computer)
+0.70 (similar technology; downloaded; )
+
+We use these technologies to personalize and enhance your online experience, facilitate processes, and personalize and store your settings.
+0.36 (We; use; these technologies; to personalize and enhance your online experience, facilitate processes, and personalize and store your settings)
+0.16 Context(We use,List([0, 6))):(We; use these technologies to personalize; )
+0.18 Context(We use,List([0, 6))):(We; use these technologies to enhance; your online experience)
+0.29 Context(We use,List([0, 6))):(We; use these technologies to facilitate; processes)
+
+Flash cookies may help our website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys.
+0.92 (Flash cookies; may help; our website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys)
+0.93 (for example, set volume preference; associated; with a video experience)
+
+They help us improve our sites by measuring which areas are of greatest interest to customers.
+0.60 (They; help; us improve our sites by measuring which areas are of greatest interest to customers)
+0.26 Context(They help,List([0, 9))):(us; improve; our sites)
+
+They may be recognized by other sites or by our marketing or business partners.
+0.58 (They; may be recognized; by other sites or by our marketing or business partners)
+
+Flash cookies are different from browser cookies and the cookie management tools provided by your browser may not remove Flash cookies.
+0.90 (Flash cookies; are; different from browser cookies)
+0.86 (the cookie management tools; provided; by your browser)
+0.79 (the cookie management tools provided by your browser; may not remove; Flash cookies)
+
+Click here to learn how to manage privacy and storage settings for Flash cookies.
+
+If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain features and services that make your online experience more efficient and enjoyable.
+0.66 (you; disable; Flash cookies or other similar technologies)
+0.62 (you; may not have; access to certain features and services)
+0.84 (certain features and services; make; your online experience more efficient and enjoyable)
+
+You may be required to register for an account on the Site in order to take advantage of certain features of the Site, such as purchasing Products or using our chat rooms, message boards and blogs.
+0.72 (You; may be required; to register for an account on the Site in order)
+0.58 (You; to register; for an account on the Site in order)
+
+If you choose to register on the Site or if you otherwise provide information on the Site, you agree to (a) provide true, accurate, current and complete information about yourself as prompted by the Site, and (b) as permitted, maintain and promptly update such information to keep it true, accurate, current and complete.
+0.56 (you; choose; to register on the Site)
+0.56 Context(you choose,List([3, 13))):(you; choose to register; on the Site)
+0.62 (you; otherwise provide; information on the Site)
+0.52 (you; agree; to (a) provide true, accurate, current and complete information about yourself)
+0.52 Context(you agree,List([91, 100))):(you; agree to (a); provide true, accurate, current and complete information about yourself as prompted by the Site)
+0.52 Context(you agree to (a),List([91, 107))):(you; agree to (a) provide; true, accurate, current and complete information about yourself)
+0.28 (you; maintain; )
+
+If you provide any information to SB that is false, inaccurate, outdated or incomplete, or SB has reasonable grounds to suspect that such information is false, inaccurate, outdated or incomplete, SB has the right to suspend or terminate your account and prohibit any and all current or future use of the Service (or any portion thereof) by you.
+0.47 (you; provide; any information to SB that is false, inaccurate, outdated or incomplete, or SB has reasonable grounds)
+0.47 Context(you provide,List([3, 14))):(you; provide to SB; any information to SB that is false, inaccurate, outdated or incomplete, or SB has reasonable grounds)
+0.89 (SB; has; the right to suspend or terminate your account and prohibit any and all current or future use of the Service (or any portion thereof)
+0.29 (that; is; false, inaccurate, outdated or incomplete, or SB has reasonable grounds)
+0.82 (SB; has; reasonable grounds to suspect that such information is false, inaccurate, outdated or incomplete)
+
+Any registration or other information you provide to SB is subject to our Privacy Policy.
+0.66 (you; provide; to SB)
+0.90 (Any registration or other information; is; subject to our Privacy Policy)
+
+For more information, see our fullPrivacy Policy.
+
+Our Privacy Policy is hereby incorporated into the Terms by this reference.
+0.72 (Our Privacy Policy; is hereby incorporated; into the Terms; by this reference)
+
+Member Account and Password
+

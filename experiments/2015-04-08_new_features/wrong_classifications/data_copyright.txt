@@ -1,0 +1,22 @@
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Subject to your acceptance of these Terms, Kinja grants you a non-exclusive, limited, non-transferable, freely revocable license to use the Service for your personal, noncommercial (i.e.
+you may not use the Service to provide or serve or permit others to provide or serve ads or contests or sweepstakes) use only and as permitted by the features of the Service.
+Kinja reserves all rights not expressly granted herein in the Service and the Kinja Content.
+Kinja reserves the right to terminate your license to use the Service at any time and for any reason or in the future to charge for commercial usage.
+3.
+Privacy
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Please note that you will be liable for damages (including costs and attorneys' fees) if you materially misrepresent that any material on our sites is infringing your copyrights.
+We also reserve the right to publish your letter on the Kinja site(s).
+8.
+Termination of Agreement
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+19.
+We may in our absolute discretion accept or reject any product review which may be submitted to us and may edit any such review for both length and/or content as we see fit.
+All reviews are submitted on the basis that Argos or any member of the Group may use the review in any format and for any purpose as it sees fit and for any marketing or promotional purposes. General

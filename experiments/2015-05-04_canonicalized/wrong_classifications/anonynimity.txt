@@ -1,0 +1,7 @@
+--------------------------------------------------------------------------------
+Got [1] expected [0]
+
+small pieces of code called web beacons (also referred to as clear gifs  pixel tags and single-pixel gifs)  which are typically one-pixel images embedded in web pages or emails  are used in conjunction with cookies on the service and our emails to help us manage and monitor our online advertising and wider business arrangements with third parties and for the purpose of measuring and analyzing site usage and activity  and improving the quality of the service.
+these files allow us to aggregate anonymous information relating to advertising and website usage.
+for example  the type of information collected includes information relating to page views.
+these web beacons may be used to recognize third party cookies and inform us and or third parties of which advertisement or link brought you to the site  allowing us to monitor the efficacy of our business relationships with third parties.

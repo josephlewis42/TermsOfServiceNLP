@@ -1,0 +1,46 @@
+Multiclass Classification over Policy/Business Changes, Data Copyright, Rights/Responsibility, Definitions, Personal Information, Hold Harmless, Law Enforcement, Data Collection, Third Party
+Correct mean: 0.901282051282
+             precision    recall  f1-score   support
+
+          0       0.80      0.40      0.53        10
+          1       0.57      0.33      0.42        12
+          2       0.40      0.07      0.12        28
+          3       0.00      0.00      0.00        21
+          4       0.33      0.17      0.22        36
+          5       0.76      0.38      0.51        34
+          6       0.40      0.22      0.29         9
+          7       0.56      0.17      0.26        30
+          8       0.46      0.32      0.38        34
+          9       0.67      0.76      0.72       157
+
+avg / total       0.55      0.45      0.47       371
+
+0 - Policy/Business Changes
+1 - Data Copyright
+2 - Rights/Responsibility
+3 - Definitions
+4 - Personal Information
+5 - Hold Harmless
+6 - Law Enforcement
+7 - Data Collection
+8 - Third Party
+9 - None
+
+
+Multiclass Classification over Policy/Business Changes, Data Copyright, Rights/Responsibility, Definitions, Personal Information, Hold Harmless, Law Enforcement, Data Collection, Third Party
+Correct mean: 0.901282051282
+                         precision    recall  f1-score   support
+
+Policy/Business Changes       0.80      0.40      0.53        10
+         Data Copyright       0.57      0.33      0.42        12
+  Rights/Responsibility       0.40      0.07      0.12        28
+            Definitions       0.00      0.00      0.00        21
+   Personal Information       0.33      0.17      0.22        36
+          Hold Harmless       0.76      0.38      0.51        34
+        Law Enforcement       0.40      0.22      0.29         9
+        Data Collection       0.56      0.17      0.26        30
+            Third Party       0.46      0.32      0.38        34
+                   None       0.67      0.76      0.72       157
+
+            avg / total       0.55      0.45      0.47       371
+

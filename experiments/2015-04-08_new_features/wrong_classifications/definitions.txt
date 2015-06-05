@@ -1,0 +1,144 @@
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+4.
+Prohibition Against Rogue Programming.You shall not post, transmit or make available in any way through PBS ONLINE any software or other materials which contain a computer virus, trojan horse, timebomb, worm or other rogue programming ("Rogue Programming").
+PBS has no obligation to detect the presence of any Rogue Programming.
+Any downloading of software or other materials or any other use of the Information on PBS ONLINE is at your risk, and you are advised to take adequate precautions to minimize any loss to your system caused by Rogue Programming, including use of anti-virus programs and proper backup of files.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+6.
+Podcasts.The MP3 audio files and XML files that together comprise a PBS-hosted podcast (herein referred to as the "podcast") are protected by U.S.
+and international copyright laws.
+All rights to podcast(s) originating from the producer, including the content and technology included therein, are reserved to the producer.
+PBS-hosted podcast(s) are available for personal, noncommercial use only.
+You may link to PBS podcast(s) from your personal Web site and audio files may be downloaded and played on any system for personal, noncommercial purposes, provided that, unless permission to do so is expressly stated:
+(a) you do not modify or delete any of the podcast content nor individual audio files;(b) you do not redistribute the MP3 audio files made available as part of the podcast nor any audio file downloaded from PBS.org;(c) the use or display does not suggest that PBS, local PBS member stations nor the producer of the podcast(s) promotes or endorses any third party causes, ideas, Web sites, products or services;(d) audio files made available for download are not to be re-produced, edited, re-transmitted, or in any way repurposed without prior consent from the producer and PBS.
+For permission requests, please complete ourfeedback formand select Submit a Copyright or Permissions Request from the drop-down menu.
+Producers and PBS reserve the right to discontinue providing podcast(s) and to require that you cease accessing or using the podcast(s) or any elements of the podcast at any time for any reason.
+The podcast producer and/or PBS may modify any of the terms and conditions contained herein, at any time and at our sole discretion, and such terms and conditions will become binding when placed online.
+Under no circumstances and under no legal theory, tort, contract, strict liability, or otherwise, shall the podcast producer, PBS, nor any local PBS station be liable to you or any other person for any indirect, special, incidental, or consequential damages of any character including, without limitation, damages for lost profits, loss of goodwill, work stoppage, accuracy of services, content or results, computer failure or malfunction, damages resulting from disabling of the services provided as part of the podcast(s).
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+You provide us information about yourself, such as your name and email address, when you register with the Service.
+If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
+In addition, you may choose to add information about yourself to your profile that you can then share with others..
+You can modify or delete your profile setting for this information any time in the Settings section of the site after you have signed in using your personal password.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Log file information is automatically reported by your browser each time you access a web page.
+When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website.
+These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, referring/exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Clear Gifs Information
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+When you use the Service, we may employ clear gifs (a.k.a.
+Web Beacons), which are used to track the online usage patterns of our users anonymously.
+No personally identifiable information from your Byliner account is collected using these clear gifs.
+In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.
+The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Byliner better for our users.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Byliner may use certain information about you and/or your User Content without identifying you as an individual to third parties.
+We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Byliner may develop special sites in cooperation with other companies.
+If you register at these co-branded sites, we may share your registration information (such as name and email address) with that company.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site.
+(b) provide custom, personalized content and information.
+(c) target and re-target advertising on the Byliner service as well as third party services.
+(d) monitor the effectiveness of our service.
+(e) monitor aggregate metrics such as total number of visitors and traffic.
+(f) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
+and (g) help you efficiently access your information after you sign in.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+Byliner allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Byliner site.
+These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Byliner.
+They automatically receive your IP address when this happens.
+They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+InfoSpace, LLC ("InfoSpace") owns and operates a number of different sites on the Web (each, an "InfoSpace Site").
+InfoSpace is strongly committed to protecting the privacy of its user community.
+The intent of this privacy policy is to detail the information InfoSpace may gather about individuals who visit the InfoSpace Sites, how that information is used, and InfoSpace's disclosure practices.
+Please note that this policy applies only to the InfoSpace Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the InfoSpace Sites. Anonymous User Information
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+InfoSpace offers certain personalization services within its directory services (i.e., White Pages and Yellow Pages) that enable you to give us your geographic location so we can remember it for you when you return to use our service.
+For example, if we know that you are searching from Bellevue, Washington for a particular company, we will pre-populate the city and state fields with Bellevue and Washington.
+While you are not required to use this feature of the directory services, the information enables us to provide you with a more efficient experience on the InfoSpace Sites.
+In addition, InfoSpace allows you to update, correct any errors in the listings, or include yourself in the directory services.
+In order to make these modifications, you may provide InfoSpace with certain individual user information that InfoSpace will use, along with its affiliates and third party service providers, to modify and update your information in the directory services database.
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+we do not share personal information with third party ad servers 
+however  third party ad servers may automatically collect non identifying information about your visit to the site and other websites  your device address  your internet service provider and the browser you use to visit the site 
+they do this by using cookies  clear gifs and other technologies 
+information collected may be used  among other things  to deliver advertising targeted to your interests and to better understand the usage and visits to the site and the other websites tracked by these third parties 
+this privacy statement does not cover the collection methods or use of the information collected by third party ad servers  and groupon is not responsible for cookies or clear gifs in third party ads 
+we encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of cookies and other technologies 
+if you would like more information about this practice and to know your choices about not having this information used by third party advertisers  please visit http www networkadvertising org
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+affiliate  means a company owned and or controlled by groupon  inc
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+business partners  means  collectively  third parties with whom we conduct business  such as merchants  co marketers  distributors  and resellers
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+device data  means information concerning a device you use to access  use  or interact with the site  such as operating system type or mobile device model  browser type  domain  and other system settings  the language your system uses and the country and time zone of your device  geo location  unique device identifier or other device identifier  mobile phone carrier identification  and device software platform and firmware information
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+non identifying information  means information that alone cannot identify you  including data from cookies  pixel tags and web beacons  and device data 
+non identifying information may be derived from personal information
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+online communities  means  collectively  our social networking pages or accounts  forums  bulletin boards  discussion groups  chat rooms or other methods of communication that may be offered on or linked through the site
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+personal information  means information about you that specifically identifies you or  when combined with other information we have  can be used to identify you 
+this includes the following types of information
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+financial information   information collected from you as needed to process payments for groupon vouchers or other products or services that you buy  or as provided by you to administer your participation in optional services and programs  such as your payment card number  expiration date  and card verification number
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+vendors  means  collectively  third parties that perform business operations on behalf of groupon  such as transaction processing  billing  mailing  communications services  e mail  direct mail  etc  marketing  data processing and analytics  servicing  collections  or ad management
+--------------------------------------------------------------------------------
+Got [0] expected 1
+
+The Website is operated by Argos Limited ("Argos/we/our/us") a company incorporated in England (Company Number 01081551) with registered office at 489-499 Avebury Boulevard, Central Milton Keynes, MK9 2NW.
+Argos is a member of the Home Retail Group ("the Group").
+The Group ("we", "us") includes Argos Limited, Argos Business Solutions Limited, Home Retail Group Card Services Limited, Home Retail Group Insurance Services Limited, Home Retail Group Personal Finance Limited, ARG Personal Loans Limited, Homebase Limited, Argos Business Solutions Limited, Habitat Retail Limited and their associated companies.
+A full list of companies is available upon request (See 'Contact Us' below).
+--------------------------------------------------------------------------------
+Got [1] expected 0
+
+20.
+You have the right to see personal data (as defined in the Data Protection Act) that we keep about you upon receipt of a written request and payment of a fee (see Contact us below).
